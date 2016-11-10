@@ -1,0 +1,1521 @@
+   1-1/2-D BALDUR   BALDPN S    version 
+ 62270a01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sens
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB mod
+ Carbon Zeff=2.1, t = 4.025 secs                
+
+    1 update equilibrium in sbrtn mhdNEW at time  0.0000E+00 sec
+
+    2 update equilibrium in sbrtn mhdNEW at time  0.0000E+00 sec
+
+    3 update equilibrium in sbrtn mhdNEW at time  0.0000E+00 sec
+1
+
+          *** warning: dummy icrf routine loaded ***
+ > nstep =    0 time  =   2.0000000000 sec, next dt = 0.0001000000 sec
+ te-axis =  1.000 ti-axis =  1.000 ne-axis =3.405E+13 ne-bar =2.320E+13
+ sbrtn nuegas modified by Bateman, 20 Jan 86
+ > nstep =    2 time  =   2.0000264017 sec, next dt = 0.0000106566 sec
+ te-axis =  0.998 ti-axis =  0.993 ne-axis =3.418E+13 ne-bar =2.331E+13
+ > nstep =    4 time  =   2.0000488257 sec, next dt = 0.0000125980 sec
+ te-axis =  0.996 ti-axis =  0.987 ne-axis =3.429E+13 ne-bar =2.340E+13
+ > nstep =    6 time  =   2.0000746270 sec, next dt = 0.0000136308 sec
+ te-axis =  0.994 ti-axis =  0.980 ne-axis =3.442E+13 ne-bar =2.352E+13
+ > nstep =    8 time  =   2.0001021829 sec, next dt = 0.0000141204 sec
+ te-axis =  0.992 ti-axis =  0.974 ne-axis =3.456E+13 ne-bar =2.365E+13
+ > nstep =   10 time  =   2.0001305147 sec, next dt = 0.0000142399 sec
+ te-axis =  0.990 ti-axis =  0.967 ne-axis =3.469E+13 ne-bar =2.379E+13
+ > nstep =   12 time  =   2.0001590068 sec, next dt = 0.0000142990 sec
+ te-axis =  0.988 ti-axis =  0.961 ne-axis =3.483E+13 ne-bar =2.394E+13
+ > nstep =   14 time  =   2.0001877502 sec, next dt = 0.0000148252 sec
+ te-axis =  0.986 ti-axis =  0.955 ne-axis =3.496E+13 ne-bar =2.409E+13
+ > nstep =   16 time  =   2.0002181472 sec, next dt = 0.0000168083 sec
+ te-axis =  0.984 ti-axis =  0.949 ne-axis =3.510E+13 ne-bar =2.425E+13
+ > nstep =   18 time  =   2.0002537889 sec, next dt = 0.0000222411 sec
+ te-axis =  0.982 ti-axis =  0.943 ne-axis =3.526E+13 ne-bar =2.444E+13
+ > nstep =   20 time  =   2.0003043932 sec, next dt = 0.0000404789 sec
+ te-axis =  0.979 ti-axis =  0.934 ne-axis =3.548E+13 ne-bar =2.472E+13
+ > nstep =   22 time  =   2.0004149814 sec, next dt = 0.0001032666 sec
+ te-axis =  0.986 ti-axis =  0.938 ne-axis =3.552E+13 ne-bar =2.517E+13
+ > nstep =   24 time  =   2.0006202306 sec, next dt = 0.0000708323 sec
+ te-axis =  0.998 ti-axis =  0.942 ne-axis =3.558E+13 ne-bar =2.548E+13
+ > nstep =   26 time  =   2.0007371900 sec, next dt = 0.0000433128 sec
+ te-axis =  1.005 ti-axis =  0.944 ne-axis =3.560E+13 ne-bar =2.545E+13
+ > nstep =   28 time  =   2.0008249996 sec, next dt = 0.0000475899 sec
+ te-axis =  1.010 ti-axis =  0.945 ne-axis =3.561E+13 ne-bar =2.540E+13
+ > nstep =   30 time  =   2.0009255530 sec, next dt = 0.0000616256 sec
+ te-axis =  1.016 ti-axis =  0.947 ne-axis =3.563E+13 ne-bar =2.538E+13
+ > nstep =   32 time  =   2.0010612097 sec, next dt = 0.0000894231 sec
+ te-axis =  1.024 ti-axis =  0.949 ne-axis =3.565E+13 ne-bar =2.538E+13
+ > nstep =   34 time  =   2.0012568771 sec, next dt = 0.0001200859 sec
+ te-axis =  1.035 ti-axis =  0.952 ne-axis =3.569E+13 ne-bar =2.538E+13
+ > nstep =   36 time  =   2.0015103429 sec, next dt = 0.0001476919 sec
+ te-axis =  1.048 ti-axis =  0.954 ne-axis =3.574E+13 ne-bar =2.539E+13
+ > nstep =   38 time  =   2.0018244445 sec, next dt = 0.0001828861 sec
+ te-axis =  1.065 ti-axis =  0.957 ne-axis =3.579E+13 ne-bar =2.539E+13
+ > nstep =   40 time  =   2.0021971443 sec, next dt = 0.0002135788 sec
+ te-axis =  1.083 ti-axis =  0.960 ne-axis =3.586E+13 ne-bar =2.539E+13
+ > nstep =   42 time  =   2.0026254186 sec, next dt = 0.0001893556 sec
+ te-axis =  1.104 ti-axis =  0.963 ne-axis =3.592E+13 ne-bar =2.540E+13
+ > nstep =   44 time  =   2.0029680061 sec, next dt = 0.0001206214 sec
+ te-axis =  1.120 ti-axis =  0.966 ne-axis =3.597E+13 ne-bar =2.539E+13
+ > nstep =   46 time  =   2.0031890082 sec, next dt = 0.0000950825 sec
+ te-axis =  1.130 ti-axis =  0.967 ne-axis =3.600E+13 ne-bar =2.538E+13
+ > nstep =   48 time  =   2.0033842658 sec, next dt = 0.0001135624 sec
+ te-axis =  1.139 ti-axis =  0.969 ne-axis =3.602E+13 ne-bar =2.537E+13
+ > nstep =   50 time  =   2.0036313926 sec, next dt = 0.0001540794 sec
+ te-axis =  1.150 ti-axis =  0.970 ne-axis =3.605E+13 ne-bar =2.537E+13
+ > nstep =   52 time  =   2.0039525041 sec, next dt = 0.0001670894 sec
+ te-axis =  1.163 ti-axis =  0.972 ne-axis =3.609E+13 ne-bar =2.537E+13
+ > nstep =   54 time  =   2.0042629045 sec, next dt = 0.0001202327 sec
+ te-axis =  1.176 ti-axis =  0.974 ne-axis =3.612E+13 ne-bar =2.537E+13
+ > nstep =   56 time  =   2.0045244391 sec, next dt = 0.0001631356 sec
+ te-axis =  1.187 ti-axis =  0.976 ne-axis =3.615E+13 ne-bar =2.537E+13
+ > nstep =   58 time  =   2.0049237416 sec, next dt = 0.0003964882 sec
+ te-axis =  1.202 ti-axis =  0.978 ne-axis =3.619E+13 ne-bar =2.537E+13
+ > nstep =   60 time  =   2.0060069473 sec, next dt = 0.0011893947 sec
+ te-axis =  1.241 ti-axis =  0.985 ne-axis =3.630E+13 ne-bar =2.539E+13
+ > nstep =   62 time  =   2.0083178452 sec, next dt = 0.0015800216 sec
+ te-axis =  1.310 ti-axis =  1.001 ne-axis =3.655E+13 ne-bar =2.540E+13
+ > nstep =   64 time  =   2.0126344643 sec, next dt = 0.0045404324 sec
+ te-axis =  1.411 ti-axis =  1.032 ne-axis =3.697E+13 ne-bar =2.547E+13
+ > nstep =   66 time  =   2.0237194820 sec, next dt = 0.0075000000 sec
+ te-axis =  1.577 ti-axis =  1.105 ne-axis =3.792E+13 ne-bar =2.565E+13
+ > nstep =   68 time  =   2.0387194820 sec, next dt = 0.0075000000 sec
+ te-axis =  1.713 ti-axis =  1.178 ne-axis =3.898E+13 ne-bar =2.567E+13
+ > nstep =   70 time  =   2.0537194820 sec, next dt = 0.0055322673 sec
+ te-axis =  1.798 ti-axis =  1.234 ne-axis =3.983E+13 ne-bar =2.554E+13
+ > nstep =   72 time  =   2.0667517493 sec, next dt = 0.0075000000 sec
+ te-axis =  1.846 ti-axis =  1.272 ne-axis =4.050E+13 ne-bar =2.543E+13
+ > nstep =   74 time  =   2.0817517493 sec, next dt = 0.0075000000 sec
+ te-axis =  1.879 ti-axis =  1.304 ne-axis =4.124E+13 ne-bar =2.541E+13
+ > nstep =   76 time  =   2.0967517493 sec, next dt = 0.0068765456 sec
+ te-axis =  1.897 ti-axis =  1.328 ne-axis =4.195E+13 ne-bar =2.545E+13
+ > nstep =   78 time  =   2.1105983648 sec, next dt = 0.0075000000 sec
+ te-axis =  1.904 ti-axis =  1.347 ne-axis =4.256E+13 ne-bar =2.552E+13
+ > nstep =   80 time  =   2.1255983648 sec, next dt = 0.0075000000 sec
+ te-axis =  1.906 ti-axis =  1.363 ne-axis =4.317E+13 ne-bar =2.558E+13
+ > nstep =   82 time  =   2.1283900655 sec, next dt = 0.0021464484 sec
+ te-axis =  1.905 ti-axis =  1.370 ne-axis =4.328E+13 ne-bar =2.561E+13
+ > nstep =   84 time  =   2.1293215331 sec, next dt = 0.0003328656 sec
+ te-axis =  1.904 ti-axis =  1.373 ne-axis =4.331E+13 ne-bar =2.561E+13
+ > nstep =   86 time  =   2.1296069157 sec, next dt = 0.0000745135 sec
+ te-axis =  1.904 ti-axis =  1.373 ne-axis =4.332E+13 ne-bar =2.560E+13
+ > nstep =   88 time  =   2.1298104866 sec, next dt = 0.0002235274 sec
+ te-axis =  1.904 ti-axis =  1.374 ne-axis =4.333E+13 ne-bar =2.559E+13
+ > nstep =   90 time  =   2.1304211636 sec, next dt = 0.0006305165 sec
+ te-axis =  1.903 ti-axis =  1.376 ne-axis =4.335E+13 ne-bar =2.558E+13
+ > nstep =   92 time  =   2.1321410031 sec, next dt = 0.0018867073 sec
+ te-axis =  1.903 ti-axis =  1.381 ne-axis =4.342E+13 ne-bar =2.559E+13
+ > nstep =   94 time  =   2.1372954876 sec, next dt = 0.0056597900 sec
+ te-axis =  1.904 ti-axis =  1.397 ne-axis =4.359E+13 ne-bar =2.561E+13
+ > nstep =   96 time  =   2.1504552775 sec, next dt = 0.0075000000 sec
+ te-axis =  1.915 ti-axis =  1.426 ne-axis =4.392E+13 ne-bar =2.566E+13
+ > nstep =   98 time  =   2.1654552775 sec, next dt = 0.0075000000 sec
+ te-axis =  1.924 ti-axis =  1.453 ne-axis =4.425E+13 ne-bar =2.566E+13
+ > nstep =  100 time  =   2.1804552775 sec, next dt = 0.0075000000 sec
+ te-axis =  1.929 ti-axis =  1.475 ne-axis =4.453E+13 ne-bar =2.565E+13
+ > nstep =  102 time  =   2.1954552775 sec, next dt = 0.0075000000 sec
+ te-axis =  1.934 ti-axis =  1.498 ne-axis =4.470E+13 ne-bar =2.570E+13
+ > nstep =  104 time  =   2.2104552775 sec, next dt = 0.0075000000 sec
+ te-axis =  1.936 ti-axis =  1.517 ne-axis =4.489E+13 ne-bar =2.575E+13
+ > nstep =  106 time  =   2.2254552775 sec, next dt = 0.0075000000 sec
+ te-axis =  1.936 ti-axis =  1.533 ne-axis =4.509E+13 ne-bar =2.578E+13
+ > nstep =  108 time  =   2.2404552775 sec, next dt = 0.0075000000 sec
+ te-axis =  1.935 ti-axis =  1.546 ne-axis =4.528E+13 ne-bar =2.580E+13
+ > nstep =  110 time  =   2.2554552775 sec, next dt = 0.0075000000 sec
+ te-axis =  1.934 ti-axis =  1.557 ne-axis =4.547E+13 ne-bar =2.582E+13
+ > nstep =  112 time  =   2.2704552775 sec, next dt = 0.0075000000 sec
+ te-axis =  1.931 ti-axis =  1.567 ne-axis =4.566E+13 ne-bar =2.586E+13
+ > nstep =  114 time  =   2.2854552775 sec, next dt = 0.0075000000 sec
+ te-axis =  1.929 ti-axis =  1.575 ne-axis =4.583E+13 ne-bar =2.590E+13
+ > nstep =  116 time  =   2.3004552775 sec, next dt = 0.0075000000 sec
+ te-axis =  1.926 ti-axis =  1.581 ne-axis =4.600E+13 ne-bar =2.593E+13
+ > nstep =  118 time  =   2.3154552775 sec, next dt = 0.0075000000 sec
+ te-axis =  1.923 ti-axis =  1.587 ne-axis =4.615E+13 ne-bar =2.597E+13
+ > nstep =  120 time  =   2.3304552775 sec, next dt = 0.0075000000 sec
+ te-axis =  1.920 ti-axis =  1.591 ne-axis =4.629E+13 ne-bar =2.600E+13
+ > nstep =  122 time  =   2.3438555827 sec, next dt = 0.0075000000 sec
+ te-axis =  1.915 ti-axis =  1.602 ne-axis =4.649E+13 ne-bar =2.610E+13
+ > nstep =  124 time  =   2.3588555827 sec, next dt = 0.0075000000 sec
+ te-axis =  1.914 ti-axis =  1.611 ne-axis =4.664E+13 ne-bar =2.609E+13
+ > nstep =  126 time  =   2.3738555827 sec, next dt = 0.0075000000 sec
+ te-axis =  1.913 ti-axis =  1.619 ne-axis =4.676E+13 ne-bar =2.608E+13
+ > nstep =  128 time  =   2.3888555827 sec, next dt = 0.0075000000 sec
+ te-axis =  1.912 ti-axis =  1.625 ne-axis =4.686E+13 ne-bar =2.609E+13
+ > nstep =  130 time  =   2.4038555827 sec, next dt = 0.0075000000 sec
+ te-axis =  1.911 ti-axis =  1.629 ne-axis =4.694E+13 ne-bar =2.613E+13
+ > nstep =  132 time  =   2.4188555827 sec, next dt = 0.0075000000 sec
+ te-axis =  1.908 ti-axis =  1.632 ne-axis =4.702E+13 ne-bar =2.619E+13
+ > nstep =  134 time  =   2.4338555827 sec, next dt = 0.0075000000 sec
+ te-axis =  1.905 ti-axis =  1.634 ne-axis =4.708E+13 ne-bar =2.623E+13
+ > nstep =  136 time  =   2.4488555827 sec, next dt = 0.0075000000 sec
+ te-axis =  1.903 ti-axis =  1.635 ne-axis =4.714E+13 ne-bar =2.626E+13
+ > nstep =  138 time  =   2.4638555827 sec, next dt = 0.0075000000 sec
+ te-axis =  1.900 ti-axis =  1.635 ne-axis =4.720E+13 ne-bar =2.629E+13
+ > nstep =  140 time  =   2.4788555827 sec, next dt = 0.0075000000 sec
+ te-axis =  1.897 ti-axis =  1.635 ne-axis =4.725E+13 ne-bar =2.632E+13
+ > nstep =  142 time  =   2.4909999643 sec, next dt = 0.0030822285 sec
+ te-axis =  1.899 ti-axis =  1.647 ne-axis =4.733E+13 ne-bar =2.623E+13
+ > nstep =  144 time  =   2.4964410754 sec, next dt = 0.0024111136 sec
+ te-axis =  1.898 ti-axis =  1.653 ne-axis =4.737E+13 ne-bar =2.629E+13
+
+    4 update equilibrium in sbrtn mhdNEW at time  2.4976E+00 sec
+ > nstep =  146 time  =   2.5007516723 sec, next dt = 0.0032899051 sec
+ te-axis =  1.897 ti-axis =  1.659 ne-axis =4.740E+13 ne-bar =2.637E+13
+ > nstep =  148 time  =   2.5007569371 sec, next dt = 0.0000021106 sec
+ te-axis =  1.897 ti-axis =  1.659 ne-axis =4.740E+13 ne-bar =2.637E+13
+ > nstep =  150 time  =   2.5007612264 sec, next dt = 0.0000027734 sec
+ te-axis =  1.897 ti-axis =  1.659 ne-axis =4.740E+13 ne-bar =2.638E+13
+ > nstep =  152 time  =   2.5007622294 sec, next dt = 0.0000011013 sec
+ te-axis =  1.897 ti-axis =  1.659 ne-axis =4.740E+13 ne-bar =2.638E+13
+ > nstep =  154 time  =   2.5007640535 sec, next dt = 0.0000012518 sec
+ te-axis =  1.897 ti-axis =  1.659 ne-axis =4.740E+13 ne-bar =2.638E+13
+ > nstep =  156 time  =   2.5007674736 sec, next dt = 0.0000037553 sec
+ te-axis =  1.897 ti-axis =  1.659 ne-axis =4.740E+13 ne-bar =2.638E+13
+ > nstep =  158 time  =   2.5007777331 sec, next dt = 0.0000112653 sec
+ te-axis =  1.897 ti-axis =  1.659 ne-axis =4.740E+13 ne-bar =2.638E+13
+ > nstep =  160 time  =   2.5008085099 sec, next dt = 0.0000337939 sec
+ te-axis =  1.897 ti-axis =  1.659 ne-axis =4.740E+13 ne-bar =2.638E+13
+ > nstep =  162 time  =   2.5009008348 sec, next dt = 0.0001013757 sec
+ te-axis =  1.898 ti-axis =  1.659 ne-axis =4.740E+13 ne-bar =2.638E+13
+ > nstep =  164 time  =   2.5011550407 sec, next dt = 0.0001881570 sec
+ te-axis =  1.898 ti-axis =  1.659 ne-axis =4.739E+13 ne-bar =2.639E+13
+ > nstep =  166 time  =   2.5015515315 sec, next dt = 0.0002164656 sec
+ te-axis =  1.898 ti-axis =  1.659 ne-axis =4.738E+13 ne-bar =2.639E+13
+ > nstep =  168 time  =   2.5018409049 sec, next dt = 0.0000403896 sec
+ te-axis =  1.898 ti-axis =  1.660 ne-axis =4.737E+13 ne-bar =2.639E+13
+ > nstep =  170 time  =   2.5019108840 sec, next dt = 0.0000407168 sec
+ te-axis =  1.898 ti-axis =  1.660 ne-axis =4.737E+13 ne-bar =2.638E+13
+ > nstep =  172 time  =   2.5020221222 sec, next dt = 0.0001221431 sec
+ te-axis =  1.899 ti-axis =  1.660 ne-axis =4.737E+13 ne-bar =2.638E+13
+ > nstep =  174 time  =   2.5023558171 sec, next dt = 0.0003664078 sec
+ te-axis =  1.899 ti-axis =  1.660 ne-axis =4.736E+13 ne-bar =2.638E+13
+ > nstep =  176 time  =   2.5033568432 sec, next dt = 0.0009541504 sec
+ te-axis =  1.899 ti-axis =  1.660 ne-axis =4.735E+13 ne-bar =2.639E+13
+ > nstep =  178 time  =   2.5055196612 sec, next dt = 0.0013620879 sec
+ te-axis =  1.899 ti-axis =  1.660 ne-axis =4.733E+13 ne-bar =2.641E+13
+ > nstep =  180 time  =   2.5083231837 sec, next dt = 0.0021195003 sec
+ te-axis =  1.899 ti-axis =  1.660 ne-axis =4.733E+13 ne-bar =2.642E+13
+ > nstep =  182 time  =   2.5130501187 sec, next dt = 0.0027953248 sec
+ te-axis =  1.900 ti-axis =  1.661 ne-axis =4.729E+13 ne-bar =2.633E+13
+ > nstep =  184 time  =   2.5177096273 sec, next dt = 0.0012644546 sec
+ te-axis =  1.900 ti-axis =  1.661 ne-axis =4.726E+13 ne-bar =2.634E+13
+ > nstep =  186 time  =   2.5200691803 sec, next dt = 0.0012962373 sec
+ te-axis =  1.900 ti-axis =  1.662 ne-axis =4.725E+13 ne-bar =2.639E+13
+ > nstep =  188 time  =   2.5212484400 sec, next dt = 0.0012948651 sec
+ te-axis =  1.900 ti-axis =  1.662 ne-axis =4.724E+13 ne-bar =2.641E+13
+ > nstep =  190 time  =   2.5240557742 sec, next dt = 0.0026195964 sec
+ te-axis =  1.900 ti-axis =  1.661 ne-axis =4.723E+13 ne-bar =2.644E+13
+ > nstep =  192 time  =   2.5263977075 sec, next dt = 0.0019873500 sec
+ te-axis =  1.900 ti-axis =  1.661 ne-axis =4.722E+13 ne-bar =2.644E+13
+ > nstep =  194 time  =   2.5283853968 sec, next dt = 0.0000004439 sec
+ te-axis =  1.900 ti-axis =  1.661 ne-axis =4.721E+13 ne-bar =2.644E+13
+ > nstep =  196 time  =   2.5283864376 sec, next dt = 0.0000008296 sec
+ te-axis =  1.900 ti-axis =  1.661 ne-axis =4.721E+13 ne-bar =2.644E+13
+ > nstep =  198 time  =   2.5283876654 sec, next dt = 0.0000005404 sec
+ te-axis =  1.900 ti-axis =  1.661 ne-axis =4.721E+13 ne-bar =2.644E+13
+ > nstep =  200 time  =   2.5283891417 sec, next dt = 0.0000016210 sec
+ te-axis =  1.900 ti-axis =  1.661 ne-axis =4.721E+13 ne-bar =2.644E+13
+ > nstep =  202 time  =   2.5283935703 sec, next dt = 0.0000048628 sec
+ te-axis =  1.900 ti-axis =  1.661 ne-axis =4.721E+13 ne-bar =2.644E+13
+ > nstep =  204 time  =   2.5284068553 sec, next dt = 0.0000145874 sec
+ te-axis =  1.900 ti-axis =  1.661 ne-axis =4.721E+13 ne-bar =2.644E+13
+ > nstep =  206 time  =   2.5284467081 sec, next dt = 0.0000437596 sec
+ te-axis =  1.900 ti-axis =  1.661 ne-axis =4.721E+13 ne-bar =2.644E+13
+ > nstep =  208 time  =   2.5285662595 sec, next dt = 0.0001285370 sec
+ te-axis =  1.900 ti-axis =  1.661 ne-axis =4.721E+13 ne-bar =2.644E+13
+ > nstep =  210 time  =   2.5289024284 sec, next dt = 0.0003330741 sec
+ te-axis =  1.900 ti-axis =  1.661 ne-axis =4.721E+13 ne-bar =2.644E+13
+ > nstep =  212 time  =   2.5291534900 sec, next dt = 0.0002427362 sec
+ te-axis =  1.900 ti-axis =  1.661 ne-axis =4.722E+13 ne-bar =2.644E+13
+ > nstep =  214 time  =   2.5293156459 sec, next dt = 0.0001408544 sec
+ te-axis =  1.900 ti-axis =  1.661 ne-axis =4.722E+13 ne-bar =2.644E+13
+ > nstep =  216 time  =   2.5293265896 sec, next dt = 0.0000113055 sec
+ te-axis =  1.900 ti-axis =  1.661 ne-axis =4.722E+13 ne-bar =2.644E+13
+ > nstep =  218 time  =   2.5293574762 sec, next dt = 0.0000339145 sec
+ te-axis =  1.900 ti-axis =  1.661 ne-axis =4.722E+13 ne-bar =2.644E+13
+ > nstep =  220 time  =   2.5293656026 sec, next dt = 0.0000089231 sec
+ te-axis =  1.900 ti-axis =  1.661 ne-axis =4.722E+13 ne-bar =2.644E+13
+ > nstep =  222 time  =   2.5293770338 sec, next dt = 0.0000125518 sec
+ te-axis =  1.900 ti-axis =  1.661 ne-axis =4.722E+13 ne-bar =2.644E+13
+ > nstep =  224 time  =   2.5294061363 sec, next dt = 0.0000286659 sec
+ te-axis =  1.900 ti-axis =  1.661 ne-axis =4.722E+13 ne-bar =2.644E+13
+ > nstep =  226 time  =   2.5294665031 sec, next dt = 0.0000469851 sec
+ te-axis =  1.900 ti-axis =  1.661 ne-axis =4.722E+13 ne-bar =2.644E+13
+ > nstep =  228 time  =   2.5295948664 sec, next dt = 0.0001394415 sec
+ te-axis =  1.900 ti-axis =  1.661 ne-axis =4.722E+13 ne-bar =2.644E+13
+ > nstep =  230 time  =   2.5299345240 sec, next dt = 0.0002542980 sec
+ te-axis =  1.900 ti-axis =  1.661 ne-axis =4.721E+13 ne-bar =2.644E+13
+ > nstep =  232 time  =   2.5304828618 sec, next dt = 0.0003259552 sec
+ te-axis =  1.900 ti-axis =  1.661 ne-axis =4.721E+13 ne-bar =2.644E+13
+ > nstep =  234 time  =   2.5311592351 sec, next dt = 0.0003937026 sec
+ te-axis =  1.900 ti-axis =  1.661 ne-axis =4.720E+13 ne-bar =2.644E+13
+ > nstep =  236 time  =   2.5320143268 sec, next dt = 0.0006158579 sec
+ te-axis =  1.900 ti-axis =  1.661 ne-axis =4.719E+13 ne-bar =2.644E+13
+ > nstep =  238 time  =   2.5335440288 sec, next dt = 0.0015827781 sec
+ te-axis =  1.900 ti-axis =  1.661 ne-axis =4.718E+13 ne-bar =2.644E+13
+ > nstep =  240 time  =   2.5378681786 sec, next dt = 0.0047480557 sec
+ te-axis =  1.902 ti-axis =  1.662 ne-axis =4.714E+13 ne-bar =2.643E+13
+ > nstep =  242 time  =   2.5501162343 sec, next dt = 0.0075000000 sec
+ te-axis =  1.909 ti-axis =  1.669 ne-axis =4.702E+13 ne-bar =2.642E+13
+ > nstep =  244 time  =   2.5577952311 sec, next dt = 0.0000939853 sec
+ te-axis =  1.913 ti-axis =  1.675 ne-axis =4.694E+13 ne-bar =2.642E+13
+ > nstep =  246 time  =   2.5578095973 sec, next dt = 0.0000008888 sec
+ te-axis =  1.913 ti-axis =  1.675 ne-axis =4.694E+13 ne-bar =2.643E+13
+ > nstep =  248 time  =   2.5578112103 sec, next dt = 0.0000007975 sec
+ te-axis =  1.913 ti-axis =  1.675 ne-axis =4.694E+13 ne-bar =2.643E+13
+ > nstep =  250 time  =   2.5578129281 sec, next dt = 0.0000010826 sec
+ te-axis =  1.913 ti-axis =  1.675 ne-axis =4.695E+13 ne-bar =2.644E+13
+ > nstep =  252 time  =   2.5578152943 sec, next dt = 0.0000015255 sec
+ te-axis =  1.913 ti-axis =  1.676 ne-axis =4.695E+13 ne-bar =2.646E+13
+ > nstep =  254 time  =   2.5578186390 sec, next dt = 0.0000021751 sec
+ te-axis =  1.913 ti-axis =  1.676 ne-axis =4.695E+13 ne-bar =2.647E+13
+ > nstep =  256 time  =   2.5578234223 sec, next dt = 0.0000033052 sec
+ te-axis =  1.912 ti-axis =  1.677 ne-axis =4.696E+13 ne-bar =2.650E+13
+ > nstep =  258 time  =   2.5578322312 sec, next dt = 0.0000095323 sec
+ te-axis =  1.912 ti-axis =  1.677 ne-axis =4.696E+13 ne-bar =2.651E+13
+ > nstep =  260 time  =   2.5578478947 sec, next dt = 0.0000106192 sec
+ te-axis =  1.912 ti-axis =  1.678 ne-axis =4.696E+13 ne-bar =2.652E+13
+ > nstep =  262 time  =   2.5578766185 sec, next dt = 0.0000189904 sec
+ te-axis =  1.912 ti-axis =  1.678 ne-axis =4.696E+13 ne-bar =2.651E+13
+ > nstep =  264 time  =   2.5579175337 sec, next dt = 0.0000291743 sec
+ te-axis =  1.912 ti-axis =  1.678 ne-axis =4.696E+13 ne-bar =2.650E+13
+ > nstep =  266 time  =   2.5579340256 sec, next dt = 0.0000117374 sec
+ te-axis =  1.912 ti-axis =  1.678 ne-axis =4.696E+13 ne-bar =2.650E+13
+ > nstep =  268 time  =   2.5579660922 sec, next dt = 0.0000299645 sec
+ te-axis =  1.912 ti-axis =  1.678 ne-axis =4.696E+13 ne-bar =2.650E+13
+ > nstep =  270 time  =   2.5580025787 sec, next dt = 0.0000045064 sec
+ te-axis =  1.912 ti-axis =  1.678 ne-axis =4.696E+13 ne-bar =2.651E+13
+ > nstep =  272 time  =   2.5580148901 sec, next dt = 0.0000135184 sec
+ te-axis =  1.912 ti-axis =  1.678 ne-axis =4.696E+13 ne-bar =2.650E+13
+ > nstep =  274 time  =   2.5580498332 sec, next dt = 0.0000290377 sec
+ te-axis =  1.912 ti-axis =  1.678 ne-axis =4.696E+13 ne-bar =2.650E+13
+ > nstep =  276 time  =   2.5581291641 sec, next dt = 0.0000628741 sec
+ te-axis =  1.912 ti-axis =  1.678 ne-axis =4.696E+13 ne-bar =2.650E+13
+ > nstep =  278 time  =   2.5582680250 sec, next dt = 0.0000834719 sec
+ te-axis =  1.913 ti-axis =  1.678 ne-axis =4.696E+13 ne-bar =2.650E+13
+ > nstep =  280 time  =   2.5584686093 sec, next dt = 0.0001578054 sec
+ te-axis =  1.913 ti-axis =  1.678 ne-axis =4.695E+13 ne-bar =2.651E+13
+ > nstep =  282 time  =   2.5587905450 sec, next dt = 0.0002104776 sec
+ te-axis =  1.913 ti-axis =  1.678 ne-axis =4.695E+13 ne-bar =2.651E+13
+ > nstep =  284 time  =   2.5593323999 sec, next dt = 0.0005739455 sec
+ te-axis =  1.913 ti-axis =  1.678 ne-axis =4.695E+13 ne-bar =2.650E+13
+ > nstep =  286 time  =   2.5599386934 sec, next dt = 0.0000560268 sec
+ te-axis =  1.912 ti-axis =  1.677 ne-axis =4.696E+13 ne-bar =2.651E+13
+ > nstep =  288 time  =   2.5600917585 sec, next dt = 0.0000797566 sec
+ te-axis =  1.912 ti-axis =  1.677 ne-axis =4.697E+13 ne-bar =2.651E+13
+ > nstep =  290 time  =   2.5603096535 sec, next dt = 0.0001578610 sec
+ te-axis =  1.912 ti-axis =  1.677 ne-axis =4.697E+13 ne-bar =2.651E+13
+ > nstep =  292 time  =   2.5604766029 sec, next dt = 0.0000054512 sec
+ te-axis =  1.912 ti-axis =  1.677 ne-axis =4.697E+13 ne-bar =2.651E+13
+ > nstep =  294 time  =   2.5604907293 sec, next dt = 0.0000148466 sec
+ te-axis =  1.912 ti-axis =  1.677 ne-axis =4.697E+13 ne-bar =2.651E+13
+ > nstep =  296 time  =   2.5605311538 sec, next dt = 0.0000443010 sec
+ te-axis =  1.912 ti-axis =  1.677 ne-axis =4.697E+13 ne-bar =2.651E+13
+ > nstep =  298 time  =   2.5606521841 sec, next dt = 0.0001328952 sec
+ te-axis =  1.912 ti-axis =  1.676 ne-axis =4.697E+13 ne-bar =2.651E+13
+ > nstep =  300 time  =   2.5610152537 sec, next dt = 0.0003949490 sec
+ te-axis =  1.912 ti-axis =  1.676 ne-axis =4.698E+13 ne-bar =2.651E+13
+ > nstep =  302 time  =   2.5620942544 sec, next dt = 0.0011847775 sec
+ te-axis =  1.911 ti-axis =  1.676 ne-axis =4.700E+13 ne-bar =2.652E+13
+ > nstep =  304 time  =   2.5632793099 sec, next dt = 0.0000004087 sec
+ te-axis =  1.910 ti-axis =  1.676 ne-axis =4.702E+13 ne-bar =2.652E+13
+ > nstep =  306 time  =   2.5632803268 sec, next dt = 0.0000009087 sec
+ te-axis =  1.910 ti-axis =  1.676 ne-axis =4.702E+13 ne-bar =2.652E+13
+ > nstep =  308 time  =   2.5632827040 sec, next dt = 0.0000025436 sec
+ te-axis =  1.910 ti-axis =  1.676 ne-axis =4.702E+13 ne-bar =2.652E+13
+ > nstep =  310 time  =   2.5632896531 sec, next dt = 0.0000063206 sec
+ te-axis =  1.910 ti-axis =  1.676 ne-axis =4.702E+13 ne-bar =2.652E+13
+ > nstep =  312 time  =   2.5633069209 sec, next dt = 0.0000167155 sec
+ te-axis =  1.910 ti-axis =  1.676 ne-axis =4.702E+13 ne-bar =2.652E+13
+ > nstep =  314 time  =   2.5633504598 sec, next dt = 0.0000464581 sec
+ te-axis =  1.910 ti-axis =  1.676 ne-axis =4.702E+13 ne-bar =2.651E+13
+ > nstep =  316 time  =   2.5634773834 sec, next dt = 0.0001393662 sec
+ te-axis =  1.910 ti-axis =  1.676 ne-axis =4.702E+13 ne-bar =2.651E+13
+ > nstep =  318 time  =   2.5636243136 sec, next dt = 0.0000130137 sec
+ te-axis =  1.910 ti-axis =  1.676 ne-axis =4.703E+13 ne-bar =2.652E+13
+ > nstep =  320 time  =   2.5636430621 sec, next dt = 0.0000035706 sec
+ te-axis =  1.910 ti-axis =  1.676 ne-axis =4.703E+13 ne-bar =2.652E+13
+ > nstep =  322 time  =   2.5636528169 sec, next dt = 0.0000107111 sec
+ te-axis =  1.910 ti-axis =  1.676 ne-axis =4.703E+13 ne-bar =2.652E+13
+ > nstep =  324 time  =   2.5636802858 sec, next dt = 0.0000290245 sec
+ te-axis =  1.910 ti-axis =  1.676 ne-axis =4.703E+13 ne-bar =2.652E+13
+ > nstep =  326 time  =   2.5637595807 sec, next dt = 0.0000695516 sec
+ te-axis =  1.910 ti-axis =  1.676 ne-axis =4.703E+13 ne-bar =2.651E+13
+ > nstep =  328 time  =   2.5639190212 sec, next dt = 0.0001260651 sec
+ te-axis =  1.910 ti-axis =  1.676 ne-axis =4.703E+13 ne-bar =2.651E+13
+ > nstep =  330 time  =   2.5642555488 sec, next dt = 0.0003645210 sec
+ te-axis =  1.910 ti-axis =  1.676 ne-axis =4.703E+13 ne-bar =2.652E+13
+ > nstep =  332 time  =   2.5652514202 sec, next dt = 0.0010934989 sec
+ te-axis =  1.910 ti-axis =  1.677 ne-axis =4.703E+13 ne-bar =2.652E+13
+ > nstep =  334 time  =   2.5674520817 sec, next dt = 0.0019176057 sec
+ te-axis =  1.911 ti-axis =  1.677 ne-axis =4.703E+13 ne-bar =2.651E+13
+ > nstep =  336 time  =   2.5679836618 sec, next dt = 0.0005836920 sec
+ te-axis =  1.911 ti-axis =  1.678 ne-axis =4.703E+13 ne-bar =2.652E+13
+ > nstep =  338 time  =   2.5689632607 sec, next dt = 0.0005649521 sec
+ te-axis =  1.911 ti-axis =  1.678 ne-axis =4.702E+13 ne-bar =2.652E+13
+ > nstep =  340 time  =   2.5703914992 sec, next dt = 0.0014596481 sec
+ te-axis =  1.912 ti-axis =  1.678 ne-axis =4.702E+13 ne-bar =2.652E+13
+ > nstep =  342 time  =   2.5743792579 sec, next dt = 0.0043786875 sec
+ te-axis =  1.913 ti-axis =  1.678 ne-axis =4.701E+13 ne-bar =2.652E+13
+ > nstep =  344 time  =   2.5836719710 sec, next dt = 0.0047679715 sec
+ te-axis =  1.918 ti-axis =  1.696 ne-axis =4.703E+13 ne-bar =2.659E+13
+ > nstep =  346 time  =   2.5839183078 sec, next dt = 0.0000863765 sec
+ te-axis =  1.918 ti-axis =  1.696 ne-axis =4.702E+13 ne-bar =2.658E+13
+ > nstep =  348 time  =   2.5839447045 sec, next dt = 0.0000166194 sec
+ te-axis =  1.918 ti-axis =  1.696 ne-axis =4.702E+13 ne-bar =2.658E+13
+ > nstep =  350 time  =   2.5839774522 sec, next dt = 0.0000144619 sec
+ te-axis =  1.918 ti-axis =  1.696 ne-axis =4.702E+13 ne-bar =2.657E+13
+ > nstep =  352 time  =   2.5840049262 sec, next dt = 0.0000117609 sec
+ te-axis =  1.918 ti-axis =  1.696 ne-axis =4.702E+13 ne-bar =2.657E+13
+ > nstep =  354 time  =   2.5840286657 sec, next dt = 0.0000207468 sec
+ te-axis =  1.918 ti-axis =  1.696 ne-axis =4.702E+13 ne-bar =2.656E+13
+ > nstep =  356 time  =   2.5840853458 sec, next dt = 0.0000622367 sec
+ te-axis =  1.918 ti-axis =  1.696 ne-axis =4.702E+13 ne-bar =2.656E+13
+ > nstep =  358 time  =   2.5842553764 sec, next dt = 0.0001817596 sec
+ te-axis =  1.918 ti-axis =  1.697 ne-axis =4.702E+13 ne-bar =2.656E+13
+ > nstep =  360 time  =   2.5846538916 sec, next dt = 0.0002193155 sec
+ te-axis =  1.918 ti-axis =  1.698 ne-axis =4.702E+13 ne-bar =2.656E+13
+ > nstep =  362 time  =   2.5850943755 sec, next dt = 0.0002412005 sec
+ te-axis =  1.918 ti-axis =  1.700 ne-axis =4.702E+13 ne-bar =2.656E+13
+ > nstep =  364 time  =   2.5856553406 sec, next dt = 0.0002281120 sec
+ te-axis =  1.919 ti-axis =  1.701 ne-axis =4.702E+13 ne-bar =2.656E+13
+ > nstep =  366 time  =   2.5861359250 sec, next dt = 0.0003610502 sec
+ te-axis =  1.919 ti-axis =  1.700 ne-axis =4.703E+13 ne-bar =2.657E+13
+ > nstep =  368 time  =   2.5868698358 sec, next dt = 0.0006457943 sec
+ te-axis =  1.919 ti-axis =  1.700 ne-axis =4.703E+13 ne-bar =2.657E+13
+ > nstep =  370 time  =   2.5869066872 sec, next dt = 0.0000401551 sec
+ te-axis =  1.919 ti-axis =  1.700 ne-axis =4.703E+13 ne-bar =2.657E+13
+ > nstep =  372 time  =   2.5869080188 sec, next dt = 0.0000012238 sec
+ te-axis =  1.919 ti-axis =  1.700 ne-axis =4.703E+13 ne-bar =2.657E+13
+ > nstep =  374 time  =   2.5869112583 sec, next dt = 0.0000034910 sec
+ te-axis =  1.919 ti-axis =  1.700 ne-axis =4.703E+13 ne-bar =2.657E+13
+ > nstep =  376 time  =   2.5869207958 sec, next dt = 0.0000104725 sec
+ te-axis =  1.919 ti-axis =  1.700 ne-axis =4.703E+13 ne-bar =2.657E+13
+ > nstep =  378 time  =   2.5869494066 sec, next dt = 0.0000314156 sec
+ te-axis =  1.919 ti-axis =  1.700 ne-axis =4.703E+13 ne-bar =2.657E+13
+ > nstep =  380 time  =   2.5869638720 sec, next dt = 0.0000105363 sec
+ te-axis =  1.919 ti-axis =  1.700 ne-axis =4.703E+13 ne-bar =2.657E+13
+ > nstep =  382 time  =   2.5869812496 sec, next dt = 0.0000118491 sec
+ te-axis =  1.919 ti-axis =  1.700 ne-axis =4.703E+13 ne-bar =2.657E+13
+ > nstep =  384 time  =   2.5869934580 sec, next dt = 0.0000110513 sec
+ te-axis =  1.919 ti-axis =  1.700 ne-axis =4.703E+13 ne-bar =2.657E+13
+ > nstep =  386 time  =   2.5869935599 sec, next dt = 0.0000001119 sec
+ te-axis =  1.919 ti-axis =  1.700 ne-axis =4.703E+13 ne-bar =2.657E+13
+ > nstep =  388 time  =   2.5869938656 sec, next dt = 0.0000003356 sec
+ te-axis =  1.919 ti-axis =  1.700 ne-axis =4.703E+13 ne-bar =2.657E+13
+ > nstep =  390 time  =   2.5869947825 sec, next dt = 0.0000010068 sec
+ te-axis =  1.919 ti-axis =  1.700 ne-axis =4.703E+13 ne-bar =2.657E+13
+ > nstep =  392 time  =   2.5869963204 sec, next dt = 0.0000009146 sec
+ te-axis =  1.919 ti-axis =  1.700 ne-axis =4.703E+13 ne-bar =2.657E+13
+ > nstep =  394 time  =   2.5869988192 sec, next dt = 0.0000027437 sec
+ te-axis =  1.919 ti-axis =  1.700 ne-axis =4.703E+13 ne-bar =2.657E+13
+ > nstep =  396 time  =   2.5870063150 sec, next dt = 0.0000082307 sec
+ te-axis =  1.919 ti-axis =  1.700 ne-axis =4.703E+13 ne-bar =2.657E+13
+ > nstep =  398 time  =   2.5870288013 sec, next dt = 0.0000246906 sec
+ te-axis =  1.919 ti-axis =  1.700 ne-axis =4.703E+13 ne-bar =2.657E+13
+ > nstep =  400 time  =   2.5870962560 sec, next dt = 0.0000692567 sec
+ te-axis =  1.919 ti-axis =  1.700 ne-axis =4.703E+13 ne-bar =2.656E+13
+ > nstep =  402 time  =   2.5872696392 sec, next dt = 0.0001650345 sec
+ te-axis =  1.919 ti-axis =  1.700 ne-axis =4.703E+13 ne-bar =2.657E+13
+ > nstep =  404 time  =   2.5876430639 sec, next dt = 0.0003059434 sec
+ te-axis =  1.918 ti-axis =  1.699 ne-axis =4.704E+13 ne-bar =2.659E+13
+ > nstep =  406 time  =   2.5884212862 sec, next dt = 0.0005038503 sec
+ te-axis =  1.917 ti-axis =  1.699 ne-axis =4.707E+13 ne-bar =2.662E+13
+ > nstep =  408 time  =   2.5884721156 sec, next dt = 0.0000228042 sec
+ te-axis =  1.917 ti-axis =  1.699 ne-axis =4.707E+13 ne-bar =2.661E+13
+ > nstep =  410 time  =   2.5885117824 sec, next dt = 0.0000172366 sec
+ te-axis =  1.917 ti-axis =  1.699 ne-axis =4.707E+13 ne-bar =2.660E+13
+ > nstep =  412 time  =   2.5885447470 sec, next dt = 0.0000141511 sec
+ te-axis =  1.917 ti-axis =  1.699 ne-axis =4.707E+13 ne-bar =2.660E+13
+ > nstep =  414 time  =   2.5885716362 sec, next dt = 0.0000115260 sec
+ te-axis =  1.917 ti-axis =  1.699 ne-axis =4.707E+13 ne-bar =2.659E+13
+ > nstep =  416 time  =   2.5885955243 sec, next dt = 0.0000148105 sec
+ te-axis =  1.917 ti-axis =  1.699 ne-axis =4.707E+13 ne-bar =2.659E+13
+ > nstep =  418 time  =   2.5886359866 sec, next dt = 0.0000343560 sec
+ te-axis =  1.917 ti-axis =  1.699 ne-axis =4.707E+13 ne-bar =2.658E+13
+ > nstep =  420 time  =   2.5887092200 sec, next dt = 0.0000565346 sec
+ te-axis =  1.917 ti-axis =  1.699 ne-axis =4.707E+13 ne-bar =2.657E+13
+ > nstep =  422 time  =   2.5888636725 sec, next dt = 0.0001057080 sec
+ te-axis =  1.917 ti-axis =  1.699 ne-axis =4.707E+13 ne-bar =2.657E+13
+ > nstep =  424 time  =   2.5890483141 sec, next dt = 0.0001120563 sec
+ te-axis =  1.917 ti-axis =  1.699 ne-axis =4.707E+13 ne-bar =2.657E+13
+ > nstep =  426 time  =   2.5892449201 sec, next dt = 0.0001037604 sec
+ te-axis =  1.917 ti-axis =  1.699 ne-axis =4.707E+13 ne-bar =2.658E+13
+ > nstep =  428 time  =   2.5895283934 sec, next dt = 0.0003112629 sec
+ te-axis =  1.917 ti-axis =  1.699 ne-axis =4.707E+13 ne-bar =2.658E+13
+ > nstep =  430 time  =   2.5903787635 sec, next dt = 0.0009337338 sec
+ te-axis =  1.916 ti-axis =  1.697 ne-axis =4.710E+13 ne-bar =2.660E+13
+ > nstep =  432 time  =   2.5929297242 sec, next dt = 0.0028010370 sec
+ te-axis =  1.903 ti-axis =  1.679 ne-axis =4.734E+13 ne-bar =2.669E+13
+ > nstep =  434 time  =   2.6005821572 sec, next dt = 0.0071589615 sec
+ te-axis =  1.851 ti-axis =  1.619 ne-axis =4.838E+13 ne-bar =2.690E+13
+ > nstep =  436 time  =   2.6152411187 sec, next dt = 0.0075000000 sec
+ te-axis =  1.778 ti-axis =  1.543 ne-axis =5.028E+13 ne-bar =2.705E+13
+ > nstep =  438 time  =   2.6302411187 sec, next dt = 0.0075000000 sec
+ te-axis =  1.736 ti-axis =  1.501 ne-axis =5.187E+13 ne-bar =2.690E+13
+ > nstep =  440 time  =   2.6452411187 sec, next dt = 0.0075000000 sec
+ te-axis =  1.709 ti-axis =  1.478 ne-axis =5.323E+13 ne-bar =2.675E+13
+ > nstep =  442 time  =   2.6602411187 sec, next dt = 0.0075000000 sec
+ te-axis =  1.688 ti-axis =  1.462 ne-axis =5.450E+13 ne-bar =2.673E+13
+ > nstep =  444 time  =   2.6752411187 sec, next dt = 0.0043973330 sec
+ te-axis =  1.713 ti-axis =  1.488 ne-axis =5.446E+13 ne-bar =2.628E+13
+ > nstep =  446 time  =   2.6752821006 sec, next dt = 0.0000002805 sec
+ te-axis =  1.713 ti-axis =  1.488 ne-axis =5.446E+13 ne-bar =2.628E+13
+ > nstep =  448 time  =   2.6752826893 sec, next dt = 0.0000003540 sec
+ te-axis =  1.713 ti-axis =  1.488 ne-axis =5.446E+13 ne-bar =2.628E+13
+ > nstep =  450 time  =   2.6752827966 sec, next dt = 0.0000001177 sec
+ te-axis =  1.713 ti-axis =  1.488 ne-axis =5.446E+13 ne-bar =2.628E+13
+ > nstep =  452 time  =   2.6752828322 sec, next dt = 0.0000000392 sec
+ te-axis =  1.713 ti-axis =  1.488 ne-axis =5.446E+13 ne-bar =2.628E+13
+ > nstep =  454 time  =   2.6752828679 sec, next dt = 0.0000000391 sec
+ te-axis =  1.713 ti-axis =  1.488 ne-axis =5.446E+13 ne-bar =2.628E+13
+ > nstep =  456 time  =   2.6752829748 sec, next dt = 0.0000001174 sec
+ te-axis =  1.713 ti-axis =  1.488 ne-axis =5.446E+13 ne-bar =2.628E+13
+ > nstep =  458 time  =   2.6752829787 sec, next dt = 0.0000000043 sec
+ te-axis =  1.713 ti-axis =  1.488 ne-axis =5.446E+13 ne-bar =2.628E+13
+ > nstep =  460 time  =   2.6752829905 sec, next dt = 0.0000000130 sec
+ te-axis =  1.713 ti-axis =  1.488 ne-axis =5.446E+13 ne-bar =2.628E+13
+ > nstep =  462 time  =   2.6752830260 sec, next dt = 0.0000000390 sec
+ te-axis =  1.713 ti-axis =  1.488 ne-axis =5.446E+13 ne-bar =2.628E+13
+ > nstep =  464 time  =   2.6752830675 sec, next dt = 0.0000000043 sec
+ te-axis =  1.713 ti-axis =  1.488 ne-axis =5.446E+13 ne-bar =2.628E+13
+ > nstep =  466 time  =   2.6752830742 sec, next dt = 0.0000000043 sec
+ te-axis =  1.713 ti-axis =  1.488 ne-axis =5.446E+13 ne-bar =2.629E+13
+ > nstep =  468 time  =   2.6752830859 sec, next dt = 0.0000000128 sec
+ te-axis =  1.713 ti-axis =  1.488 ne-axis =5.446E+13 ne-bar =2.629E+13
+ > nstep =  470 time  =   2.6752831207 sec, next dt = 0.0000000383 sec
+ te-axis =  1.713 ti-axis =  1.488 ne-axis =5.446E+13 ne-bar =2.629E+13
+ > nstep =  472 time  =   2.6752832252 sec, next dt = 0.0000001147 sec
+ te-axis =  1.713 ti-axis =  1.488 ne-axis =5.446E+13 ne-bar =2.629E+13
+ > nstep =  474 time  =   2.6752835387 sec, next dt = 0.0000003442 sec
+ te-axis =  1.713 ti-axis =  1.488 ne-axis =5.446E+13 ne-bar =2.629E+13
+ > nstep =  476 time  =   2.6752844054 sec, next dt = 0.0000006703 sec
+ te-axis =  1.713 ti-axis =  1.488 ne-axis =5.446E+13 ne-bar =2.629E+13
+ > nstep =  478 time  =   2.6752858944 sec, next dt = 0.0000009837 sec
+ te-axis =  1.713 ti-axis =  1.488 ne-axis =5.447E+13 ne-bar =2.630E+13
+ > nstep =  480 time  =   2.6752880536 sec, next dt = 0.0000014026 sec
+ te-axis =  1.713 ti-axis =  1.488 ne-axis =5.447E+13 ne-bar =2.631E+13
+ > nstep =  482 time  =   2.6752911297 sec, next dt = 0.0000019985 sec
+ te-axis =  1.712 ti-axis =  1.489 ne-axis =5.447E+13 ne-bar =2.632E+13
+ > nstep =  484 time  =   2.6752955191 sec, next dt = 0.0000026432 sec
+ te-axis =  1.712 ti-axis =  1.489 ne-axis =5.448E+13 ne-bar =2.634E+13
+ > nstep =  486 time  =   2.6753012398 sec, next dt = 0.0000036807 sec
+ te-axis =  1.712 ti-axis =  1.488 ne-axis =5.449E+13 ne-bar =2.637E+13
+ > nstep =  488 time  =   2.6753093952 sec, next dt = 0.0000055089 sec
+ te-axis =  1.712 ti-axis =  1.488 ne-axis =5.450E+13 ne-bar =2.641E+13
+ > nstep =  490 time  =   2.6753217663 sec, next dt = 0.0000086745 sec
+ te-axis =  1.711 ti-axis =  1.488 ne-axis =5.453E+13 ne-bar =2.648E+13
+ > nstep =  492 time  =   2.6753416175 sec, next dt = 0.0000147695 sec
+ te-axis =  1.710 ti-axis =  1.487 ne-axis =5.456E+13 ne-bar =2.658E+13
+ > nstep =  494 time  =   2.6753766229 sec, next dt = 0.0000350486 sec
+ te-axis =  1.708 ti-axis =  1.487 ne-axis =5.461E+13 ne-bar =2.673E+13
+ > nstep =  496 time  =   2.6754298239 sec, next dt = 0.0000234570 sec
+ te-axis =  1.707 ti-axis =  1.486 ne-axis =5.464E+13 ne-bar =2.681E+13
+ > nstep =  498 time  =   2.6754618094 sec, next dt = 0.0000147712 sec
+ te-axis =  1.707 ti-axis =  1.486 ne-axis =5.465E+13 ne-bar =2.680E+13
+ > nstep =  500 time  =   2.6755000847 sec, next dt = 0.0000262327 sec
+ te-axis =  1.707 ti-axis =  1.486 ne-axis =5.465E+13 ne-bar =2.679E+13
+ > nstep =  502 time  =   2.6755523802 sec, next dt = 0.0000283460 sec
+ te-axis =  1.707 ti-axis =  1.486 ne-axis =5.465E+13 ne-bar =2.677E+13
+ > nstep =  504 time  =   2.6756095690 sec, next dt = 0.0000304600 sec
+ te-axis =  1.707 ti-axis =  1.486 ne-axis =5.466E+13 ne-bar =2.676E+13
+ > nstep =  506 time  =   2.6756581486 sec, next dt = 0.0000278364 sec
+ te-axis =  1.707 ti-axis =  1.486 ne-axis =5.466E+13 ne-bar =2.675E+13
+ > nstep =  508 time  =   2.6757005074 sec, next dt = 0.0000241722 sec
+ te-axis =  1.707 ti-axis =  1.486 ne-axis =5.466E+13 ne-bar =2.674E+13
+ > nstep =  510 time  =   2.6757058881 sec, next dt = 0.0000059082 sec
+ te-axis =  1.707 ti-axis =  1.486 ne-axis =5.466E+13 ne-bar =2.674E+13
+ > nstep =  512 time  =   2.6757094647 sec, next dt = 0.0000038298 sec
+ te-axis =  1.707 ti-axis =  1.486 ne-axis =5.466E+13 ne-bar =2.674E+13
+ > nstep =  514 time  =   2.6757183753 sec, next dt = 0.0000088000 sec
+ te-axis =  1.707 ti-axis =  1.486 ne-axis =5.466E+13 ne-bar =2.674E+13
+ > nstep =  516 time  =   2.6757424170 sec, next dt = 0.0000178159 sec
+ te-axis =  1.707 ti-axis =  1.486 ne-axis =5.466E+13 ne-bar =2.673E+13
+ > nstep =  518 time  =   2.6757439136 sec, next dt = 0.0000016433 sec
+ te-axis =  1.707 ti-axis =  1.486 ne-axis =5.466E+13 ne-bar =2.673E+13
+ > nstep =  520 time  =   2.6757458020 sec, next dt = 0.0000020735 sec
+ te-axis =  1.707 ti-axis =  1.486 ne-axis =5.466E+13 ne-bar =2.673E+13
+ > nstep =  522 time  =   2.6757514261 sec, next dt = 0.0000061497 sec
+ te-axis =  1.707 ti-axis =  1.486 ne-axis =5.466E+13 ne-bar =2.673E+13
+ > nstep =  524 time  =   2.6757682271 sec, next dt = 0.0000184480 sec
+ te-axis =  1.707 ti-axis =  1.486 ne-axis =5.466E+13 ne-bar =2.673E+13
+ > nstep =  526 time  =   2.6757711587 sec, next dt = 0.0000032190 sec
+ te-axis =  1.707 ti-axis =  1.486 ne-axis =5.467E+13 ne-bar =2.673E+13
+ > nstep =  528 time  =   2.6757799531 sec, next dt = 0.0000096566 sec
+ te-axis =  1.707 ti-axis =  1.486 ne-axis =5.467E+13 ne-bar =2.673E+13
+ > nstep =  530 time  =   2.6758063348 sec, next dt = 0.0000205785 sec
+ te-axis =  1.707 ti-axis =  1.486 ne-axis =5.467E+13 ne-bar =2.673E+13
+ > nstep =  532 time  =   2.6758206461 sec, next dt = 0.0000129183 sec
+ te-axis =  1.707 ti-axis =  1.486 ne-axis =5.467E+13 ne-bar =2.673E+13
+ > nstep =  534 time  =   2.6758521058 sec, next dt = 0.0000301740 sec
+ te-axis =  1.707 ti-axis =  1.486 ne-axis =5.467E+13 ne-bar =2.673E+13
+ > nstep =  536 time  =   2.6759187054 sec, next dt = 0.0000508232 sec
+ te-axis =  1.707 ti-axis =  1.485 ne-axis =5.468E+13 ne-bar =2.673E+13
+ > nstep =  538 time  =   2.6759341223 sec, next dt = 0.0000169283 sec
+ te-axis =  1.706 ti-axis =  1.485 ne-axis =5.468E+13 ne-bar =2.673E+13
+ > nstep =  540 time  =   2.6759803705 sec, next dt = 0.0000507820 sec
+ te-axis =  1.706 ti-axis =  1.485 ne-axis =5.468E+13 ne-bar =2.673E+13
+ > nstep =  542 time  =   2.6760265698 sec, next dt = 0.0000507282 sec
+ te-axis =  1.706 ti-axis =  1.485 ne-axis =5.469E+13 ne-bar =2.673E+13
+ > nstep =  544 time  =   2.6760318141 sec, next dt = 0.0000057585 sec
+ te-axis =  1.706 ti-axis =  1.485 ne-axis =5.469E+13 ne-bar =2.673E+13
+ > nstep =  546 time  =   2.6760475463 sec, next dt = 0.0000172744 sec
+ te-axis =  1.706 ti-axis =  1.485 ne-axis =5.469E+13 ne-bar =2.673E+13
+ > nstep =  548 time  =   2.6760792082 sec, next dt = 0.0000249191 sec
+ te-axis =  1.706 ti-axis =  1.485 ne-axis =5.469E+13 ne-bar =2.673E+13
+ > nstep =  550 time  =   2.6761173569 sec, next dt = 0.0000178049 sec
+ te-axis =  1.706 ti-axis =  1.485 ne-axis =5.469E+13 ne-bar =2.674E+13
+ > nstep =  552 time  =   2.6761630618 sec, next dt = 0.0000483227 sec
+ te-axis =  1.706 ti-axis =  1.485 ne-axis =5.470E+13 ne-bar =2.673E+13
+ > nstep =  554 time  =   2.6762950793 sec, next dt = 0.0001449594 sec
+ te-axis =  1.706 ti-axis =  1.485 ne-axis =5.471E+13 ne-bar =2.673E+13
+ > nstep =  556 time  =   2.6766372630 sec, next dt = 0.0002933971 sec
+ te-axis =  1.706 ti-axis =  1.485 ne-axis =5.473E+13 ne-bar =2.673E+13
+ > nstep =  558 time  =   2.6773739016 sec, next dt = 0.0006118383 sec
+ te-axis =  1.706 ti-axis =  1.487 ne-axis =5.476E+13 ne-bar =2.673E+13
+ > nstep =  560 time  =   2.6782937113 sec, next dt = 0.0003971990 sec
+ te-axis =  1.707 ti-axis =  1.490 ne-axis =5.477E+13 ne-bar =2.673E+13
+ > nstep =  562 time  =   2.6792362816 sec, next dt = 0.0007861378 sec
+ te-axis =  1.708 ti-axis =  1.493 ne-axis =5.478E+13 ne-bar =2.672E+13
+ > nstep =  564 time  =   2.6812310533 sec, next dt = 0.0020179815 sec
+ te-axis =  1.715 ti-axis =  1.502 ne-axis =5.472E+13 ne-bar =2.671E+13
+ > nstep =  566 time  =   2.6833009615 sec, next dt = 0.0000899370 sec
+ te-axis =  1.723 ti-axis =  1.513 ne-axis =5.461E+13 ne-bar =2.669E+13
+ > nstep =  568 time  =   2.6834048524 sec, next dt = 0.0000138477 sec
+ te-axis =  1.723 ti-axis =  1.513 ne-axis =5.461E+13 ne-bar =2.671E+13
+ > nstep =  570 time  =   2.6834223972 sec, next dt = 0.0000031554 sec
+ te-axis =  1.723 ti-axis =  1.513 ne-axis =5.461E+13 ne-bar =2.673E+13
+ > nstep =  572 time  =   2.6834292538 sec, next dt = 0.0000043908 sec
+ te-axis =  1.723 ti-axis =  1.513 ne-axis =5.461E+13 ne-bar =2.675E+13
+ > nstep =  574 time  =   2.6834401182 sec, next dt = 0.0000112123 sec
+ te-axis =  1.723 ti-axis =  1.514 ne-axis =5.461E+13 ne-bar =2.676E+13
+ > nstep =  576 time  =   2.6834707501 sec, next dt = 0.0000207644 sec
+ te-axis =  1.723 ti-axis =  1.514 ne-axis =5.461E+13 ne-bar =2.676E+13
+ > nstep =  578 time  =   2.6835115130 sec, next dt = 0.0000231870 sec
+ te-axis =  1.724 ti-axis =  1.514 ne-axis =5.461E+13 ne-bar =2.676E+13
+ > nstep =  580 time  =   2.6835619646 sec, next dt = 0.0000366140 sec
+ te-axis =  1.724 ti-axis =  1.514 ne-axis =5.461E+13 ne-bar =2.675E+13
+ > nstep =  582 time  =   2.6836532713 sec, next dt = 0.0000792022 sec
+ te-axis =  1.724 ti-axis =  1.515 ne-axis =5.462E+13 ne-bar =2.675E+13
+ > nstep =  584 time  =   2.6838439379 sec, next dt = 0.0001098108 sec
+ te-axis =  1.724 ti-axis =  1.517 ne-axis =5.462E+13 ne-bar =2.675E+13
+ > nstep =  586 time  =   2.6841334696 sec, next dt = 0.0002611280 sec
+ te-axis =  1.725 ti-axis =  1.520 ne-axis =5.462E+13 ne-bar =2.675E+13
+ > nstep =  588 time  =   2.6847539211 sec, next dt = 0.0005188348 sec
+ te-axis =  1.726 ti-axis =  1.525 ne-axis =5.462E+13 ne-bar =2.674E+13
+ > nstep =  590 time  =   2.6858167089 sec, next dt = 0.0008291150 sec
+ te-axis =  1.730 ti-axis =  1.533 ne-axis =5.458E+13 ne-bar =2.673E+13
+ > nstep =  592 time  =   2.6880085418 sec, next dt = 0.0023602275 sec
+ te-axis =  1.740 ti-axis =  1.549 ne-axis =5.445E+13 ne-bar =2.671E+13
+ > nstep =  594 time  =   2.6880349311 sec, next dt = 0.0000086377 sec
+ te-axis =  1.740 ti-axis =  1.549 ne-axis =5.446E+13 ne-bar =2.671E+13
+ > nstep =  596 time  =   2.6880479453 sec, next dt = 0.0000031034 sec
+ te-axis =  1.740 ti-axis =  1.550 ne-axis =5.446E+13 ne-bar =2.674E+13
+ > nstep =  598 time  =   2.6880485145 sec, next dt = 0.0000006250 sec
+ te-axis =  1.740 ti-axis =  1.550 ne-axis =5.446E+13 ne-bar =2.675E+13
+ > nstep =  600 time  =   2.6880502220 sec, next dt = 0.0000016866 sec
+ te-axis =  1.740 ti-axis =  1.550 ne-axis =5.446E+13 ne-bar =2.676E+13
+ > nstep =  602 time  =   2.6880544604 sec, next dt = 0.0000044197 sec
+ te-axis =  1.740 ti-axis =  1.550 ne-axis =5.446E+13 ne-bar =2.677E+13
+ > nstep =  604 time  =   2.6880549063 sec, next dt = 0.0000004896 sec
+ te-axis =  1.740 ti-axis =  1.550 ne-axis =5.446E+13 ne-bar =2.677E+13
+ > nstep =  606 time  =   2.6880562438 sec, next dt = 0.0000014686 sec
+ te-axis =  1.740 ti-axis =  1.550 ne-axis =5.446E+13 ne-bar =2.677E+13
+ > nstep =  608 time  =   2.6880582112 sec, next dt = 0.0000021603 sec
+ te-axis =  1.740 ti-axis =  1.550 ne-axis =5.446E+13 ne-bar =2.677E+13
+ > nstep =  610 time  =   2.6880641130 sec, next dt = 0.0000064804 sec
+ te-axis =  1.740 ti-axis =  1.550 ne-axis =5.446E+13 ne-bar =2.677E+13
+ > nstep =  612 time  =   2.6880696806 sec, next dt = 0.0000061133 sec
+ te-axis =  1.740 ti-axis =  1.550 ne-axis =5.446E+13 ne-bar =2.677E+13
+ > nstep =  614 time  =   2.6880752422 sec, next dt = 0.0000061069 sec
+ te-axis =  1.740 ti-axis =  1.550 ne-axis =5.446E+13 ne-bar =2.677E+13
+ > nstep =  616 time  =   2.6880803464 sec, next dt = 0.0000056046 sec
+ te-axis =  1.740 ti-axis =  1.550 ne-axis =5.446E+13 ne-bar =2.677E+13
+ > nstep =  618 time  =   2.6880845513 sec, next dt = 0.0000040799 sec
+ te-axis =  1.740 ti-axis =  1.550 ne-axis =5.446E+13 ne-bar =2.677E+13
+ > nstep =  620 time  =   2.6880956976 sec, next dt = 0.0000122390 sec
+ te-axis =  1.740 ti-axis =  1.550 ne-axis =5.446E+13 ne-bar =2.677E+13
+ > nstep =  622 time  =   2.6881282854 sec, next dt = 0.0000248264 sec
+ te-axis =  1.741 ti-axis =  1.550 ne-axis =5.445E+13 ne-bar =2.676E+13
+ > nstep =  624 time  =   2.6881880721 sec, next dt = 0.0000377211 sec
+ te-axis =  1.741 ti-axis =  1.550 ne-axis =5.445E+13 ne-bar =2.677E+13
+ > nstep =  626 time  =   2.6882322344 sec, next dt = 0.0000109602 sec
+ te-axis =  1.741 ti-axis =  1.550 ne-axis =5.445E+13 ne-bar =2.676E+13
+ > nstep =  628 time  =   2.6882491317 sec, next dt = 0.0000088826 sec
+ te-axis =  1.741 ti-axis =  1.550 ne-axis =5.445E+13 ne-bar =2.677E+13
+ > nstep =  630 time  =   2.6882733989 sec, next dt = 0.0000172405 sec
+ te-axis =  1.741 ti-axis =  1.551 ne-axis =5.445E+13 ne-bar =2.677E+13
+ > nstep =  632 time  =   2.6883204999 sec, next dt = 0.0000355791 sec
+ te-axis =  1.741 ti-axis =  1.551 ne-axis =5.445E+13 ne-bar =2.677E+13
+ > nstep =  634 time  =   2.6884042888 sec, next dt = 0.0000697646 sec
+ te-axis =  1.742 ti-axis =  1.551 ne-axis =5.444E+13 ne-bar =2.676E+13
+ > nstep =  636 time  =   2.6885770308 sec, next dt = 0.0001396725 sec
+ te-axis =  1.742 ti-axis =  1.552 ne-axis =5.443E+13 ne-bar =2.676E+13
+ > nstep =  638 time  =   2.6887991736 sec, next dt = 0.0000834818 sec
+ te-axis =  1.744 ti-axis =  1.553 ne-axis =5.441E+13 ne-bar =2.677E+13
+ > nstep =  640 time  =   2.6890034201 sec, next dt = 0.0001901025 sec
+ te-axis =  1.744 ti-axis =  1.554 ne-axis =5.440E+13 ne-bar =2.676E+13
+ > nstep =  642 time  =   2.6894688390 sec, next dt = 0.0003656406 sec
+ te-axis =  1.747 ti-axis =  1.557 ne-axis =5.437E+13 ne-bar =2.676E+13
+ > nstep =  644 time  =   2.6902972814 sec, next dt = 0.0005772107 sec
+ te-axis =  1.751 ti-axis =  1.562 ne-axis =5.430E+13 ne-bar =2.676E+13
+ > nstep =  646 time  =   2.6915461683 sec, next dt = 0.0011633432 sec
+ te-axis =  1.757 ti-axis =  1.570 ne-axis =5.419E+13 ne-bar =2.675E+13
+ > nstep =  648 time  =   2.6915964944 sec, next dt = 0.0000190726 sec
+ te-axis =  1.758 ti-axis =  1.570 ne-axis =5.419E+13 ne-bar =2.676E+13
+ > nstep =  650 time  =   2.6916301776 sec, next dt = 0.0000158550 sec
+ te-axis =  1.758 ti-axis =  1.570 ne-axis =5.419E+13 ne-bar =2.677E+13
+ > nstep =  652 time  =   2.6916468929 sec, next dt = 0.0000013250 sec
+ te-axis =  1.758 ti-axis =  1.571 ne-axis =5.418E+13 ne-bar =2.677E+13
+ > nstep =  654 time  =   2.6916504801 sec, next dt = 0.0000033350 sec
+ te-axis =  1.758 ti-axis =  1.571 ne-axis =5.418E+13 ne-bar =2.677E+13
+ > nstep =  656 time  =   2.6916595914 sec, next dt = 0.0000100044 sec
+ te-axis =  1.758 ti-axis =  1.571 ne-axis =5.418E+13 ne-bar =2.677E+13
+ > nstep =  658 time  =   2.6916700998 sec, next dt = 0.0000008730 sec
+ te-axis =  1.758 ti-axis =  1.571 ne-axis =5.418E+13 ne-bar =2.678E+13
+ > nstep =  660 time  =   2.6916714863 sec, next dt = 0.0000008895 sec
+ te-axis =  1.758 ti-axis =  1.571 ne-axis =5.418E+13 ne-bar =2.677E+13
+ > nstep =  662 time  =   2.6916739164 sec, next dt = 0.0000026683 sec
+ te-axis =  1.758 ti-axis =  1.571 ne-axis =5.418E+13 ne-bar =2.677E+13
+ > nstep =  664 time  =   2.6916812063 sec, next dt = 0.0000080045 sec
+ te-axis =  1.758 ti-axis =  1.571 ne-axis =5.418E+13 ne-bar =2.677E+13
+ > nstep =  666 time  =   2.6916906918 sec, next dt = 0.0000013822 sec
+ te-axis =  1.758 ti-axis =  1.571 ne-axis =5.418E+13 ne-bar =2.678E+13
+ > nstep =  668 time  =   2.6916944680 sec, next dt = 0.0000041464 sec
+ te-axis =  1.758 ti-axis =  1.571 ne-axis =5.418E+13 ne-bar =2.678E+13
+ > nstep =  670 time  =   2.6917057961 sec, next dt = 0.0000124386 sec
+ te-axis =  1.758 ti-axis =  1.571 ne-axis =5.418E+13 ne-bar =2.677E+13
+ > nstep =  672 time  =   2.6917397782 sec, next dt = 0.0000373135 sec
+ te-axis =  1.758 ti-axis =  1.571 ne-axis =5.418E+13 ne-bar =2.677E+13
+ > nstep =  674 time  =   2.6918417187 sec, next dt = 0.0001004090 sec
+ te-axis =  1.759 ti-axis =  1.571 ne-axis =5.417E+13 ne-bar =2.677E+13
+ > nstep =  676 time  =   2.6920919087 sec, next dt = 0.0002305167 sec
+ te-axis =  1.760 ti-axis =  1.572 ne-axis =5.415E+13 ne-bar =2.677E+13
+ > nstep =  678 time  =   2.6923295532 sec, next dt = 0.0000120412 sec
+ te-axis =  1.761 ti-axis =  1.573 ne-axis =5.413E+13 ne-bar =2.677E+13
+ > nstep =  680 time  =   2.6923578438 sec, next dt = 0.0000158369 sec
+ te-axis =  1.761 ti-axis =  1.574 ne-axis =5.413E+13 ne-bar =2.677E+13
+ > nstep =  682 time  =   2.6924011102 sec, next dt = 0.0000475079 sec
+ te-axis =  1.761 ti-axis =  1.574 ne-axis =5.412E+13 ne-bar =2.678E+13
+ > nstep =  684 time  =   2.6925309017 sec, next dt = 0.0001425153 sec
+ te-axis =  1.762 ti-axis =  1.575 ne-axis =5.411E+13 ne-bar =2.678E+13
+ > nstep =  686 time  =   2.6929202534 sec, next dt = 0.0004275207 sec
+ te-axis =  1.764 ti-axis =  1.577 ne-axis =5.408E+13 ne-bar =2.677E+13
+ > nstep =  688 time  =   2.6930004168 sec, next dt = 0.0000567334 sec
+ te-axis =  1.764 ti-axis =  1.578 ne-axis =5.407E+13 ne-bar =2.677E+13
+ > nstep =  690 time  =   2.6931554125 sec, next dt = 0.0001701903 sec
+ te-axis =  1.765 ti-axis =  1.579 ne-axis =5.406E+13 ne-bar =2.677E+13
+ > nstep =  692 time  =   2.6936203724 sec, next dt = 0.0005105410 sec
+ te-axis =  1.768 ti-axis =  1.581 ne-axis =5.402E+13 ne-bar =2.677E+13
+ > nstep =  694 time  =   2.6950151704 sec, next dt = 0.0015315331 sec
+ te-axis =  1.775 ti-axis =  1.589 ne-axis =5.388E+13 ne-bar =2.676E+13
+ > nstep =  696 time  =   2.6991993187 sec, next dt = 0.0045943297 sec
+ te-axis =  1.795 ti-axis =  1.607 ne-axis =5.344E+13 ne-bar =2.673E+13
+ > nstep =  698 time  =   2.7112936484 sec, next dt = 0.0075000000 sec
+ te-axis =  1.833 ti-axis =  1.640 ne-axis =5.241E+13 ne-bar =2.667E+13
+ > nstep =  700 time  =   2.7113015382 sec, next dt = 0.0000008320 sec
+ te-axis =  1.833 ti-axis =  1.640 ne-axis =5.241E+13 ne-bar =2.667E+13
+ > nstep =  702 time  =   2.7113032841 sec, next dt = 0.0000010538 sec
+ te-axis =  1.833 ti-axis =  1.640 ne-axis =5.241E+13 ne-bar =2.668E+13
+ > nstep =  704 time  =   2.7113041340 sec, next dt = 0.0000008642 sec
+ te-axis =  1.833 ti-axis =  1.640 ne-axis =5.241E+13 ne-bar =2.669E+13
+ > nstep =  706 time  =   2.7113062006 sec, next dt = 0.0000015126 sec
+ te-axis =  1.833 ti-axis =  1.640 ne-axis =5.241E+13 ne-bar =2.669E+13
+ > nstep =  708 time  =   2.7113095547 sec, next dt = 0.0000022175 sec
+ te-axis =  1.833 ti-axis =  1.640 ne-axis =5.241E+13 ne-bar =2.671E+13
+ > nstep =  710 time  =   2.7113144364 sec, next dt = 0.0000032069 sec
+ te-axis =  1.833 ti-axis =  1.640 ne-axis =5.241E+13 ne-bar =2.673E+13
+ > nstep =  712 time  =   2.7113215210 sec, next dt = 0.0000047276 sec
+ te-axis =  1.833 ti-axis =  1.640 ne-axis =5.241E+13 ne-bar =2.677E+13
+ > nstep =  714 time  =   2.7113320679 sec, next dt = 0.0000080622 sec
+ te-axis =  1.833 ti-axis =  1.640 ne-axis =5.241E+13 ne-bar =2.681E+13
+ > nstep =  716 time  =   2.7113540939 sec, next dt = 0.0000241852 sec
+ te-axis =  1.833 ti-axis =  1.640 ne-axis =5.241E+13 ne-bar =2.685E+13
+ > nstep =  718 time  =   2.7113893601 sec, next dt = 0.0000191922 sec
+ te-axis =  1.833 ti-axis =  1.640 ne-axis =5.241E+13 ne-bar =2.685E+13
+ > nstep =  720 time  =   2.7114297689 sec, next dt = 0.0000194089 sec
+ te-axis =  1.833 ti-axis =  1.640 ne-axis =5.241E+13 ne-bar =2.684E+13
+ > nstep =  722 time  =   2.7114731026 sec, next dt = 0.0000254607 sec
+ te-axis =  1.833 ti-axis =  1.640 ne-axis =5.240E+13 ne-bar =2.683E+13
+ > nstep =  724 time  =   2.7115264685 sec, next dt = 0.0000340021 sec
+ te-axis =  1.833 ti-axis =  1.640 ne-axis =5.239E+13 ne-bar =2.682E+13
+ > nstep =  726 time  =   2.7116034030 sec, next dt = 0.0000525800 sec
+ te-axis =  1.834 ti-axis =  1.641 ne-axis =5.238E+13 ne-bar =2.682E+13
+ > nstep =  728 time  =   2.7116392993 sec, next dt = 0.0000201305 sec
+ te-axis =  1.834 ti-axis =  1.641 ne-axis =5.238E+13 ne-bar =2.682E+13
+ > nstep =  730 time  =   2.7116576132 sec, next dt = 0.0000201092 sec
+ te-axis =  1.834 ti-axis =  1.641 ne-axis =5.238E+13 ne-bar =2.682E+13
+ > nstep =  732 time  =   2.7117044208 sec, next dt = 0.0000371894 sec
+ te-axis =  1.834 ti-axis =  1.641 ne-axis =5.237E+13 ne-bar =2.682E+13
+ > nstep =  734 time  =   2.7117293121 sec, next dt = 0.0000238243 sec
+ te-axis =  1.834 ti-axis =  1.641 ne-axis =5.237E+13 ne-bar =2.682E+13
+ > nstep =  736 time  =   2.7117815548 sec, next dt = 0.0000435482 sec
+ te-axis =  1.835 ti-axis =  1.641 ne-axis =5.236E+13 ne-bar =2.682E+13
+ > nstep =  738 time  =   2.7118875763 sec, next dt = 0.0000849319 sec
+ te-axis =  1.835 ti-axis =  1.642 ne-axis =5.235E+13 ne-bar =2.682E+13
+ > nstep =  740 time  =   2.7120830023 sec, next dt = 0.0000784513 sec
+ te-axis =  1.836 ti-axis =  1.643 ne-axis =5.233E+13 ne-bar =2.682E+13
+ > nstep =  742 time  =   2.7122960795 sec, next dt = 0.0000782908 sec
+ te-axis =  1.837 ti-axis =  1.644 ne-axis =5.231E+13 ne-bar =2.683E+13
+ > nstep =  744 time  =   2.7124640937 sec, next dt = 0.0001441831 sec
+ te-axis =  1.837 ti-axis =  1.645 ne-axis =5.230E+13 ne-bar =2.682E+13
+ > nstep =  746 time  =   2.7128580020 sec, next dt = 0.0004325240 sec
+ te-axis =  1.839 ti-axis =  1.647 ne-axis =5.226E+13 ne-bar =2.682E+13
+ > nstep =  748 time  =   2.7140396576 sec, next dt = 0.0012974958 sec
+ te-axis =  1.843 ti-axis =  1.652 ne-axis =5.215E+13 ne-bar =2.682E+13
+ > nstep =  750 time  =   2.7175844162 sec, next dt = 0.0014100430 sec
+ te-axis =  1.853 ti-axis =  1.663 ne-axis =5.188E+13 ne-bar =2.683E+13
+ > nstep =  752 time  =   2.7208229531 sec, next dt = 0.0025701399 sec
+ te-axis =  1.862 ti-axis =  1.672 ne-axis =5.165E+13 ne-bar =2.682E+13
+ > nstep =  754 time  =   2.7273713639 sec, next dt = 0.0068903651 sec
+ te-axis =  1.872 ti-axis =  1.684 ne-axis =5.128E+13 ne-bar =2.683E+13
+ > nstep =  756 time  =   2.7342656594 sec, next dt = 0.0000050221 sec
+ te-axis =  1.878 ti-axis =  1.689 ne-axis =5.103E+13 ne-bar =2.684E+13
+ > nstep =  758 time  =   2.7342681634 sec, next dt = 0.0000002513 sec
+ te-axis =  1.878 ti-axis =  1.689 ne-axis =5.103E+13 ne-bar =2.685E+13
+ > nstep =  760 time  =   2.7342685984 sec, next dt = 0.0000003031 sec
+ te-axis =  1.878 ti-axis =  1.689 ne-axis =5.103E+13 ne-bar =2.685E+13
+ > nstep =  762 time  =   2.7342694063 sec, next dt = 0.0000006623 sec
+ te-axis =  1.878 ti-axis =  1.689 ne-axis =5.103E+13 ne-bar =2.685E+13
+ > nstep =  764 time  =   2.7342708822 sec, next dt = 0.0000009792 sec
+ te-axis =  1.878 ti-axis =  1.689 ne-axis =5.103E+13 ne-bar =2.686E+13
+ > nstep =  766 time  =   2.7342730324 sec, next dt = 0.0000016962 sec
+ te-axis =  1.878 ti-axis =  1.689 ne-axis =5.103E+13 ne-bar =2.687E+13
+ > nstep =  768 time  =   2.7342776665 sec, next dt = 0.0000050884 sec
+ te-axis =  1.878 ti-axis =  1.689 ne-axis =5.102E+13 ne-bar =2.688E+13
+ > nstep =  770 time  =   2.7342851408 sec, next dt = 0.0000041324 sec
+ te-axis =  1.878 ti-axis =  1.689 ne-axis =5.102E+13 ne-bar =2.688E+13
+ > nstep =  772 time  =   2.7342964304 sec, next dt = 0.0000115090 sec
+ te-axis =  1.878 ti-axis =  1.689 ne-axis =5.102E+13 ne-bar =2.687E+13
+ > nstep =  774 time  =   2.7343138558 sec, next dt = 0.0000102472 sec
+ te-axis =  1.878 ti-axis =  1.689 ne-axis =5.102E+13 ne-bar =2.687E+13
+ > nstep =  776 time  =   2.7343418512 sec, next dt = 0.0000101165 sec
+ te-axis =  1.878 ti-axis =  1.689 ne-axis =5.102E+13 ne-bar =2.687E+13
+ > nstep =  778 time  =   2.7343694895 sec, next dt = 0.0000303477 sec
+ te-axis =  1.878 ti-axis =  1.689 ne-axis =5.102E+13 ne-bar =2.687E+13
+ > nstep =  780 time  =   2.7344048109 sec, next dt = 0.0000026718 sec
+ te-axis =  1.878 ti-axis =  1.689 ne-axis =5.101E+13 ne-bar =2.688E+13
+ > nstep =  782 time  =   2.7344121103 sec, next dt = 0.0000080150 sec
+ te-axis =  1.878 ti-axis =  1.689 ne-axis =5.101E+13 ne-bar =2.687E+13
+ > nstep =  784 time  =   2.7344340073 sec, next dt = 0.0000240436 sec
+ te-axis =  1.878 ti-axis =  1.689 ne-axis =5.101E+13 ne-bar =2.687E+13
+ > nstep =  786 time  =   2.7344996944 sec, next dt = 0.0000721266 sec
+ te-axis =  1.878 ti-axis =  1.689 ne-axis =5.100E+13 ne-bar =2.687E+13
+ > nstep =  788 time  =   2.7346933683 sec, next dt = 0.0001979450 sec
+ te-axis =  1.879 ti-axis =  1.690 ne-axis =5.099E+13 ne-bar =2.687E+13
+ > nstep =  790 time  =   2.7351715782 sec, next dt = 0.0004424745 sec
+ te-axis =  1.880 ti-axis =  1.690 ne-axis =5.094E+13 ne-bar =2.687E+13
+ > nstep =  792 time  =   2.7363565493 sec, next dt = 0.0012860040 sec
+ te-axis =  1.883 ti-axis =  1.691 ne-axis =5.084E+13 ne-bar =2.687E+13
+ > nstep =  794 time  =   2.7363889519 sec, next dt = 0.0000189664 sec
+ te-axis =  1.884 ti-axis =  1.691 ne-axis =5.084E+13 ne-bar =2.687E+13
+ > nstep =  796 time  =   2.7364022654 sec, next dt = 0.0000121200 sec
+ te-axis =  1.884 ti-axis =  1.691 ne-axis =5.084E+13 ne-bar =2.687E+13
+ > nstep =  798 time  =   2.7364205662 sec, next dt = 0.0000107052 sec
+ te-axis =  1.884 ti-axis =  1.691 ne-axis =5.084E+13 ne-bar =2.688E+13
+ > nstep =  800 time  =   2.7364498129 sec, next dt = 0.0000321138 sec
+ te-axis =  1.884 ti-axis =  1.691 ne-axis =5.084E+13 ne-bar =2.688E+13
+ > nstep =  802 time  =   2.7365375477 sec, next dt = 0.0000963357 sec
+ te-axis =  1.884 ti-axis =  1.691 ne-axis =5.083E+13 ne-bar =2.687E+13
+ > nstep =  804 time  =   2.7368007369 sec, next dt = 0.0002852362 sec
+ te-axis =  1.884 ti-axis =  1.692 ne-axis =5.082E+13 ne-bar =2.688E+13
+ > nstep =  806 time  =   2.7375800021 sec, next dt = 0.0007985667 sec
+ te-axis =  1.885 ti-axis =  1.693 ne-axis =5.079E+13 ne-bar =2.688E+13
+ > nstep =  808 time  =   2.7384011786 sec, next dt = 0.0000353832 sec
+ te-axis =  1.886 ti-axis =  1.695 ne-axis =5.075E+13 ne-bar =2.688E+13
+ > nstep =  810 time  =   2.7384391120 sec, next dt = 0.0000016467 sec
+ te-axis =  1.886 ti-axis =  1.695 ne-axis =5.075E+13 ne-bar =2.688E+13
+ > nstep =  812 time  =   2.7384436109 sec, next dt = 0.0000049400 sec
+ te-axis =  1.886 ti-axis =  1.695 ne-axis =5.075E+13 ne-bar =2.688E+13
+ > nstep =  814 time  =   2.7384571068 sec, next dt = 0.0000115727 sec
+ te-axis =  1.886 ti-axis =  1.695 ne-axis =5.075E+13 ne-bar =2.688E+13
+ > nstep =  816 time  =   2.7384753542 sec, next dt = 0.0000115605 sec
+ te-axis =  1.886 ti-axis =  1.695 ne-axis =5.075E+13 ne-bar =2.688E+13
+ > nstep =  818 time  =   2.7385069373 sec, next dt = 0.0000264844 sec
+ te-axis =  1.886 ti-axis =  1.694 ne-axis =5.075E+13 ne-bar =2.688E+13
+ > nstep =  820 time  =   2.7385527266 sec, next dt = 0.0000137336 sec
+ te-axis =  1.886 ti-axis =  1.694 ne-axis =5.075E+13 ne-bar =2.688E+13
+ > nstep =  822 time  =   2.7385902469 sec, next dt = 0.0000195535 sec
+ te-axis =  1.886 ti-axis =  1.694 ne-axis =5.075E+13 ne-bar =2.688E+13
+ > nstep =  824 time  =   2.7386379184 sec, next dt = 0.0000487004 sec
+ te-axis =  1.886 ti-axis =  1.694 ne-axis =5.075E+13 ne-bar =2.688E+13
+ > nstep =  826 time  =   2.7387709679 sec, next dt = 0.0001460927 sec
+ te-axis =  1.886 ti-axis =  1.693 ne-axis =5.074E+13 ne-bar =2.688E+13
+ > nstep =  828 time  =   2.7391700931 sec, next dt = 0.0004382523 sec
+ te-axis =  1.886 ti-axis =  1.690 ne-axis =5.075E+13 ne-bar =2.688E+13
+ > nstep =  830 time  =   2.7396439750 sec, next dt = 0.0000232160 sec
+ te-axis =  1.885 ti-axis =  1.688 ne-axis =5.076E+13 ne-bar =2.688E+13
+ > nstep =  832 time  =   2.7397074012 sec, next dt = 0.0000316430 sec
+ te-axis =  1.885 ti-axis =  1.688 ne-axis =5.076E+13 ne-bar =2.688E+13
+ > nstep =  834 time  =   2.7397452894 sec, next dt = 0.0000031625 sec
+ te-axis =  1.885 ti-axis =  1.687 ne-axis =5.076E+13 ne-bar =2.689E+13
+ > nstep =  836 time  =   2.7397536104 sec, next dt = 0.0000089345 sec
+ te-axis =  1.885 ti-axis =  1.687 ne-axis =5.076E+13 ne-bar =2.689E+13
+ > nstep =  838 time  =   2.7397775895 sec, next dt = 0.0000260571 sec
+ te-axis =  1.885 ti-axis =  1.687 ne-axis =5.076E+13 ne-bar =2.688E+13
+ > nstep =  840 time  =   2.7398487776 sec, next dt = 0.0000674400 sec
+ te-axis =  1.885 ti-axis =  1.688 ne-axis =5.075E+13 ne-bar =2.688E+13
+ > nstep =  842 time  =   2.7400036313 sec, next dt = 0.0001200560 sec
+ te-axis =  1.885 ti-axis =  1.688 ne-axis =5.074E+13 ne-bar =2.688E+13
+ > nstep =  844 time  =   2.7403177872 sec, next dt = 0.0003361810 sec
+ te-axis =  1.886 ti-axis =  1.689 ne-axis =5.072E+13 ne-bar =2.688E+13
+ > nstep =  846 time  =   2.7412362337 sec, next dt = 0.0010084838 sec
+ te-axis =  1.888 ti-axis =  1.691 ne-axis =5.064E+13 ne-bar =2.688E+13
+ > nstep =  848 time  =   2.7439914115 sec, next dt = 0.0027877927 sec
+ te-axis =  1.894 ti-axis =  1.694 ne-axis =5.044E+13 ne-bar =2.686E+13
+ > nstep =  850 time  =   2.7516076612 sec, next dt = 0.0075000000 sec
+ te-axis =  1.904 ti-axis =  1.699 ne-axis =4.998E+13 ne-bar =2.682E+13
+ > nstep =  852 time  =   2.7666076612 sec, next dt = 0.0075000000 sec
+ te-axis =  1.914 ti-axis =  1.701 ne-axis =4.928E+13 ne-bar =2.680E+13
+ > nstep =  854 time  =   2.7816076612 sec, next dt = 0.0075000000 sec
+ te-axis =  1.920 ti-axis =  1.699 ne-axis =4.869E+13 ne-bar =2.685E+13
+ > nstep =  856 time  =   2.7816899366 sec, next dt = 0.0000102548 sec
+ te-axis =  1.920 ti-axis =  1.699 ne-axis =4.868E+13 ne-bar =2.686E+13
+ > nstep =  858 time  =   2.7816945963 sec, next dt = 0.0000017178 sec
+ te-axis =  1.920 ti-axis =  1.699 ne-axis =4.868E+13 ne-bar =2.688E+13
+ > nstep =  860 time  =   2.7816960294 sec, next dt = 0.0000014156 sec
+ te-axis =  1.920 ti-axis =  1.699 ne-axis =4.868E+13 ne-bar =2.689E+13
+ > nstep =  862 time  =   2.7816993141 sec, next dt = 0.0000023218 sec
+ te-axis =  1.920 ti-axis =  1.699 ne-axis =4.868E+13 ne-bar =2.690E+13
+ > nstep =  864 time  =   2.7817044644 sec, next dt = 0.0000034289 sec
+ te-axis =  1.920 ti-axis =  1.699 ne-axis =4.868E+13 ne-bar =2.693E+13
+ > nstep =  866 time  =   2.7817075875 sec, next dt = 0.0000033341 sec
+ te-axis =  1.920 ti-axis =  1.699 ne-axis =4.868E+13 ne-bar =2.695E+13
+ > nstep =  868 time  =   2.7817130265 sec, next dt = 0.0000036458 sec
+ te-axis =  1.920 ti-axis =  1.699 ne-axis =4.868E+13 ne-bar =2.698E+13
+ > nstep =  870 time  =   2.7817229867 sec, next dt = 0.0000109367 sec
+ te-axis =  1.920 ti-axis =  1.699 ne-axis =4.868E+13 ne-bar =2.699E+13
+ > nstep =  872 time  =   2.7817528657 sec, next dt = 0.0000248662 sec
+ te-axis =  1.920 ti-axis =  1.699 ne-axis =4.868E+13 ne-bar =2.699E+13
+ > nstep =  874 time  =   2.7818037601 sec, next dt = 0.0000303370 sec
+ te-axis =  1.920 ti-axis =  1.699 ne-axis =4.868E+13 ne-bar =2.698E+13
+ > nstep =  876 time  =   2.7818691318 sec, next dt = 0.0000395494 sec
+ te-axis =  1.921 ti-axis =  1.699 ne-axis =4.868E+13 ne-bar =2.698E+13
+ > nstep =  878 time  =   2.7819518387 sec, next dt = 0.0000537566 sec
+ te-axis =  1.920 ti-axis =  1.699 ne-axis =4.868E+13 ne-bar =2.698E+13
+ > nstep =  880 time  =   2.7820609904 sec, next dt = 0.0000675890 sec
+ te-axis =  1.920 ti-axis =  1.699 ne-axis =4.868E+13 ne-bar =2.698E+13
+ > nstep =  882 time  =   2.7821313328 sec, next dt = 0.0000036612 sec
+ te-axis =  1.920 ti-axis =  1.698 ne-axis =4.868E+13 ne-bar =2.698E+13
+ > nstep =  884 time  =   2.7821413352 sec, next dt = 0.0000109830 sec
+ te-axis =  1.920 ti-axis =  1.698 ne-axis =4.868E+13 ne-bar =2.698E+13
+ > nstep =  886 time  =   2.7821713407 sec, next dt = 0.0000259893 sec
+ te-axis =  1.920 ti-axis =  1.698 ne-axis =4.868E+13 ne-bar =2.698E+13
+ > nstep =  888 time  =   2.7821985744 sec, next dt = 0.0000021502 sec
+ te-axis =  1.920 ti-axis =  1.698 ne-axis =4.868E+13 ne-bar =2.698E+13
+ > nstep =  890 time  =   2.7822019647 sec, next dt = 0.0000020356 sec
+ te-axis =  1.920 ti-axis =  1.698 ne-axis =4.868E+13 ne-bar =2.698E+13
+ > nstep =  892 time  =   2.7822043912 sec, next dt = 0.0000006771 sec
+ te-axis =  1.920 ti-axis =  1.698 ne-axis =4.868E+13 ne-bar =2.698E+13
+ > nstep =  894 time  =   2.7822062411 sec, next dt = 0.0000020313 sec
+ te-axis =  1.920 ti-axis =  1.698 ne-axis =4.868E+13 ne-bar =2.698E+13
+ > nstep =  896 time  =   2.7822117906 sec, next dt = 0.0000057805 sec
+ te-axis =  1.920 ti-axis =  1.698 ne-axis =4.868E+13 ne-bar =2.698E+13
+ > nstep =  898 time  =   2.7822275828 sec, next dt = 0.0000173404 sec
+ te-axis =  1.920 ti-axis =  1.698 ne-axis =4.868E+13 ne-bar =2.698E+13
+ > nstep =  900 time  =   2.7822749567 sec, next dt = 0.0000469836 sec
+ te-axis =  1.920 ti-axis =  1.699 ne-axis =4.869E+13 ne-bar =2.698E+13
+ > nstep =  902 time  =   2.7823889829 sec, next dt = 0.0000337554 sec
+ te-axis =  1.920 ti-axis =  1.701 ne-axis =4.869E+13 ne-bar =2.698E+13
+ > nstep =  904 time  =   2.7824394215 sec, next dt = 0.0000288952 sec
+ te-axis =  1.920 ti-axis =  1.702 ne-axis =4.869E+13 ne-bar =2.698E+13
+ > nstep =  906 time  =   2.7824737416 sec, next dt = 0.0000046393 sec
+ te-axis =  1.920 ti-axis =  1.702 ne-axis =4.869E+13 ne-bar =2.698E+13
+ > nstep =  908 time  =   2.7824864161 sec, next dt = 0.0000139170 sec
+ te-axis =  1.920 ti-axis =  1.702 ne-axis =4.869E+13 ne-bar =2.698E+13
+ > nstep =  910 time  =   2.7825004458 sec, next dt = 0.0000001951 sec
+ te-axis =  1.920 ti-axis =  1.702 ne-axis =4.869E+13 ne-bar =2.698E+13
+ > nstep =  912 time  =   2.7825009787 sec, next dt = 0.0000004662 sec
+ te-axis =  1.920 ti-axis =  1.702 ne-axis =4.869E+13 ne-bar =2.698E+13
+ > nstep =  914 time  =   2.7825022522 sec, next dt = 0.0000013984 sec
+ te-axis =  1.920 ti-axis =  1.702 ne-axis =4.869E+13 ne-bar =2.698E+13
+ > nstep =  916 time  =   2.7825060726 sec, next dt = 0.0000041949 sec
+ te-axis =  1.920 ti-axis =  1.702 ne-axis =4.869E+13 ne-bar =2.698E+13
+ > nstep =  918 time  =   2.7825175329 sec, next dt = 0.0000125838 sec
+ te-axis =  1.920 ti-axis =  1.702 ne-axis =4.869E+13 ne-bar =2.698E+13
+ > nstep =  920 time  =   2.7825519120 sec, next dt = 0.0000377493 sec
+ te-axis =  1.920 ti-axis =  1.702 ne-axis =4.869E+13 ne-bar =2.698E+13
+ > nstep =  922 time  =   2.7826533400 sec, next dt = 0.0000969989 sec
+ te-axis =  1.920 ti-axis =  1.702 ne-axis =4.868E+13 ne-bar =2.698E+13
+ > nstep =  924 time  =   2.7827595625 sec, next dt = 0.0000082166 sec
+ te-axis =  1.920 ti-axis =  1.702 ne-axis =4.868E+13 ne-bar =2.698E+13
+ > nstep =  926 time  =   2.7827814597 sec, next dt = 0.0000236947 sec
+ te-axis =  1.920 ti-axis =  1.702 ne-axis =4.868E+13 ne-bar =2.698E+13
+ > nstep =  928 time  =   2.7828461937 sec, next dt = 0.0000710800 sec
+ te-axis =  1.920 ti-axis =  1.702 ne-axis =4.867E+13 ne-bar =2.698E+13
+ > nstep =  930 time  =   2.7830403843 sec, next dt = 0.0002132276 sec
+ te-axis =  1.920 ti-axis =  1.702 ne-axis =4.867E+13 ne-bar =2.698E+13
+ > nstep =  932 time  =   2.7836229220 sec, next dt = 0.0006396452 sec
+ te-axis =  1.920 ti-axis =  1.701 ne-axis =4.864E+13 ne-bar =2.698E+13
+ > nstep =  934 time  =   2.7853704326 sec, next dt = 0.0013647058 sec
+ te-axis =  1.921 ti-axis =  1.701 ne-axis =4.858E+13 ne-bar =2.699E+13
+ > nstep =  936 time  =   2.7889832624 sec, next dt = 0.0038937507 sec
+ te-axis =  1.923 ti-axis =  1.700 ne-axis =4.845E+13 ne-bar =2.699E+13
+ > nstep =  938 time  =   2.7961341374 sec, next dt = 0.0044986848 sec
+ te-axis =  1.927 ti-axis =  1.697 ne-axis =4.816E+13 ne-bar =2.694E+13
+ > nstep =  940 time  =   2.8081328222 sec, next dt = 0.0075000000 sec
+ te-axis =  1.931 ti-axis =  1.694 ne-axis =4.776E+13 ne-bar =2.692E+13
+ > nstep =  942 time  =   2.8231328222 sec, next dt = 0.0075000000 sec
+ te-axis =  1.935 ti-axis =  1.691 ne-axis =4.736E+13 ne-bar =2.696E+13
+ > nstep =  944 time  =   2.8306633403 sec, next dt = 0.0000459358 sec
+ te-axis =  1.937 ti-axis =  1.689 ne-axis =4.719E+13 ne-bar =2.700E+13
+ > nstep =  946 time  =   2.8306822616 sec, next dt = 0.0000025864 sec
+ te-axis =  1.937 ti-axis =  1.689 ne-axis =4.719E+13 ne-bar =2.702E+13
+ > nstep =  948 time  =   2.8306866669 sec, next dt = 0.0000019929 sec
+ te-axis =  1.937 ti-axis =  1.689 ne-axis =4.719E+13 ne-bar =2.704E+13
+ > nstep =  950 time  =   2.8306893683 sec, next dt = 0.0000012272 sec
+ te-axis =  1.937 ti-axis =  1.689 ne-axis =4.719E+13 ne-bar =2.705E+13
+ > nstep =  952 time  =   2.8306911531 sec, next dt = 0.0000004145 sec
+ te-axis =  1.937 ti-axis =  1.689 ne-axis =4.719E+13 ne-bar =2.706E+13
+ > nstep =  954 time  =   2.8306922855 sec, next dt = 0.0000012435 sec
+ te-axis =  1.937 ti-axis =  1.689 ne-axis =4.719E+13 ne-bar =2.707E+13
+ > nstep =  956 time  =   2.8306956827 sec, next dt = 0.0000037012 sec
+ te-axis =  1.937 ti-axis =  1.689 ne-axis =4.719E+13 ne-bar =2.708E+13
+ > nstep =  958 time  =   2.8307057943 sec, next dt = 0.0000111028 sec
+ te-axis =  1.937 ti-axis =  1.689 ne-axis =4.719E+13 ne-bar =2.710E+13
+ > nstep =  960 time  =   2.8307361272 sec, next dt = 0.0000234263 sec
+ te-axis =  1.937 ti-axis =  1.689 ne-axis =4.719E+13 ne-bar =2.710E+13
+ > nstep =  962 time  =   2.8307837490 sec, next dt = 0.0000292141 sec
+ te-axis =  1.937 ti-axis =  1.689 ne-axis =4.719E+13 ne-bar =2.709E+13
+ > nstep =  964 time  =   2.8308474957 sec, next dt = 0.0000438216 sec
+ te-axis =  1.937 ti-axis =  1.689 ne-axis =4.718E+13 ne-bar =2.709E+13
+ > nstep =  966 time  =   2.8309456362 sec, next dt = 0.0000629798 sec
+ te-axis =  1.937 ti-axis =  1.689 ne-axis =4.718E+13 ne-bar =2.709E+13
+ > nstep =  968 time  =   2.8310777419 sec, next dt = 0.0000864319 sec
+ te-axis =  1.937 ti-axis =  1.689 ne-axis =4.718E+13 ne-bar =2.709E+13
+ > nstep =  970 time  =   2.8312403557 sec, next dt = 0.0001017852 sec
+ te-axis =  1.937 ti-axis =  1.689 ne-axis =4.718E+13 ne-bar =2.709E+13
+ > nstep =  972 time  =   2.8312506240 sec, next dt = 0.0000112749 sec
+ te-axis =  1.937 ti-axis =  1.689 ne-axis =4.718E+13 ne-bar =2.709E+13
+ > nstep =  974 time  =   2.8312814271 sec, next dt = 0.0000338227 sec
+ te-axis =  1.937 ti-axis =  1.689 ne-axis =4.718E+13 ne-bar =2.709E+13
+ > nstep =  976 time  =   2.8313152388 sec, next dt = 0.0000371264 sec
+ te-axis =  1.937 ti-axis =  1.689 ne-axis =4.717E+13 ne-bar =2.709E+13
+ > nstep =  978 time  =   2.8313932411 sec, next dt = 0.0000707969 sec
+ te-axis =  1.936 ti-axis =  1.688 ne-axis =4.718E+13 ne-bar =2.709E+13
+ > nstep =  980 time  =   2.8315388615 sec, next dt = 0.0001269507 sec
+ te-axis =  1.936 ti-axis =  1.687 ne-axis =4.720E+13 ne-bar =2.709E+13
+ > nstep =  982 time  =   2.8316466594 sec, next dt = 0.0001183655 sec
+ te-axis =  1.935 ti-axis =  1.686 ne-axis =4.721E+13 ne-bar =2.709E+13
+ > nstep =  984 time  =   2.8319051003 sec, next dt = 0.0001843830 sec
+ te-axis =  1.934 ti-axis =  1.684 ne-axis =4.724E+13 ne-bar =2.709E+13
+ > nstep =  986 time  =   2.8324049438 sec, next dt = 0.0005463777 sec
+ te-axis =  1.932 ti-axis =  1.682 ne-axis =4.728E+13 ne-bar =2.709E+13
+ > nstep =  988 time  =   2.8338976479 sec, next dt = 0.0016390371 sec
+ te-axis =  1.927 ti-axis =  1.677 ne-axis =4.739E+13 ne-bar =2.711E+13
+ > nstep =  990 time  =   2.8364820094 sec, next dt = 0.0010630658 sec
+ te-axis =  1.922 ti-axis =  1.673 ne-axis =4.753E+13 ne-bar =2.714E+13
+ > nstep =  992 time  =   2.8393863051 sec, next dt = 0.0031890103 sec
+ te-axis =  1.918 ti-axis =  1.669 ne-axis =4.765E+13 ne-bar =2.714E+13
+ > nstep =  994 time  =   2.8480986812 sec, next dt = 0.0075000000 sec
+ te-axis =  1.908 ti-axis =  1.660 ne-axis =4.793E+13 ne-bar =2.718E+13
+ > nstep =  996 time  =   2.8630986812 sec, next dt = 0.0075000000 sec
+ te-axis =  1.894 ti-axis =  1.648 ne-axis =4.838E+13 ne-bar =2.724E+13
+ > nstep =  998 time  =   2.8632594703 sec, next dt = 0.0000331315 sec
+ te-axis =  1.895 ti-axis =  1.649 ne-axis =4.837E+13 ne-bar =2.723E+13
+ > nstep = 1000 time  =   2.8632696831 sec, next dt = 0.0000099000 sec
+ te-axis =  1.895 ti-axis =  1.649 ne-axis =4.837E+13 ne-bar =2.723E+13
+ > nstep = 1002 time  =   2.8632932978 sec, next dt = 0.0000146874 sec
+ te-axis =  1.895 ti-axis =  1.650 ne-axis =4.836E+13 ne-bar =2.723E+13
+ > nstep = 1004 time  =   2.8633219194 sec, next dt = 0.0000124568 sec
+ te-axis =  1.895 ti-axis =  1.650 ne-axis =4.836E+13 ne-bar =2.722E+13
+ > nstep = 1006 time  =   2.8633457037 sec, next dt = 0.0000151851 sec
+ te-axis =  1.896 ti-axis =  1.650 ne-axis =4.836E+13 ne-bar =2.722E+13
+ > nstep = 1008 time  =   2.8633871893 sec, next dt = 0.0000357567 sec
+ te-axis =  1.896 ti-axis =  1.650 ne-axis =4.835E+13 ne-bar =2.721E+13
+ > nstep = 1010 time  =   2.8634641008 sec, next dt = 0.0000425372 sec
+ te-axis =  1.896 ti-axis =  1.650 ne-axis =4.834E+13 ne-bar =2.720E+13
+ > nstep = 1012 time  =   2.8635447335 sec, next dt = 0.0000295648 sec
+ te-axis =  1.896 ti-axis =  1.651 ne-axis =4.834E+13 ne-bar =2.718E+13
+ > nstep = 1014 time  =   2.8635948224 sec, next dt = 0.0000127995 sec
+ te-axis =  1.897 ti-axis =  1.651 ne-axis =4.833E+13 ne-bar =2.717E+13
+ > nstep = 1016 time  =   2.8636144243 sec, next dt = 0.0000042502 sec
+ te-axis =  1.897 ti-axis =  1.651 ne-axis =4.833E+13 ne-bar =2.717E+13
+ > nstep = 1018 time  =   2.8636260359 sec, next dt = 0.0000127500 sec
+ te-axis =  1.897 ti-axis =  1.651 ne-axis =4.833E+13 ne-bar =2.717E+13
+ > nstep = 1020 time  =   2.8636608688 sec, next dt = 0.0000382476 sec
+ te-axis =  1.897 ti-axis =  1.651 ne-axis =4.832E+13 ne-bar =2.716E+13
+ > nstep = 1022 time  =   2.8637653613 sec, next dt = 0.0001147361 sec
+ te-axis =  1.897 ti-axis =  1.652 ne-axis =4.832E+13 ne-bar =2.715E+13
+ > nstep = 1024 time  =   2.8640788203 sec, next dt = 0.0003441881 sec
+ te-axis =  1.898 ti-axis =  1.653 ne-axis =4.830E+13 ne-bar =2.714E+13
+ > nstep = 1026 time  =   2.8647293974 sec, next dt = 0.0002320150 sec
+ te-axis =  1.899 ti-axis =  1.653 ne-axis =4.828E+13 ne-bar =2.714E+13
+ > nstep = 1028 time  =   2.8651836379 sec, next dt = 0.0002632676 sec
+ te-axis =  1.899 ti-axis =  1.654 ne-axis =4.827E+13 ne-bar =2.715E+13
+ > nstep = 1030 time  =   2.8659028851 sec, next dt = 0.0007897566 sec
+ te-axis =  1.900 ti-axis =  1.654 ne-axis =4.826E+13 ne-bar =2.716E+13
+ > nstep = 1032 time  =   2.8664076544 sec, next dt = 0.0004187636 sec
+ te-axis =  1.900 ti-axis =  1.654 ne-axis =4.825E+13 ne-bar =2.717E+13
+ > nstep = 1034 time  =   2.8671598684 sec, next dt = 0.0005775361 sec
+ te-axis =  1.900 ti-axis =  1.654 ne-axis =4.823E+13 ne-bar =2.717E+13
+ > nstep = 1036 time  =   2.8684446437 sec, next dt = 0.0004456474 sec
+ te-axis =  1.900 ti-axis =  1.652 ne-axis =4.822E+13 ne-bar =2.717E+13
+ > nstep = 1038 time  =   2.8690000668 sec, next dt = 0.0000878358 sec
+ te-axis =  1.900 ti-axis =  1.652 ne-axis =4.821E+13 ne-bar =2.717E+13
+ > nstep = 1040 time  =   2.8691655745 sec, next dt = 0.0000819699 sec
+ te-axis =  1.901 ti-axis =  1.652 ne-axis =4.821E+13 ne-bar =2.717E+13
+ > nstep = 1042 time  =   2.8693210992 sec, next dt = 0.0000830141 sec
+ te-axis =  1.901 ti-axis =  1.652 ne-axis =4.820E+13 ne-bar =2.716E+13
+ > nstep = 1044 time  =   2.8695060430 sec, next dt = 0.0000839535 sec
+ te-axis =  1.901 ti-axis =  1.652 ne-axis =4.818E+13 ne-bar =2.716E+13
+ > nstep = 1046 time  =   2.8696064466 sec, next dt = 0.0000105487 sec
+ te-axis =  1.902 ti-axis =  1.652 ne-axis =4.818E+13 ne-bar =2.716E+13
+ > nstep = 1048 time  =   2.8696352655 sec, next dt = 0.0000278860 sec
+ te-axis =  1.902 ti-axis =  1.652 ne-axis =4.818E+13 ne-bar =2.716E+13
+ > nstep = 1050 time  =   2.8697114501 sec, next dt = 0.0000733325 sec
+ te-axis =  1.902 ti-axis =  1.652 ne-axis =4.817E+13 ne-bar =2.716E+13
+ > nstep = 1052 time  =   2.8697930109 sec, next dt = 0.0000142165 sec
+ te-axis =  1.902 ti-axis =  1.652 ne-axis =4.817E+13 ne-bar =2.717E+13
+ > nstep = 1054 time  =   2.8698318504 sec, next dt = 0.0000214465 sec
+ te-axis =  1.902 ti-axis =  1.652 ne-axis =4.816E+13 ne-bar =2.716E+13
+ > nstep = 1056 time  =   2.8698543960 sec, next dt = 0.0000018100 sec
+ te-axis =  1.902 ti-axis =  1.652 ne-axis =4.816E+13 ne-bar =2.716E+13
+ > nstep = 1058 time  =   2.8698572498 sec, next dt = 0.0000015902 sec
+ te-axis =  1.902 ti-axis =  1.652 ne-axis =4.816E+13 ne-bar =2.716E+13
+ > nstep = 1060 time  =   2.8698615942 sec, next dt = 0.0000047703 sec
+ te-axis =  1.902 ti-axis =  1.652 ne-axis =4.816E+13 ne-bar =2.716E+13
+ > nstep = 1062 time  =   2.8698746266 sec, next dt = 0.0000143100 sec
+ te-axis =  1.902 ti-axis =  1.652 ne-axis =4.816E+13 ne-bar =2.716E+13
+ > nstep = 1064 time  =   2.8699137215 sec, next dt = 0.0000429274 sec
+ te-axis =  1.902 ti-axis =  1.652 ne-axis =4.816E+13 ne-bar =2.716E+13
+ > nstep = 1066 time  =   2.8700309993 sec, next dt = 0.0000947055 sec
+ te-axis =  1.902 ti-axis =  1.652 ne-axis =4.816E+13 ne-bar =2.717E+13
+ > nstep = 1068 time  =   2.8702864501 sec, next dt = 0.0002784109 sec
+ te-axis =  1.902 ti-axis =  1.650 ne-axis =4.817E+13 ne-bar =2.717E+13
+ > nstep = 1070 time  =   2.8710470687 sec, next dt = 0.0008351838 sec
+ te-axis =  1.901 ti-axis =  1.647 ne-axis =4.817E+13 ne-bar =2.717E+13
+ > nstep = 1072 time  =   2.8729652733 sec, next dt = 0.0018757920 sec
+ te-axis =  1.898 ti-axis =  1.641 ne-axis =4.822E+13 ne-bar =2.718E+13
+ > nstep = 1074 time  =   2.8746717863 sec, next dt = 0.0018738062 sec
+ te-axis =  1.895 ti-axis =  1.636 ne-axis =4.826E+13 ne-bar =2.719E+13
+ > nstep = 1076 time  =   2.8746805008 sec, next dt = 0.0000045445 sec
+ te-axis =  1.895 ti-axis =  1.636 ne-axis =4.826E+13 ne-bar =2.720E+13
+ > nstep = 1078 time  =   2.8746929163 sec, next dt = 0.0000134369 sec
+ te-axis =  1.895 ti-axis =  1.636 ne-axis =4.826E+13 ne-bar =2.719E+13
+ > nstep = 1080 time  =   2.8747224067 sec, next dt = 0.0000168104 sec
+ te-axis =  1.895 ti-axis =  1.636 ne-axis =4.826E+13 ne-bar =2.719E+13
+ > nstep = 1082 time  =   2.8747552420 sec, next dt = 0.0000144286 sec
+ te-axis =  1.895 ti-axis =  1.636 ne-axis =4.826E+13 ne-bar =2.718E+13
+ > nstep = 1084 time  =   2.8747827257 sec, next dt = 0.0000118433 sec
+ te-axis =  1.895 ti-axis =  1.636 ne-axis =4.826E+13 ne-bar =2.718E+13
+ > nstep = 1086 time  =   2.8748119309 sec, next dt = 0.0000300707 sec
+ te-axis =  1.895 ti-axis =  1.636 ne-axis =4.826E+13 ne-bar =2.717E+13
+ > nstep = 1088 time  =   2.8748761148 sec, next dt = 0.0000322356 sec
+ te-axis =  1.895 ti-axis =  1.636 ne-axis =4.826E+13 ne-bar =2.717E+13
+ > nstep = 1090 time  =   2.8749409307 sec, next dt = 0.0000365320 sec
+ te-axis =  1.895 ti-axis =  1.637 ne-axis =4.825E+13 ne-bar =2.717E+13
+ > nstep = 1092 time  =   2.8750243214 sec, next dt = 0.0000702849 sec
+ te-axis =  1.895 ti-axis =  1.637 ne-axis =4.825E+13 ne-bar =2.717E+13
+ > nstep = 1094 time  =   2.8752163398 sec, next dt = 0.0002108424 sec
+ te-axis =  1.895 ti-axis =  1.637 ne-axis =4.825E+13 ne-bar =2.718E+13
+ > nstep = 1096 time  =   2.8757923611 sec, next dt = 0.0006324900 sec
+ te-axis =  1.894 ti-axis =  1.636 ne-axis =4.826E+13 ne-bar =2.718E+13
+ > nstep = 1098 time  =   2.8768013990 sec, next dt = 0.0005494571 sec
+ te-axis =  1.893 ti-axis =  1.636 ne-axis =4.828E+13 ne-bar =2.718E+13
+ > nstep = 1100 time  =   2.8782073183 sec, next dt = 0.0014566009 sec
+ te-axis =  1.890 ti-axis =  1.634 ne-axis =4.832E+13 ne-bar =2.718E+13
+ > nstep = 1102 time  =   2.8821867520 sec, next dt = 0.0043695464 sec
+ te-axis =  1.885 ti-axis =  1.635 ne-axis =4.847E+13 ne-bar =2.720E+13
+ > nstep = 1104 time  =   2.8865870087 sec, next dt = 0.0000531900 sec
+ te-axis =  1.882 ti-axis =  1.639 ne-axis =4.864E+13 ne-bar =2.722E+13
+ > nstep = 1106 time  =   2.8866204768 sec, next dt = 0.0000040141 sec
+ te-axis =  1.882 ti-axis =  1.639 ne-axis =4.864E+13 ne-bar =2.722E+13
+ > nstep = 1108 time  =   2.8866314432 sec, next dt = 0.0000120415 sec
+ te-axis =  1.882 ti-axis =  1.639 ne-axis =4.864E+13 ne-bar =2.722E+13
+ > nstep = 1110 time  =   2.8866573478 sec, next dt = 0.0000139732 sec
+ te-axis =  1.882 ti-axis =  1.639 ne-axis =4.864E+13 ne-bar =2.722E+13
+ > nstep = 1112 time  =   2.8866838610 sec, next dt = 0.0000114351 sec
+ te-axis =  1.882 ti-axis =  1.639 ne-axis =4.864E+13 ne-bar =2.721E+13
+ > nstep = 1114 time  =   2.8867075314 sec, next dt = 0.0000211915 sec
+ te-axis =  1.882 ti-axis =  1.639 ne-axis =4.864E+13 ne-bar =2.721E+13
+ > nstep = 1116 time  =   2.8867606727 sec, next dt = 0.0000553371 sec
+ te-axis =  1.882 ti-axis =  1.639 ne-axis =4.864E+13 ne-bar =2.720E+13
+ > nstep = 1118 time  =   2.8869118536 sec, next dt = 0.0000776124 sec
+ te-axis =  1.882 ti-axis =  1.639 ne-axis =4.864E+13 ne-bar =2.719E+13
+ > nstep = 1120 time  =   2.8870367762 sec, next dt = 0.0000344632 sec
+ te-axis =  1.882 ti-axis =  1.639 ne-axis =4.864E+13 ne-bar =2.719E+13
+ > nstep = 1122 time  =   2.8871046067 sec, next dt = 0.0000384511 sec
+ te-axis =  1.882 ti-axis =  1.639 ne-axis =4.864E+13 ne-bar =2.720E+13
+ > nstep = 1124 time  =   2.8871976128 sec, next dt = 0.0000944893 sec
+ te-axis =  1.882 ti-axis =  1.639 ne-axis =4.864E+13 ne-bar =2.720E+13
+ > nstep = 1126 time  =   2.8874312198 sec, next dt = 0.0002409518 sec
+ te-axis =  1.882 ti-axis =  1.639 ne-axis =4.864E+13 ne-bar =2.720E+13
+ > nstep = 1128 time  =   2.8876875819 sec, next dt = 0.0000266906 sec
+ te-axis =  1.882 ti-axis =  1.639 ne-axis =4.865E+13 ne-bar =2.721E+13
+ > nstep = 1130 time  =   2.8877605007 sec, next dt = 0.0000389657 sec
+ te-axis =  1.882 ti-axis =  1.639 ne-axis =4.865E+13 ne-bar =2.720E+13
+ > nstep = 1132 time  =   2.8878006594 sec, next dt = 0.0000014217 sec
+ te-axis =  1.882 ti-axis =  1.639 ne-axis =4.865E+13 ne-bar =2.720E+13
+ > nstep = 1134 time  =   2.8878029011 sec, next dt = 0.0000014202 sec
+ te-axis =  1.882 ti-axis =  1.639 ne-axis =4.865E+13 ne-bar =2.720E+13
+ > nstep = 1136 time  =   2.8878067811 sec, next dt = 0.0000042604 sec
+ te-axis =  1.882 ti-axis =  1.639 ne-axis =4.865E+13 ne-bar =2.720E+13
+ > nstep = 1138 time  =   2.8878134987 sec, next dt = 0.0000042559 sec
+ te-axis =  1.882 ti-axis =  1.639 ne-axis =4.865E+13 ne-bar =2.720E+13
+ > nstep = 1140 time  =   2.8878251257 sec, next dt = 0.0000057371 sec
+ te-axis =  1.882 ti-axis =  1.639 ne-axis =4.865E+13 ne-bar =2.720E+13
+ > nstep = 1142 time  =   2.8878407995 sec, next dt = 0.0000172103 sec
+ te-axis =  1.882 ti-axis =  1.639 ne-axis =4.865E+13 ne-bar =2.720E+13
+ > nstep = 1144 time  =   2.8878878180 sec, next dt = 0.0000171544 sec
+ te-axis =  1.882 ti-axis =  1.639 ne-axis =4.865E+13 ne-bar =2.721E+13
+ > nstep = 1146 time  =   2.8879261094 sec, next dt = 0.0000366093 sec
+ te-axis =  1.882 ti-axis =  1.639 ne-axis =4.865E+13 ne-bar =2.720E+13
+ > nstep = 1148 time  =   2.8880261261 sec, next dt = 0.0001098215 sec
+ te-axis =  1.882 ti-axis =  1.639 ne-axis =4.865E+13 ne-bar =2.720E+13
+ > nstep = 1150 time  =   2.8883261585 sec, next dt = 0.0003078067 sec
+ te-axis =  1.882 ti-axis =  1.639 ne-axis =4.866E+13 ne-bar =2.720E+13
+ > nstep = 1152 time  =   2.8891670864 sec, next dt = 0.0009233660 sec
+ te-axis =  1.882 ti-axis =  1.641 ne-axis =4.866E+13 ne-bar =2.720E+13
+ > nstep = 1154 time  =   2.8916897222 sec, next dt = 0.0027699353 sec
+ te-axis =  1.884 ti-axis =  1.644 ne-axis =4.867E+13 ne-bar =2.721E+13
+ > nstep = 1156 time  =   2.8975805389 sec, next dt = 0.0054053664 sec
+ te-axis =  1.888 ti-axis =  1.649 ne-axis =4.866E+13 ne-bar =2.721E+13
+ > nstep = 1158 time  =   2.8986997965 sec, next dt = 0.0008161291 sec
+ te-axis =  1.889 ti-axis =  1.650 ne-axis =4.866E+13 ne-bar =2.721E+13
+ > nstep = 1160 time  =   2.9009233874 sec, next dt = 0.0024377237 sec
+ te-axis =  1.890 ti-axis =  1.652 ne-axis =4.866E+13 ne-bar =2.722E+13
+ > nstep = 1162 time  =   2.9047670828 sec, next dt = 0.0024351431 sec
+ te-axis =  1.893 ti-axis =  1.655 ne-axis =4.864E+13 ne-bar =2.723E+13
+ > nstep = 1164 time  =   2.9114198937 sec, next dt = 0.0043431601 sec
+ te-axis =  1.898 ti-axis =  1.657 ne-axis =4.860E+13 ne-bar =2.724E+13
+ > nstep = 1166 time  =   2.9180666038 sec, next dt = 0.0035166777 sec
+ te-axis =  1.891 ti-axis =  1.645 ne-axis =4.883E+13 ne-bar =2.734E+13
+ > nstep = 1168 time  =   2.9219613346 sec, next dt = 0.0002926824 sec
+ te-axis =  1.888 ti-axis =  1.639 ne-axis =4.893E+13 ne-bar =2.735E+13
+ > nstep = 1170 time  =   2.9222884418 sec, next dt = 0.0000306646 sec
+ te-axis =  1.888 ti-axis =  1.638 ne-axis =4.893E+13 ne-bar =2.733E+13
+ > nstep = 1172 time  =   2.9223184933 sec, next dt = 0.0000149134 sec
+ te-axis =  1.888 ti-axis =  1.638 ne-axis =4.893E+13 ne-bar =2.732E+13
+ > nstep = 1174 time  =   2.9223467298 sec, next dt = 0.0000120456 sec
+ te-axis =  1.888 ti-axis =  1.638 ne-axis =4.893E+13 ne-bar =2.732E+13
+ > nstep = 1176 time  =   2.9223709261 sec, next dt = 0.0000142960 sec
+ te-axis =  1.888 ti-axis =  1.638 ne-axis =4.893E+13 ne-bar =2.731E+13
+ > nstep = 1178 time  =   2.9224099828 sec, next dt = 0.0000339021 sec
+ te-axis =  1.888 ti-axis =  1.639 ne-axis =4.893E+13 ne-bar =2.731E+13
+ > nstep = 1180 time  =   2.9224829040 sec, next dt = 0.0000402661 sec
+ te-axis =  1.889 ti-axis =  1.639 ne-axis =4.892E+13 ne-bar =2.730E+13
+ > nstep = 1182 time  =   2.9225589365 sec, next dt = 0.0000278865 sec
+ te-axis =  1.889 ti-axis =  1.639 ne-axis =4.892E+13 ne-bar =2.728E+13
+ > nstep = 1184 time  =   2.9226076445 sec, next dt = 0.0000211461 sec
+ te-axis =  1.889 ti-axis =  1.639 ne-axis =4.892E+13 ne-bar =2.728E+13
+ > nstep = 1186 time  =   2.9226654157 sec, next dt = 0.0000408291 sec
+ te-axis =  1.889 ti-axis =  1.639 ne-axis =4.892E+13 ne-bar =2.727E+13
+ > nstep = 1188 time  =   2.9227446867 sec, next dt = 0.0000377100 sec
+ te-axis =  1.889 ti-axis =  1.639 ne-axis =4.892E+13 ne-bar =2.727E+13
+ > nstep = 1190 time  =   2.9228195983 sec, next dt = 0.0000356358 sec
+ te-axis =  1.889 ti-axis =  1.639 ne-axis =4.891E+13 ne-bar =2.727E+13
+ > nstep = 1192 time  =   2.9228580849 sec, next dt = 0.0000039742 sec
+ te-axis =  1.889 ti-axis =  1.639 ne-axis =4.891E+13 ne-bar =2.727E+13
+ > nstep = 1194 time  =   2.9228638299 sec, next dt = 0.0000029592 sec
+ te-axis =  1.889 ti-axis =  1.639 ne-axis =4.891E+13 ne-bar =2.728E+13
+ > nstep = 1196 time  =   2.9228719145 sec, next dt = 0.0000088771 sec
+ te-axis =  1.889 ti-axis =  1.639 ne-axis =4.891E+13 ne-bar =2.728E+13
+ > nstep = 1198 time  =   2.9228822869 sec, next dt = 0.0000009530 sec
+ te-axis =  1.889 ti-axis =  1.639 ne-axis =4.891E+13 ne-bar =2.728E+13
+ > nstep = 1200 time  =   2.9228848907 sec, next dt = 0.0000028590 sec
+ te-axis =  1.889 ti-axis =  1.639 ne-axis =4.891E+13 ne-bar =2.728E+13
+ > nstep = 1202 time  =   2.9228927014 sec, next dt = 0.0000085764 sec
+ te-axis =  1.889 ti-axis =  1.639 ne-axis =4.891E+13 ne-bar =2.728E+13
+ > nstep = 1204 time  =   2.9229161321 sec, next dt = 0.0000257277 sec
+ te-axis =  1.889 ti-axis =  1.639 ne-axis =4.891E+13 ne-bar =2.728E+13
+ > nstep = 1206 time  =   2.9229833353 sec, next dt = 0.0000517973 sec
+ te-axis =  1.889 ti-axis =  1.639 ne-axis =4.891E+13 ne-bar =2.727E+13
+ > nstep = 1208 time  =   2.9230992230 sec, next dt = 0.0000844400 sec
+ te-axis =  1.889 ti-axis =  1.639 ne-axis =4.891E+13 ne-bar =2.728E+13
+ > nstep = 1210 time  =   2.9233065725 sec, next dt = 0.0002048559 sec
+ te-axis =  1.890 ti-axis =  1.640 ne-axis =4.891E+13 ne-bar =2.728E+13
+ > nstep = 1212 time  =   2.9238662388 sec, next dt = 0.0006145316 sec
+ te-axis =  1.890 ti-axis =  1.640 ne-axis =4.890E+13 ne-bar =2.728E+13
+ > nstep = 1214 time  =   2.9244807905 sec, next dt = 0.0000000347 sec
+ te-axis =  1.890 ti-axis =  1.640 ne-axis =4.889E+13 ne-bar =2.728E+13
+ > nstep = 1216 time  =   2.9244808854 sec, next dt = 0.0000001042 sec
+ te-axis =  1.890 ti-axis =  1.640 ne-axis =4.889E+13 ne-bar =2.728E+13
+ > nstep = 1218 time  =   2.9244810142 sec, next dt = 0.0000000425 sec
+ te-axis =  1.890 ti-axis =  1.640 ne-axis =4.889E+13 ne-bar =2.728E+13
+ > nstep = 1220 time  =   2.9244811302 sec, next dt = 0.0000001274 sec
+ te-axis =  1.890 ti-axis =  1.640 ne-axis =4.889E+13 ne-bar =2.728E+13
+ > nstep = 1222 time  =   2.9244814782 sec, next dt = 0.0000003821 sec
+ te-axis =  1.890 ti-axis =  1.640 ne-axis =4.889E+13 ne-bar =2.728E+13
+ > nstep = 1224 time  =   2.9244819350 sec, next dt = 0.0000000841 sec
+ te-axis =  1.890 ti-axis =  1.640 ne-axis =4.889E+13 ne-bar =2.728E+13
+ > nstep = 1226 time  =   2.9244821647 sec, next dt = 0.0000002522 sec
+ te-axis =  1.890 ti-axis =  1.640 ne-axis =4.889E+13 ne-bar =2.728E+13
+ > nstep = 1228 time  =   2.9244828538 sec, next dt = 0.0000007566 sec
+ te-axis =  1.890 ti-axis =  1.640 ne-axis =4.889E+13 ne-bar =2.728E+13
+ > nstep = 1230 time  =   2.9244849208 sec, next dt = 0.0000022697 sec
+ te-axis =  1.890 ti-axis =  1.640 ne-axis =4.889E+13 ne-bar =2.728E+13
+ > nstep = 1232 time  =   2.9244911215 sec, next dt = 0.0000068086 sec
+ te-axis =  1.890 ti-axis =  1.640 ne-axis =4.889E+13 ne-bar =2.728E+13
+ > nstep = 1234 time  =   2.9245097225 sec, next dt = 0.0000204245 sec
+ te-axis =  1.891 ti-axis =  1.640 ne-axis =4.889E+13 ne-bar =2.728E+13
+ > nstep = 1236 time  =   2.9245655222 sec, next dt = 0.0000584511 sec
+ te-axis =  1.891 ti-axis =  1.640 ne-axis =4.889E+13 ne-bar =2.728E+13
+ > nstep = 1238 time  =   2.9247123972 sec, next dt = 0.0001307022 sec
+ te-axis =  1.891 ti-axis =  1.640 ne-axis =4.889E+13 ne-bar =2.728E+13
+ > nstep = 1240 time  =   2.9250368797 sec, next dt = 0.0001548829 sec
+ te-axis =  1.891 ti-axis =  1.639 ne-axis =4.889E+13 ne-bar =2.728E+13
+ > nstep = 1242 time  =   2.9252047360 sec, next dt = 0.0000224699 sec
+ te-axis =  1.891 ti-axis =  1.639 ne-axis =4.889E+13 ne-bar =2.729E+13
+ > nstep = 1244 time  =   2.9252656577 sec, next dt = 0.0000348480 sec
+ te-axis =  1.891 ti-axis =  1.639 ne-axis =4.889E+13 ne-bar =2.729E+13
+ > nstep = 1246 time  =   2.9253256363 sec, next dt = 0.0000435263 sec
+ te-axis =  1.891 ti-axis =  1.639 ne-axis =4.889E+13 ne-bar =2.728E+13
+ > nstep = 1248 time  =   2.9254445502 sec, next dt = 0.0001305713 sec
+ te-axis =  1.891 ti-axis =  1.639 ne-axis =4.889E+13 ne-bar =2.728E+13
+ > nstep = 1250 time  =   2.9258012709 sec, next dt = 0.0003916908 sec
+ te-axis =  1.890 ti-axis =  1.638 ne-axis =4.890E+13 ne-bar =2.729E+13
+ > nstep = 1252 time  =   2.9268713703 sec, next dt = 0.0006478612 sec
+ te-axis =  1.890 ti-axis =  1.636 ne-axis =4.890E+13 ne-bar =2.729E+13
+ > nstep = 1254 time  =   2.9282728364 sec, next dt = 0.0010870646 sec
+ te-axis =  1.890 ti-axis =  1.637 ne-axis =4.890E+13 ne-bar =2.729E+13
+ > nstep = 1256 time  =   2.9299868721 sec, next dt = 0.0010859139 sec
+ te-axis =  1.891 ti-axis =  1.639 ne-axis =4.890E+13 ne-bar =2.729E+13
+ > nstep = 1258 time  =   2.9329535888 sec, next dt = 0.0010419304 sec
+ te-axis =  1.892 ti-axis =  1.643 ne-axis =4.890E+13 ne-bar =2.731E+13
+ > nstep = 1260 time  =   2.9353520936 sec, next dt = 0.0019146372 sec
+ te-axis =  1.893 ti-axis =  1.647 ne-axis =4.889E+13 ne-bar =2.730E+13
+ > nstep = 1262 time  =   2.9402389141 sec, next dt = 0.0051475056 sec
+ te-axis =  1.896 ti-axis =  1.654 ne-axis =4.889E+13 ne-bar =2.731E+13
+ > nstep = 1264 time  =   2.9528864197 sec, next dt = 0.0075000000 sec
+ te-axis =  1.902 ti-axis =  1.666 ne-axis =4.887E+13 ne-bar =2.734E+13
+ > nstep = 1266 time  =   2.9530711762 sec, next dt = 0.0001602684 sec
+ te-axis =  1.902 ti-axis =  1.666 ne-axis =4.887E+13 ne-bar =2.734E+13
+ > nstep = 1268 time  =   2.9535090296 sec, next dt = 0.0004807771 sec
+ te-axis =  1.903 ti-axis =  1.667 ne-axis =4.887E+13 ne-bar =2.734E+13
+ > nstep = 1270 time  =   2.9536811390 sec, next dt = 0.0001264657 sec
+ te-axis =  1.903 ti-axis =  1.667 ne-axis =4.887E+13 ne-bar =2.734E+13
+ > nstep = 1272 time  =   2.9537654434 sec, next dt = 0.0000581535 sec
+ te-axis =  1.903 ti-axis =  1.667 ne-axis =4.887E+13 ne-bar =2.734E+13
+ > nstep = 1274 time  =   2.9539243187 sec, next dt = 0.0001744503 sec
+ te-axis =  1.903 ti-axis =  1.667 ne-axis =4.888E+13 ne-bar =2.734E+13
+ > nstep = 1276 time  =   2.9544009169 sec, next dt = 0.0005233201 sec
+ te-axis =  1.902 ti-axis =  1.666 ne-axis =4.889E+13 ne-bar =2.734E+13
+ > nstep = 1278 time  =   2.9558306273 sec, next dt = 0.0015698681 sec
+ te-axis =  1.901 ti-axis =  1.663 ne-axis =4.893E+13 ne-bar =2.735E+13
+ > nstep = 1280 time  =   2.9561919921 sec, next dt = 0.0002445378 sec
+ te-axis =  1.901 ti-axis =  1.662 ne-axis =4.893E+13 ne-bar =2.735E+13
+ > nstep = 1282 time  =   2.9562013805 sec, next dt = 0.0000080664 sec
+ te-axis =  1.901 ti-axis =  1.662 ne-axis =4.893E+13 ne-bar =2.735E+13
+ > nstep = 1284 time  =   2.9562083958 sec, next dt = 0.0000074981 sec
+ te-axis =  1.901 ti-axis =  1.662 ne-axis =4.893E+13 ne-bar =2.735E+13
+ > nstep = 1286 time  =   2.9562227310 sec, next dt = 0.0000118418 sec
+ te-axis =  1.901 ti-axis =  1.662 ne-axis =4.893E+13 ne-bar =2.735E+13
+ > nstep = 1288 time  =   2.9562266997 sec, next dt = 0.0000043577 sec
+ te-axis =  1.901 ti-axis =  1.662 ne-axis =4.894E+13 ne-bar =2.735E+13
+ > nstep = 1290 time  =   2.9562267197 sec, next dt = 0.0000000220 sec
+ te-axis =  1.901 ti-axis =  1.662 ne-axis =4.894E+13 ne-bar =2.735E+13
+ > nstep = 1292 time  =   2.9562267797 sec, next dt = 0.0000000659 sec
+ te-axis =  1.901 ti-axis =  1.662 ne-axis =4.894E+13 ne-bar =2.735E+13
+ > nstep = 1294 time  =   2.9562269598 sec, next dt = 0.0000001977 sec
+ te-axis =  1.901 ti-axis =  1.662 ne-axis =4.894E+13 ne-bar =2.735E+13
+ > nstep = 1296 time  =   2.9562275000 sec, next dt = 0.0000005931 sec
+ te-axis =  1.901 ti-axis =  1.662 ne-axis =4.894E+13 ne-bar =2.735E+13
+ > nstep = 1298 time  =   2.9562291204 sec, next dt = 0.0000017793 sec
+ te-axis =  1.901 ti-axis =  1.662 ne-axis =4.894E+13 ne-bar =2.735E+13
+ > nstep = 1300 time  =   2.9562339815 sec, next dt = 0.0000053377 sec
+ te-axis =  1.901 ti-axis =  1.662 ne-axis =4.894E+13 ne-bar =2.735E+13
+ > nstep = 1302 time  =   2.9562485640 sec, next dt = 0.0000160120 sec
+ te-axis =  1.901 ti-axis =  1.662 ne-axis =4.894E+13 ne-bar =2.735E+13
+ > nstep = 1304 time  =   2.9562631311 sec, next dt = 0.0000090777 sec
+ te-axis =  1.901 ti-axis =  1.662 ne-axis =4.893E+13 ne-bar =2.735E+13
+ > nstep = 1306 time  =   2.9562879314 sec, next dt = 0.0000084459 sec
+ te-axis =  1.901 ti-axis =  1.662 ne-axis =4.893E+13 ne-bar =2.735E+13
+ > nstep = 1308 time  =   2.9563096751 sec, next dt = 0.0000212749 sec
+ te-axis =  1.901 ti-axis =  1.662 ne-axis =4.893E+13 ne-bar =2.735E+13
+ > nstep = 1310 time  =   2.9563677981 sec, next dt = 0.0000638210 sec
+ te-axis =  1.901 ti-axis =  1.662 ne-axis =4.893E+13 ne-bar =2.734E+13
+ > nstep = 1312 time  =   2.9565354905 sec, next dt = 0.0001654831 sec
+ te-axis =  1.901 ti-axis =  1.662 ne-axis =4.893E+13 ne-bar =2.735E+13
+ > nstep = 1314 time  =   2.9569712823 sec, next dt = 0.0004681746 sec
+ te-axis =  1.901 ti-axis =  1.663 ne-axis =4.893E+13 ne-bar =2.735E+13
+ > nstep = 1316 time  =   2.9581975054 sec, next dt = 0.0013129401 sec
+ te-axis =  1.902 ti-axis =  1.664 ne-axis =4.893E+13 ne-bar =2.736E+13
+ > nstep = 1318 time  =   2.9585952590 sec, next dt = 0.0004367462 sec
+ te-axis =  1.902 ti-axis =  1.664 ne-axis =4.893E+13 ne-bar =2.735E+13
+ > nstep = 1320 time  =   2.9587258420 sec, next dt = 0.0001177153 sec
+ te-axis =  1.902 ti-axis =  1.664 ne-axis =4.893E+13 ne-bar =2.735E+13
+ > nstep = 1322 time  =   2.9590474404 sec, next dt = 0.0003531253 sec
+ te-axis =  1.903 ti-axis =  1.664 ne-axis =4.892E+13 ne-bar =2.735E+13
+ > nstep = 1324 time  =   2.9591052448 sec, next dt = 0.0000310181 sec
+ te-axis =  1.903 ti-axis =  1.664 ne-axis =4.892E+13 ne-bar =2.735E+13
+ > nstep = 1326 time  =   2.9591899863 sec, next dt = 0.0000930489 sec
+ te-axis =  1.903 ti-axis =  1.664 ne-axis =4.892E+13 ne-bar =2.735E+13
+ > nstep = 1328 time  =   2.9594441961 sec, next dt = 0.0002791305 sec
+ te-axis =  1.903 ti-axis =  1.665 ne-axis =4.892E+13 ne-bar =2.735E+13
+ > nstep = 1330 time  =   2.9602067805 sec, next dt = 0.0008373423 sec
+ te-axis =  1.903 ti-axis =  1.665 ne-axis =4.891E+13 ne-bar =2.735E+13
+ > nstep = 1332 time  =   2.9624943995 sec, next dt = 0.0025118794 sec
+ te-axis =  1.905 ti-axis =  1.666 ne-axis =4.888E+13 ne-bar =2.735E+13
+ > nstep = 1334 time  =   2.9654887099 sec, next dt = 0.0003616518 sec
+ te-axis =  1.907 ti-axis =  1.666 ne-axis =4.884E+13 ne-bar =2.735E+13
+ > nstep = 1336 time  =   2.9658548167 sec, next dt = 0.0000064423 sec
+ te-axis =  1.907 ti-axis =  1.666 ne-axis =4.883E+13 ne-bar =2.736E+13
+ > nstep = 1338 time  =   2.9658698048 sec, next dt = 0.0000108969 sec
+ te-axis =  1.907 ti-axis =  1.666 ne-axis =4.883E+13 ne-bar =2.736E+13
+ > nstep = 1340 time  =   2.9658966795 sec, next dt = 0.0000276735 sec
+ te-axis =  1.907 ti-axis =  1.666 ne-axis =4.883E+13 ne-bar =2.737E+13
+ > nstep = 1342 time  =   2.9659648332 sec, next dt = 0.0000424461 sec
+ te-axis =  1.907 ti-axis =  1.666 ne-axis =4.883E+13 ne-bar =2.737E+13
+ > nstep = 1344 time  =   2.9660136927 sec, next dt = 0.0000075550 sec
+ te-axis =  1.907 ti-axis =  1.666 ne-axis =4.883E+13 ne-bar =2.737E+13
+ > nstep = 1346 time  =   2.9660343330 sec, next dt = 0.0000226637 sec
+ te-axis =  1.907 ti-axis =  1.666 ne-axis =4.883E+13 ne-bar =2.737E+13
+ > nstep = 1348 time  =   2.9660692244 sec, next dt = 0.0000076399 sec
+ te-axis =  1.907 ti-axis =  1.666 ne-axis =4.883E+13 ne-bar =2.737E+13
+ > nstep = 1350 time  =   2.9660900966 sec, next dt = 0.0000124510 sec
+ te-axis =  1.908 ti-axis =  1.666 ne-axis =4.883E+13 ne-bar =2.737E+13
+ > nstep = 1352 time  =   2.9661241129 sec, next dt = 0.0000373510 sec
+ te-axis =  1.908 ti-axis =  1.666 ne-axis =4.883E+13 ne-bar =2.737E+13
+ > nstep = 1354 time  =   2.9662261557 sec, next dt = 0.0001120463 sec
+ te-axis =  1.908 ti-axis =  1.666 ne-axis =4.883E+13 ne-bar =2.736E+13
+ > nstep = 1356 time  =   2.9665322661 sec, next dt = 0.0003361191 sec
+ te-axis =  1.908 ti-axis =  1.667 ne-axis =4.883E+13 ne-bar =2.737E+13
+ > nstep = 1358 time  =   2.9673873408 sec, next dt = 0.0008988310 sec
+ te-axis =  1.907 ti-axis =  1.666 ne-axis =4.885E+13 ne-bar =2.737E+13
+ > nstep = 1360 time  =   2.9673911159 sec, next dt = 0.0000039444 sec
+ te-axis =  1.907 ti-axis =  1.666 ne-axis =4.885E+13 ne-bar =2.737E+13
+ > nstep = 1362 time  =   2.9673995477 sec, next dt = 0.0000077720 sec
+ te-axis =  1.907 ti-axis =  1.666 ne-axis =4.885E+13 ne-bar =2.737E+13
+ > nstep = 1364 time  =   2.9673998656 sec, next dt = 0.0000003492 sec
+ te-axis =  1.907 ti-axis =  1.666 ne-axis =4.885E+13 ne-bar =2.737E+13
+ > nstep = 1366 time  =   2.9674007592 sec, next dt = 0.0000009429 sec
+ te-axis =  1.907 ti-axis =  1.666 ne-axis =4.885E+13 ne-bar =2.737E+13
+ > nstep = 1368 time  =   2.9674018765 sec, next dt = 0.0000012268 sec
+ te-axis =  1.907 ti-axis =  1.666 ne-axis =4.885E+13 ne-bar =2.737E+13
+ > nstep = 1370 time  =   2.9674052281 sec, next dt = 0.0000036802 sec
+ te-axis =  1.907 ti-axis =  1.666 ne-axis =4.885E+13 ne-bar =2.737E+13
+ > nstep = 1372 time  =   2.9674152825 sec, next dt = 0.0000110400 sec
+ te-axis =  1.907 ti-axis =  1.666 ne-axis =4.885E+13 ne-bar =2.737E+13
+ > nstep = 1374 time  =   2.9674183434 sec, next dt = 0.0000026429 sec
+ te-axis =  1.907 ti-axis =  1.666 ne-axis =4.885E+13 ne-bar =2.737E+13
+ > nstep = 1376 time  =   2.9674255637 sec, next dt = 0.0000079282 sec
+ te-axis =  1.907 ti-axis =  1.666 ne-axis =4.885E+13 ne-bar =2.737E+13
+ > nstep = 1378 time  =   2.9674472235 sec, next dt = 0.0000237831 sec
+ te-axis =  1.907 ti-axis =  1.666 ne-axis =4.885E+13 ne-bar =2.737E+13
+ > nstep = 1380 time  =   2.9675121989 sec, next dt = 0.0000671809 sec
+ te-axis =  1.907 ti-axis =  1.666 ne-axis =4.885E+13 ne-bar =2.737E+13
+ > nstep = 1382 time  =   2.9676818131 sec, next dt = 0.0001534603 sec
+ te-axis =  1.907 ti-axis =  1.666 ne-axis =4.885E+13 ne-bar =2.737E+13
+ > nstep = 1384 time  =   2.9680682650 sec, next dt = 0.0003587991 sec
+ te-axis =  1.907 ti-axis =  1.666 ne-axis =4.885E+13 ne-bar =2.737E+13
+ > nstep = 1386 time  =   2.9687907463 sec, next dt = 0.0005922340 sec
+ te-axis =  1.907 ti-axis =  1.667 ne-axis =4.885E+13 ne-bar =2.737E+13
+ > nstep = 1388 time  =   2.9703799015 sec, next dt = 0.0017266675 sec
+ te-axis =  1.908 ti-axis =  1.669 ne-axis =4.885E+13 ne-bar =2.737E+13
+ > nstep = 1390 time  =   2.9750971571 sec, next dt = 0.0034813859 sec
+ te-axis =  1.911 ti-axis =  1.676 ne-axis =4.883E+13 ne-bar =2.737E+13
+ > nstep = 1392 time  =   2.9833343438 sec, next dt = 0.0075000000 sec
+ te-axis =  1.919 ti-axis =  1.690 ne-axis =4.876E+13 ne-bar =2.736E+13
+
+    5 update equilibrium in sbrtn mhdNEW at time  2.9946E+00 sec
+ > nstep = 1394 time  =   2.9909252291 sec, next dt = 0.0001574133 sec
+ te-axis =  1.926 ti-axis =  1.700 ne-axis =4.869E+13 ne-bar =2.736E+13
+ > nstep = 1396 time  =   2.9910828523 sec, next dt = 0.0000002512 sec
+ te-axis =  1.926 ti-axis =  1.700 ne-axis =4.869E+13 ne-bar =2.738E+13
+ > nstep = 1398 time  =   2.9910834423 sec, next dt = 0.0000004233 sec
+ te-axis =  1.926 ti-axis =  1.700 ne-axis =4.869E+13 ne-bar =2.738E+13
+ > nstep = 1400 time  =   2.9910844991 sec, next dt = 0.0000007291 sec
+ te-axis =  1.926 ti-axis =  1.700 ne-axis =4.869E+13 ne-bar =2.739E+13
+ > nstep = 1402 time  =   2.9910861524 sec, next dt = 0.0000011257 sec
+ te-axis =  1.926 ti-axis =  1.700 ne-axis =4.869E+13 ne-bar =2.740E+13
+ > nstep = 1404 time  =   2.9910886316 sec, next dt = 0.0000016212 sec
+ te-axis =  1.926 ti-axis =  1.700 ne-axis =4.869E+13 ne-bar =2.741E+13
+ > nstep = 1406 time  =   2.9910922168 sec, next dt = 0.0000029184 sec
+ te-axis =  1.926 ti-axis =  1.700 ne-axis =4.869E+13 ne-bar =2.742E+13
+ > nstep = 1408 time  =   2.9911001897 sec, next dt = 0.0000087546 sec
+ te-axis =  1.926 ti-axis =  1.700 ne-axis =4.869E+13 ne-bar =2.743E+13
+ > nstep = 1410 time  =   2.9911241073 sec, next dt = 0.0000221631 sec
+ te-axis =  1.926 ti-axis =  1.700 ne-axis =4.869E+13 ne-bar =2.743E+13
+ > nstep = 1412 time  =   2.9911696821 sec, next dt = 0.0000299281 sec
+ te-axis =  1.926 ti-axis =  1.700 ne-axis =4.869E+13 ne-bar =2.742E+13
+ > nstep = 1414 time  =   2.9912380855 sec, next dt = 0.0000521119 sec
+ te-axis =  1.926 ti-axis =  1.701 ne-axis =4.869E+13 ne-bar =2.742E+13
+ > nstep = 1416 time  =   2.9912732233 sec, next dt = 0.0000308028 sec
+ te-axis =  1.926 ti-axis =  1.701 ne-axis =4.869E+13 ne-bar =2.742E+13
+ > nstep = 1418 time  =   2.9913514080 sec, next dt = 0.0000599528 sec
+ te-axis =  1.927 ti-axis =  1.701 ne-axis =4.869E+13 ne-bar =2.742E+13
+ > nstep = 1420 time  =   2.9915000849 sec, next dt = 0.0001191479 sec
+ te-axis =  1.927 ti-axis =  1.701 ne-axis =4.868E+13 ne-bar =2.742E+13
+ > nstep = 1422 time  =   2.9915739085 sec, next dt = 0.0000591433 sec
+ te-axis =  1.927 ti-axis =  1.701 ne-axis =4.868E+13 ne-bar =2.742E+13
+ > nstep = 1424 time  =   2.9917317809 sec, next dt = 0.0001525178 sec
+ te-axis =  1.927 ti-axis =  1.702 ne-axis =4.868E+13 ne-bar =2.742E+13
+ > nstep = 1426 time  =   2.9917536819 sec, next dt = 0.0000186334 sec
+ te-axis =  1.927 ti-axis =  1.702 ne-axis =4.867E+13 ne-bar =2.742E+13
+ > nstep = 1428 time  =   2.9917691319 sec, next dt = 0.0000160125 sec
+ te-axis =  1.927 ti-axis =  1.702 ne-axis =4.867E+13 ne-bar =2.742E+13
+ > nstep = 1430 time  =   2.9918128780 sec, next dt = 0.0000480346 sec
+ te-axis =  1.927 ti-axis =  1.702 ne-axis =4.867E+13 ne-bar =2.742E+13
+ > nstep = 1432 time  =   2.9918504222 sec, next dt = 0.0000373224 sec
+ te-axis =  1.927 ti-axis =  1.702 ne-axis =4.867E+13 ne-bar =2.742E+13
+ > nstep = 1434 time  =   2.9919140087 sec, next dt = 0.0000379717 sec
+ te-axis =  1.927 ti-axis =  1.702 ne-axis =4.867E+13 ne-bar =2.743E+13
+ > nstep = 1436 time  =   2.9920177474 sec, next dt = 0.0001139085 sec
+ te-axis =  1.928 ti-axis =  1.702 ne-axis =4.867E+13 ne-bar =2.742E+13
+ > nstep = 1438 time  =   2.9923289453 sec, next dt = 0.0003417053 sec
+ te-axis =  1.928 ti-axis =  1.702 ne-axis =4.866E+13 ne-bar =2.742E+13
+ > nstep = 1440 time  =   2.9932624842 sec, next dt = 0.0010250558 sec
+ te-axis =  1.929 ti-axis =  1.703 ne-axis =4.864E+13 ne-bar =2.742E+13
+ > nstep = 1442 time  =   2.9937925490 sec, next dt = 0.0003042484 sec
+ te-axis =  1.930 ti-axis =  1.703 ne-axis =4.863E+13 ne-bar =2.743E+13
+ > nstep = 1444 time  =   2.9938041903 sec, next dt = 0.0000115534 sec
+ te-axis =  1.930 ti-axis =  1.703 ne-axis =4.863E+13 ne-bar =2.743E+13
+ > nstep = 1446 time  =   2.9938242583 sec, next dt = 0.0000147473 sec
+ te-axis =  1.930 ti-axis =  1.704 ne-axis =4.863E+13 ne-bar =2.743E+13
+ > nstep = 1448 time  =   2.9938488025 sec, next dt = 0.0000169683 sec
+ te-axis =  1.930 ti-axis =  1.704 ne-axis =4.863E+13 ne-bar =2.743E+13
+ > nstep = 1450 time  =   2.9938744503 sec, next dt = 0.0000130379 sec
+ te-axis =  1.930 ti-axis =  1.704 ne-axis =4.863E+13 ne-bar =2.743E+13
+ > nstep = 1452 time  =   2.9938863116 sec, next dt = 0.0000129031 sec
+ te-axis =  1.930 ti-axis =  1.704 ne-axis =4.863E+13 ne-bar =2.743E+13
+ > nstep = 1454 time  =   2.9938882935 sec, next dt = 0.0000018352 sec
+ te-axis =  1.930 ti-axis =  1.704 ne-axis =4.863E+13 ne-bar =2.743E+13
+ > nstep = 1456 time  =   2.9938933074 sec, next dt = 0.0000055054 sec
+ te-axis =  1.930 ti-axis =  1.704 ne-axis =4.863E+13 ne-bar =2.743E+13
+ > nstep = 1458 time  =   2.9939083482 sec, next dt = 0.0000165153 sec
+ te-axis =  1.930 ti-axis =  1.704 ne-axis =4.863E+13 ne-bar =2.743E+13
+ > nstep = 1460 time  =   2.9939534680 sec, next dt = 0.0000495430 sec
+ te-axis =  1.930 ti-axis =  1.704 ne-axis =4.863E+13 ne-bar =2.743E+13
+ > nstep = 1462 time  =   2.9940847681 sec, next dt = 0.0001290236 sec
+ te-axis =  1.930 ti-axis =  1.704 ne-axis =4.862E+13 ne-bar =2.743E+13
+ > nstep = 1464 time  =   2.9942813895 sec, next dt = 0.0000462381 sec
+ te-axis =  1.930 ti-axis =  1.704 ne-axis =4.862E+13 ne-bar =2.743E+13
+ > nstep = 1466 time  =   2.9944009577 sec, next dt = 0.0001008820 sec
+ te-axis =  1.930 ti-axis =  1.704 ne-axis =4.862E+13 ne-bar =2.743E+13
+ > nstep = 1468 time  =   2.9945067009 sec, next dt = 0.0000055265 sec
+ te-axis =  1.930 ti-axis =  1.704 ne-axis =4.861E+13 ne-bar =2.743E+13
+ > nstep = 1470 time  =   2.9945217992 sec, next dt = 0.0000165785 sec
+ te-axis =  1.930 ti-axis =  1.704 ne-axis =4.861E+13 ne-bar =2.743E+13
+ > nstep = 1472 time  =   2.9945670916 sec, next dt = 0.0000497325 sec
+ te-axis =  1.930 ti-axis =  1.704 ne-axis =4.861E+13 ne-bar =2.743E+13
+ > nstep = 1474 time  =   2.9947029607 sec, next dt = 0.0001491887 sec
+ te-axis =  1.931 ti-axis =  1.704 ne-axis =4.861E+13 ne-bar =2.743E+13
+ > nstep = 1476 time  =   2.9950535425 sec, next dt = 0.0003064318 sec
+ te-axis =  1.931 ti-axis =  1.704 ne-axis =4.860E+13 ne-bar =2.743E+13
+ > nstep = 1478 time  =   2.9950799380 sec, next dt = 0.0000275002 sec
+ te-axis =  1.931 ti-axis =  1.704 ne-axis =4.860E+13 ne-bar =2.743E+13
+ > nstep = 1480 time  =   2.9951550684 sec, next dt = 0.0000824956 sec
+ te-axis =  1.931 ti-axis =  1.704 ne-axis =4.860E+13 ne-bar =2.743E+13
+ > nstep = 1482 time  =   2.9952106843 sec, next dt = 0.0000487469 sec
+ te-axis =  1.931 ti-axis =  1.704 ne-axis =4.860E+13 ne-bar =2.743E+13
+ > nstep = 1484 time  =   2.9952421694 sec, next dt = 0.0000264172 sec
+ te-axis =  1.931 ti-axis =  1.704 ne-axis =4.860E+13 ne-bar =2.743E+13
+ > nstep = 1486 time  =   2.9952441809 sec, next dt = 0.0000019946 sec
+ te-axis =  1.931 ti-axis =  1.704 ne-axis =4.860E+13 ne-bar =2.743E+13
+ > nstep = 1488 time  =   2.9952496302 sec, next dt = 0.0000059835 sec
+ te-axis =  1.931 ti-axis =  1.704 ne-axis =4.860E+13 ne-bar =2.743E+13
+ > nstep = 1490 time  =   2.9952534535 sec, next dt = 0.0000040718 sec
+ te-axis =  1.931 ti-axis =  1.704 ne-axis =4.861E+13 ne-bar =2.743E+13
+ > nstep = 1492 time  =   2.9952645778 sec, next dt = 0.0000122148 sec
+ te-axis =  1.931 ti-axis =  1.704 ne-axis =4.861E+13 ne-bar =2.743E+13
+ > nstep = 1494 time  =   2.9952838100 sec, next dt = 0.0000121542 sec
+ te-axis =  1.931 ti-axis =  1.704 ne-axis =4.861E+13 ne-bar =2.743E+13
+ > nstep = 1496 time  =   2.9953170154 sec, next dt = 0.0000364605 sec
+ te-axis =  1.931 ti-axis =  1.704 ne-axis =4.860E+13 ne-bar =2.743E+13
+ > nstep = 1498 time  =   2.9954166256 sec, next dt = 0.0001093752 sec
+ te-axis =  1.931 ti-axis =  1.704 ne-axis =4.860E+13 ne-bar =2.743E+13
+ > nstep = 1500 time  =   2.9957154387 sec, next dt = 0.0002982024 sec
+ te-axis =  1.931 ti-axis =  1.704 ne-axis =4.860E+13 ne-bar =2.744E+13

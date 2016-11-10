@@ -1,0 +1,2376 @@
+62270n01
+Start time: จ. 7 ธ.ค. 2558 16:58:04 ICT
+Finish time: จ. 7 ธ.ค. 2558 16:59:49 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 2.032E+00 ti-axis= 1.650E+00 ne-axis= 5.203E+13 ni-axis= 5.202E+13 z-axis= 1.002E+00
+t= 4868.620 ms te-avg.= 9.522E-01 ti-avg.= 8.964E-01 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.001E+00
+dt= 1.000 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop=-8.736E-04 q-axis= 5.194E-01
+t= 4.868620 s Wtot = 0.325467 Weth = 0.167664 With = 0.157804 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 4.868620 s Petot= 1.023419 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 2.089226 Peloss= 1.402316 MW
+t= 4.868620 s Pitot= 0.735191 Piaux= 0.000000 Pialpha= 0.000000 Piequ= -0.336509 Piloss= -1.071700 MW
+t= 4.868620 s Ptot = 1.758610 Pheat= 2.089226 Ploss = 0.330615 dW/dt= 0.016722 MW
+t= 4.868620 s taue = 0.08720 = ( 0.348)* 0.25075 GL, = ( 0.394)* 0.22144 ITER89-P, ( 0.275)* 0.31715 NA
+t= 4.868620 s ne-bar= 3.569E+13 cm-3, beta = 0.093% qcyl= 2.873
+      4.2 terminate the run                        
+ 
+ 
+     date    2015-12-07        time    16:59:49
+     cpu time used so far =    105.63 secs
+====================================================================================
+62270a01
+Start time: จ. 7 ธ.ค. 2558 17:02:06 ICT
+Finish time: จ. 7 ธ.ค. 2558 17:03:52 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270a01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 1.944E+00 ti-axis= 1.724E+00 ne-axis= 5.295E+13 ni-axis= 5.294E+13 z-axis= 1.001E+00
+t= 4851.891 ms te-avg.= 1.073E+00 ti-avg.= 1.055E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.001E+00
+dt= 1.000 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 9.008E-04 q-axis= 5.808E-01
+t= 4.851891 s Wtot = 0.373099 Weth = 0.188116 With = 0.184983 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 4.851891 s Petot= 0.451632 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 1.768418 Peloss= 1.464530 MW
+t= 4.851891 s Pitot= 0.235475 Piaux= 0.000000 Pialpha= 0.000000 Piequ= -0.147744 Piloss= -0.383219 MW
+t= 4.851891 s Ptot = 0.687106 Pheat= 1.768418 Ploss = 1.081311 dW/dt= -0.338096 MW
+t= 4.851891 s taue = 0.18488 = ( 0.679)* 0.27226 GL, = ( 0.769)* 0.24054 ITER89-P, ( 0.582)* 0.31748 NA
+t= 4.851891 s ne-bar= 3.576E+13 cm-3, beta = 0.107% qcyl= 2.873
+      4.2 terminate the run                        
+ 
+ 
+     date    2015-12-07        time    17:03:52
+     cpu time used so far =    105.67 secs
+====================================================================================
+62270n01
+Start time: อ. 26 ม.ค. 2559 13:47:29 ICT
+Finish time: อ. 26 ม.ค. 2559 13:49:15 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 2.032E+00 ti-axis= 1.650E+00 ne-axis= 5.203E+13 ni-axis= 5.202E+13 z-axis= 1.002E+00
+t= 4868.620 ms te-avg.= 9.522E-01 ti-avg.= 8.964E-01 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.001E+00
+dt= 1.000 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop=-8.736E-04 q-axis= 5.194E-01
+t= 4.868620 s Wtot = 0.325467 Weth = 0.167664 With = 0.157804 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 4.868620 s Petot= 1.023419 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 2.089226 Peloss= 1.402316 MW
+t= 4.868620 s Pitot= 0.735191 Piaux= 0.000000 Pialpha= 0.000000 Piequ= -0.336509 Piloss= -1.071700 MW
+t= 4.868620 s Ptot = 1.758610 Pheat= 2.089226 Ploss = 0.330615 dW/dt= 0.016722 MW
+t= 4.868620 s taue = 0.08720 = ( 0.348)* 0.25075 GL, = ( 0.394)* 0.22144 ITER89-P, ( 0.275)* 0.31715 NA
+t= 4.868620 s ne-bar= 3.569E+13 cm-3, beta = 0.093% qcyl= 2.873
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-01-26        time    13:49:15
+     cpu time used so far =    105.58 secs
+====================================================================================
+62270n01
+Start time: อ. 26 ม.ค. 2559 13:51:48 ICT
+Finish time: อ. 26 ม.ค. 2559 13:52:56 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 860 te-axis= 2.663E+00 ti-axis= 2.807E+00 ne-axis= 4.453E+13 ni-axis= 4.067E+13 z-axis= 1.152E+00
+t= 3379.129 ms te-avg.= 1.717E+00 ti-avg.= 1.819E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.187E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 4.272E-01 q-axis= 7.259E-01
+t= 3.379129 s Wtot = 0.728679 Weth = 0.261646 With = 0.257402 Wbeam= 0.209631 Walpha= 0.000000 MJ
+t= 3.379129 s Petot= 1.573022 Peaux= 2.178659 Pealpha= 0.000000 Peohm= 1.142435 Peloss= 2.092394 MW
+t= 3.379129 s Pitot= 2.112439 Piaux= 2.397017 Pialpha= 0.000000 Piequ= -0.344323 Piloss= -0.059745 MW
+t= 3.379129 s Ptot = 3.685461 Pheat= 5.718110 Ploss = 2.032650 dW/dt= 1.260060 MW
+t= 3.379129 s taue = 0.04594 = ( 0.305)* 0.15052 GL, = ( 0.349)* 0.13154 ITER89-P, ( 0.162)* 0.28287 NA
+t= 3.379129 s ne-bar= 3.179E+13 cm-3, beta = 0.209% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-01-26        time    13:52:56
+     cpu time used so far =     68.31 secs
+====================================================================================
+62270n01
+Start time: อ. 26 ม.ค. 2559 18:16:28 ICT
+Finish time: อ. 26 ม.ค. 2559 18:17:04 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 475 te-axis= 1.702E+00 ti-axis= 1.470E+00 ne-axis= 4.114E+13 ni-axis= 3.957E+13 z-axis= 1.105E+00
+t= 3274.214 ms te-avg.= 1.152E+00 ti-avg.= 1.059E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.126E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 5.384E-01 q-axis= 7.442E-01
+t= 3.274214 s Wtot = 0.426968 Weth = 0.180107 With = 0.159554 Wbeam= 0.087306 Walpha= 0.000000 MJ
+t= 3.274214 s Petot= 1.954121 Peaux= 1.658890 Pealpha= 0.000000 Peohm= 1.806410 Peloss= 1.602042 MW
+t= 3.274214 s Pitot= 0.794907 Piaux= 0.886271 Pialpha= 0.000000 Piequ= -0.090863 Piloss= 0.000500 MW
+t= 3.274214 s Ptot = 2.749029 Pheat= 4.351571 Ploss = 1.602542 dW/dt= 0.675873 MW
+t= 3.274214 s taue = 0.03798 = ( 0.220)* 0.17252 GL, = ( 0.252)* 0.15051 ITER89-P, ( 0.137)* 0.27803 NA
+t= 3.274214 s ne-bar= 3.125E+13 cm-3, beta = 0.122% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-01-26        time    18:17:04
+     cpu time used so far =     35.88 secs
+====================================================================================
+62270n01
+Start time: อ. 26 ม.ค. 2559 18:17:39 ICT
+Finish time: อ. 26 ม.ค. 2559 18:19:33 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1370 te-axis= 2.680E+00 ti-axis= 2.767E+00 ne-axis= 4.899E+13 ni-axis= 4.510E+13 z-axis= 1.120E+00
+t= 3342.263 ms te-avg.= 1.604E+00 ti-avg.= 1.633E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.171E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 6.012E-01 q-axis= 7.106E-01
+t= 3.342263 s Wtot = 0.664583 Weth = 0.237842 With = 0.225716 Wbeam= 0.201025 Walpha= 0.000000 MJ
+t= 3.342263 s Petot= 1.658777 Peaux= 2.180511 Pealpha= 0.000000 Peohm= 1.233495 Peloss= 2.028815 MW
+t= 3.342263 s Pitot= 3.518965 Piaux= 2.277776 Pialpha= 0.000000 Piequ= -0.273586 Piloss= -1.514774 MW
+t= 3.342263 s Ptot = 5.177742 Pheat= 5.691782 Ploss = 0.514040 dW/dt= 2.942387 MW
+t= 3.342263 s taue = 0.06026 = ( 0.399)* 0.15087 GL, = ( 0.457)* 0.13176 ITER89-P, ( 0.214)* 0.28103 NA
+t= 3.342263 s ne-bar= 3.158E+13 cm-3, beta = 0.190% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-01-26        time    18:19:33
+     cpu time used so far =    113.40 secs
+====================================================================================
+62270n01
+Start time: อ. 26 ม.ค. 2559 18:20:20 ICT
+Finish time: อ. 26 ม.ค. 2559 18:20:37 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 225 te-axis= 1.518E+00 ti-axis= 1.315E+00 ne-axis= 4.067E+13 ni-axis= 4.062E+13 z-axis= 1.007E+00
+t= 2952.070 ms te-avg.= 1.093E+00 ti-avg.= 9.940E-01 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.006E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 8.717E-01 q-axis= 7.517E-01
+t= 2.952070 s Wtot = 0.291381 Weth = 0.152689 With = 0.138693 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 2.952070 s Petot= -0.416339 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 1.943155 Peloss= 2.156264 MW
+t= 2.952070 s Pitot= 16.151823 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.203230 Piloss= -15.948593 MW
+t= 2.952070 s Ptot = 15.735483 Pheat= 1.943155 Ploss = -13.792328 dW/dt= 15.782194 MW
+t= 2.952070 s taue = 0.04067 = ( 0.158)* 0.25810 GL, = ( 0.182)* 0.22370 ITER89-P, ( 0.156)* 0.26001 NA
+t= 2.952070 s ne-bar= 2.924E+13 cm-3, beta = 0.083% qcyl= 2.885
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-01-26        time    18:20:37
+     cpu time used so far =     17.32 secs
+====================================================================================
+62270n01
+Start time: อ. 26 ม.ค. 2559 18:22:30 ICT
+Finish time: อ. 26 ม.ค. 2559 18:22:58 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 340 te-axis= 1.661E+00 ti-axis= 1.445E+00 ne-axis= 4.056E+13 ni-axis= 4.039E+13 z-axis= 1.025E+00
+t= 2936.697 ms te-avg.= 1.038E+00 ti-avg.= 9.662E-01 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.018E+00
+dt= 0.022 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 4.092E-01 q-axis= 7.665E-01
+t= 2.936697 s Wtot = 0.295031 Weth = 0.153018 With = 0.142012 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 2.936697 s Petot= 0.947877 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 1.997678 Peloss= 1.250126 MW
+t= 2.936697 s Pitot= -0.201080 Piaux= 0.000000 Pialpha= 0.000000 Piequ= -0.200325 Piloss= 0.000755 MW
+t= 2.936697 s Ptot = 0.746797 Pheat= 1.997678 Ploss = 1.250882 dW/dt= -1.073659 MW
+t= 2.936697 s taue = 0.03638 = ( 0.143)* 0.25451 GL, = ( 0.165)* 0.22109 ITER89-P, ( 0.137)* 0.26594 NA
+t= 2.936697 s ne-bar= 2.990E+13 cm-3, beta = 0.085% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-01-26        time    18:22:58
+     cpu time used so far =     28.53 secs
+====================================================================================
+62270n01
+Start time: อ. 26 ม.ค. 2559 18:23:33 ICT
+Finish time: อ. 26 ม.ค. 2559 18:23:47 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 175 te-axis= 1.762E+00 ti-axis= 1.438E+00 ne-axis= 4.111E+13 ni-axis= 3.943E+13 z-axis= 1.248E+00
+t= 2268.719 ms te-avg.= 1.104E+00 ti-avg.= 9.780E-01 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.142E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 2.861E-01 q-axis= 7.827E-01
+t= 2.268719 s Wtot = 0.276267 Weth = 0.148156 With = 0.128111 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 2.268719 s Petot= -0.457318 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 2.052754 Peloss= 2.281640 MW
+t= 2.268719 s Pitot= 19.187211 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.228432 Piloss= -18.958779 MW
+t= 2.268719 s Ptot = 18.729893 Pheat= 2.052754 Ploss = -16.677139 dW/dt= 18.756633 MW
+t= 2.268719 s taue = 0.03675 = ( 0.147)* 0.25084 GL, = ( 0.170)* 0.21666 ITER89-P, ( 0.147)* 0.25027 NA
+t= 2.268719 s ne-bar= 2.818E+13 cm-3, beta = 0.079% qcyl= 2.885
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-01-26        time    18:23:47
+     cpu time used so far =     14.21 secs
+====================================================================================
+62270n01
+Start time: อ. 26 ม.ค. 2559 18:24:03 ICT
+Finish time: อ. 26 ม.ค. 2559 18:24:18 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 180 te-axis= 1.773E+00 ti-axis= 1.265E+00 ne-axis= 3.889E+13 ni-axis= 3.232E+13 z-axis= 2.026E+00
+t= 2046.426 ms te-avg.= 1.005E+00 ti-avg.= 8.327E-01 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.604E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 9.869E-01 q-axis= 8.207E-01
+t= 2.046426 s Wtot = 0.239101 Weth = 0.136931 With = 0.102170 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 2.046426 s Petot= 0.113609 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 2.736532 Peloss= 2.249242 MW
+t= 2.046426 s Pitot= 22.406150 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.373680 Piloss= -22.032470 MW
+t= 2.046426 s Ptot = 22.519760 Pheat= 2.736532 Ploss = -19.783228 dW/dt= 22.472196 MW
+t= 2.046426 s taue = 0.03690 = ( 0.170)* 0.21725 GL, = ( 0.197)* 0.18730 ITER89-P, ( 0.150)* 0.24569 NA
+t= 2.046426 s ne-bar= 2.766E+13 cm-3, beta = 0.069% qcyl= 2.885
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-01-26        time    18:24:18
+     cpu time used so far =     14.96 secs
+====================================================================================
+62270n01
+Start time: อ. 26 ม.ค. 2559 18:27:10 ICT
+Finish time: อ. 26 ม.ค. 2559 18:28:54 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 1.686E+00 ti-axis= 1.404E+00 ne-axis= 4.451E+13 ni-axis= 4.323E+13 z-axis= 1.101E+00
+t= 3259.283 ms te-avg.= 1.104E+00 ti-avg.= 1.023E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.135E+00
+dt= 0.074 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 5.359E-01 q-axis= 7.468E-01
+t= 3.259283 s Wtot = 0.368800 Weth = 0.166332 With = 0.149385 Wbeam= 0.053083 Walpha= 0.000000 MJ
+t= 3.259283 s Petot= 1.675049 Peaux= 1.345463 Pealpha= 0.000000 Peohm= 1.959238 Peloss= 1.541627 MW
+t= 3.259283 s Pitot= 0.888985 Piaux= 0.561889 Pialpha= 0.000000 Piequ= 0.088025 Piloss= -0.239072 MW
+t= 3.259283 s Ptot = 2.564034 Pheat= 3.866590 Ploss = 1.302556 dW/dt= 1.101676 MW
+t= 3.259283 s taue = 0.05099 = ( 0.279)* 0.18303 GL, = ( 0.319)* 0.15965 ITER89-P, ( 0.184)* 0.27757 NA
+t= 3.259283 s ne-bar= 3.120E+13 cm-3, beta = 0.106% qcyl= 2.885
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-01-26        time    18:28:54
+     cpu time used so far =    103.61 secs
+====================================================================================
+62270n01
+Start time: อ. 26 ม.ค. 2559 18:32:35 ICT
+Finish time: อ. 26 ม.ค. 2559 18:34:19 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 1.686E+00 ti-axis= 1.404E+00 ne-axis= 4.451E+13 ni-axis= 4.323E+13 z-axis= 1.101E+00
+t= 3259.283 ms te-avg.= 1.104E+00 ti-avg.= 1.023E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.135E+00
+dt= 0.074 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 5.359E-01 q-axis= 7.468E-01
+t= 3.259283 s Wtot = 0.368800 Weth = 0.166332 With = 0.149385 Wbeam= 0.053083 Walpha= 0.000000 MJ
+t= 3.259283 s Petot= 1.675049 Peaux= 1.345463 Pealpha= 0.000000 Peohm= 1.959238 Peloss= 1.541627 MW
+t= 3.259283 s Pitot= 0.888985 Piaux= 0.561889 Pialpha= 0.000000 Piequ= 0.088025 Piloss= -0.239072 MW
+t= 3.259283 s Ptot = 2.564034 Pheat= 3.866590 Ploss = 1.302556 dW/dt= 1.101676 MW
+t= 3.259283 s taue = 0.05099 = ( 0.279)* 0.18303 GL, = ( 0.319)* 0.15965 ITER89-P, ( 0.184)* 0.27757 NA
+t= 3.259283 s ne-bar= 3.120E+13 cm-3, beta = 0.106% qcyl= 2.885
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-01-26        time    18:34:19
+     cpu time used so far =    103.83 secs
+====================================================================================
+62270n01
+Start time: อ. 26 ม.ค. 2559 18:37:33 ICT
+Finish time: อ. 26 ม.ค. 2559 18:39:18 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 1.686E+00 ti-axis= 1.404E+00 ne-axis= 4.451E+13 ni-axis= 4.323E+13 z-axis= 1.101E+00
+t= 3259.283 ms te-avg.= 1.104E+00 ti-avg.= 1.023E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.135E+00
+dt= 0.074 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 5.359E-01 q-axis= 7.468E-01
+t= 3.259283 s Wtot = 0.368800 Weth = 0.166332 With = 0.149385 Wbeam= 0.053083 Walpha= 0.000000 MJ
+t= 3.259283 s Petot= 1.675049 Peaux= 1.345463 Pealpha= 0.000000 Peohm= 1.959238 Peloss= 1.541627 MW
+t= 3.259283 s Pitot= 0.888985 Piaux= 0.561889 Pialpha= 0.000000 Piequ= 0.088025 Piloss= -0.239072 MW
+t= 3.259283 s Ptot = 2.564034 Pheat= 3.866590 Ploss = 1.302556 dW/dt= 1.101676 MW
+t= 3.259283 s taue = 0.05099 = ( 0.279)* 0.18303 GL, = ( 0.319)* 0.15965 ITER89-P, ( 0.184)* 0.27757 NA
+t= 3.259283 s ne-bar= 3.120E+13 cm-3, beta = 0.106% qcyl= 2.885
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-01-26        time    18:39:18
+     cpu time used so far =    104.18 secs
+====================================================================================
+62270n01
+Start time: อ. 26 ม.ค. 2559 18:41:35 ICT
+Finish time: อ. 26 ม.ค. 2559 18:43:19 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 2.259E+00 ti-axis= 2.100E+00 ne-axis= 4.289E+13 ni-axis= 3.975E+13 z-axis= 1.123E+00
+t= 3320.508 ms te-avg.= 1.437E+00 ti-avg.= 1.367E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.148E+00
+dt= 0.164 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 4.869E-01 q-axis= 7.335E-01
+t= 3.320508 s Wtot = 0.602118 Weth = 0.220794 With = 0.197409 Wbeam= 0.183915 Walpha= 0.000000 MJ
+t= 3.320508 s Petot= 1.935896 Peaux= 2.394552 Pealpha= 0.000000 Peohm= 1.379128 Peloss= 1.971849 MW
+t= 3.320508 s Pitot= 2.350403 Piaux= 2.142298 Pialpha= 0.000000 Piequ= -0.134065 Piloss= -0.342171 MW
+t= 3.320508 s Ptot = 4.286299 Pheat= 5.915978 Ploss = 1.629678 dW/dt= 1.983755 MW
+t= 3.320508 s taue = 0.05696 = ( 0.385)* 0.14798 GL, = ( 0.441)* 0.12909 ITER89-P, ( 0.205)* 0.27789 NA
+t= 3.320508 s ne-bar= 3.123E+13 cm-3, beta = 0.172% qcyl= 2.885
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-01-26        time    18:43:19
+     cpu time used so far =    103.91 secs
+====================================================================================
+62270n01
+Start time: อ. 26 ม.ค. 2559 18:44:23 ICT
+Finish time: อ. 26 ม.ค. 2559 18:46:06 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 2.492E+00 ti-axis= 2.635E+00 ne-axis= 4.109E+13 ni-axis= 3.751E+13 z-axis= 1.140E+00
+t= 3378.233 ms te-avg.= 1.703E+00 ti-avg.= 1.789E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.177E+00
+dt= 0.004 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop=-3.590E-01 q-axis= 7.342E-01
+t= 3.378233 s Wtot = 0.716570 Weth = 0.250476 With = 0.243670 Wbeam= 0.222424 Walpha= 0.000000 MJ
+t= 3.378233 s Petot= 0.677147 Peaux= 2.064229 Pealpha= 0.000000 Peohm= 1.145861 Peloss= 2.986451 MW
+t= 3.378233 s Pitot= 3.119748 Piaux= 2.406423 Pialpha= 0.000000 Piequ= -0.453508 Piloss= -1.166833 MW
+t= 3.378233 s Ptot = 3.796895 Pheat= 5.616513 Ploss = 1.819618 dW/dt= 5.377595 MW
+t= 3.378233 s taue = 0.06712 = ( 0.442)* 0.15197 GL, = ( 0.508)* 0.13210 ITER89-P, ( 0.250)* 0.26813 NA
+t= 3.378233 s ne-bar= 3.015E+13 cm-3, beta = 0.205% qcyl= 2.884
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-01-26        time    18:46:06
+     cpu time used so far =    102.95 secs
+====================================================================================
+62270n01
+Start time: อ. 26 ม.ค. 2559 18:47:55 ICT
+Finish time: อ. 26 ม.ค. 2559 18:49:41 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 2.032E+00 ti-axis= 1.650E+00 ne-axis= 5.203E+13 ni-axis= 5.202E+13 z-axis= 1.002E+00
+t= 4868.620 ms te-avg.= 9.522E-01 ti-avg.= 8.964E-01 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.001E+00
+dt= 1.000 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop=-8.736E-04 q-axis= 5.194E-01
+t= 4.868620 s Wtot = 0.325467 Weth = 0.167664 With = 0.157804 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 4.868620 s Petot= 1.023419 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 2.089226 Peloss= 1.402316 MW
+t= 4.868620 s Pitot= 0.735191 Piaux= 0.000000 Pialpha= 0.000000 Piequ= -0.336509 Piloss= -1.071700 MW
+t= 4.868620 s Ptot = 1.758610 Pheat= 2.089226 Ploss = 0.330615 dW/dt= 0.016722 MW
+t= 4.868620 s taue = 0.08720 = ( 0.348)* 0.25075 GL, = ( 0.394)* 0.22144 ITER89-P, ( 0.275)* 0.31715 NA
+t= 4.868620 s ne-bar= 3.569E+13 cm-3, beta = 0.093% qcyl= 2.873
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-01-26        time    18:49:41
+     cpu time used so far =    105.64 secs
+====================================================================================
+62270n01
+Start time: อ. 26 ม.ค. 2559 18:54:33 ICT
+Finish time: อ. 26 ม.ค. 2559 18:56:19 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 2.064E+00 ti-axis= 1.658E+00 ne-axis= 5.081E+13 ni-axis= 5.080E+13 z-axis= 1.002E+00
+t= 4865.297 ms te-avg.= 9.015E-01 ti-avg.= 8.298E-01 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.001E+00
+dt= 1.000 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 7.082E-01 q-axis= 5.134E-01
+t= 4.865297 s Wtot = 0.311138 Weth = 0.162026 With = 0.149112 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 4.865297 s Petot= 1.238187 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 2.131539 Peloss= 1.384109 MW
+t= 4.865297 s Pitot= 0.816138 Piaux= 0.000000 Pialpha= 0.000000 Piequ= -0.490756 Piloss= -1.306894 MW
+t= 4.865297 s Ptot = 2.054325 Pheat= 2.131539 Ploss = 0.077214 dW/dt= -0.030866 MW
+t= 4.865297 s taue = 0.07989 = ( 0.323)* 0.24710 GL, = ( 0.366)* 0.21832 ITER89-P, ( 0.251)* 0.31790 NA
+t= 4.865297 s ne-bar= 3.561E+13 cm-3, beta = 0.089% qcyl= 2.886
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-01-26        time    18:56:19
+     cpu time used so far =    105.70 secs
+====================================================================================
+62270n01
+Start time: อ. 26 ม.ค. 2559 18:57:26 ICT
+Finish time: อ. 26 ม.ค. 2559 18:58:47 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1055 te-axis= 3.505E+00 ti-axis= 4.243E+00 ne-axis= 5.280E+13 ni-axis= 4.793E+13 z-axis= 1.156E+00
+t= 4144.833 ms te-avg.= 1.743E+00 ti-avg.= 1.990E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.156E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 2.897E-01 q-axis= 6.119E-01
+t= 4.144833 s Wtot = 0.852896 Weth = 0.310245 With = 0.332881 Wbeam= 0.209770 Walpha= 0.000000 MJ
+t= 4.144833 s Petot= 1.741620 Peaux= 2.288490 Pealpha= 0.000000 Peohm= 1.034489 Peloss= 2.463213 MW
+t= 4.144833 s Pitot= 2.060284 Piaux= 2.908186 Pialpha= 0.000000 Piequ= -0.881853 Piloss= -0.033951 MW
+t= 4.144833 s Ptot = 3.801904 Pheat= 6.231165 Ploss = 2.429262 dW/dt= 0.011907 MW
+t= 4.144833 s taue = 0.05591 = ( 0.387)* 0.14452 GL, = ( 0.437)* 0.12796 ITER89-P, ( 0.172)* 0.32479 NA
+t= 4.144833 s ne-bar= 3.639E+13 cm-3, beta = 0.244% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-01-26        time    18:58:47
+     cpu time used so far =     81.39 secs
+====================================================================================
+62270n01
+Start time: อ. 26 ม.ค. 2559 19:00:47 ICT
+Finish time: อ. 26 ม.ค. 2559 19:00:55 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 95 te-axis= 1.046E+00 ti-axis= 9.774E-01 ne-axis= 3.487E+13 ni-axis= 2.857E+13 z-axis= 2.097E+00
+t= 2001.120 ms te-avg.= 6.084E-01 ti-avg.= 6.443E-01 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.931E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 4.693E+00 q-axis= 8.450E-01
+t= 2.001120 s Wtot = 0.170004 Weth = 0.089667 With = 0.080337 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 2.001120 s Petot= 4.438177 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 4.912743 Peloss= 1.426775 MW
+t= 2.001120 s Pitot= 0.437160 Piaux= 0.000000 Pialpha= 0.000000 Piequ= -0.952208 Piloss= -1.389367 MW
+t= 2.001120 s Ptot = 4.875336 Pheat= 4.912743 Ploss = 0.037407 dW/dt= 0.817988 MW
+t= 2.001120 s taue = 0.00964 = ( 0.059)* 0.16209 GL, = ( 0.069)* 0.13966 ITER89-P, ( 0.039)* 0.24413 NA
+t= 2.001120 s ne-bar= 2.748E+13 cm-3, beta = 0.049% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-01-26        time    19:00:55
+     cpu time used so far =      7.23 secs
+====================================================================================
+62270n0
+62270n01
+Start time: พ. 27 ม.ค. 2559 10:56:03 ICT
+Finish time: พ. 27 ม.ค. 2559 10:57:25 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1055 te-axis= 3.491E+00 ti-axis= 4.219E+00 ne-axis= 5.276E+13 ni-axis= 4.767E+13 z-axis= 1.178E+00
+t= 4146.318 ms te-avg.= 1.742E+00 ti-avg.= 2.002E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.163E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 3.189E-01 q-axis= 6.125E-01
+t= 4.146318 s Wtot = 0.853661 Weth = 0.309711 With = 0.334001 Wbeam= 0.209949 Walpha= 0.000000 MJ
+t= 4.146318 s Petot= 1.792419 Peaux= 2.287862 Pealpha= 0.000000 Peohm= 1.040861 Peloss= 2.473101 MW
+t= 4.146318 s Pitot= 1.874457 Piaux= 2.903129 Pialpha= 0.000000 Piequ= -0.936797 Piloss= 0.091876 MW
+t= 4.146318 s Ptot = 3.666876 Pheat= 6.231852 Ploss = 2.564977 dW/dt= -0.115331 MW
+t= 4.146318 s taue = 0.05160 = ( 0.357)* 0.14451 GL, = ( 0.403)* 0.12796 ITER89-P, ( 0.159)* 0.32486 NA
+t= 4.146318 s ne-bar= 3.639E+13 cm-3, beta = 0.244% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-01-27        time    10:57:25
+     cpu time used so far =     81.93 secs
+====================================================================================
+62270n01
+Start time: พ. 27 ม.ค. 2559 10:59:10 ICT
+Finish time: พ. 27 ม.ค. 2559 11:01:12 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 3.526E+00 ti-axis= 4.307E+00 ne-axis= 5.460E+13 ni-axis= 4.980E+13 z-axis= 1.132E+00
+t= 4201.564 ms te-avg.= 1.805E+00 ti-avg.= 2.103E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.112E+00
+dt= 0.116 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 6.231E-04 q-axis= 6.018E-01
+t= 4.201564 s Wtot = 0.873971 Weth = 0.314587 With = 0.346601 Wbeam= 0.212783 Walpha= 0.000000 MJ
+t= 4.201564 s Petot= 1.581455 Peaux= 2.218485 Pealpha= 0.000000 Peohm= 0.987392 Peloss= 2.518215 MW
+t= 4.201564 s Pitot= 1.475175 Piaux= 2.878944 Pialpha= 0.000000 Piequ= -0.893793 Piloss= 0.509976 MW
+t= 4.201564 s Ptot = 3.056629 Pheat= 6.084820 Ploss = 3.028191 dW/dt= -0.178138 MW
+t= 4.201564 s taue = 0.04986 = ( 0.341)* 0.14624 GL, = ( 0.385)* 0.12949 ITER89-P, ( 0.153)* 0.32492 NA
+t= 4.201564 s ne-bar= 3.640E+13 cm-3, beta = 0.250% qcyl= 2.886
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-01-27        time    11:01:12
+     cpu time used so far =    121.43 secs
+====================================================================================
+62270n01
+Start time: พ. 27 ม.ค. 2559 11:02:53 ICT
+Finish time: พ. 27 ม.ค. 2559 11:03:36 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 550 te-axis= 2.392E+00 ti-axis= 2.480E+00 ne-axis= 4.185E+13 ni-axis= 3.848E+13 z-axis= 1.145E+00
+t= 3360.116 ms te-avg.= 1.552E+00 ti-avg.= 1.618E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.171E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 4.299E-01 q-axis= 7.322E-01
+t= 3.360116 s Wtot = 0.689843 Weth = 0.245829 With = 0.239452 Wbeam= 0.204562 Walpha= 0.000000 MJ
+t= 3.360116 s Petot= 2.252840 Peaux= 2.433626 Pealpha= 0.000000 Peohm= 1.245278 Peloss= 2.069812 MW
+t= 3.360116 s Pitot= 1.772890 Piaux= 2.377662 Pialpha= 0.000000 Piequ= -0.643748 Piloss= -0.038975 MW
+t= 3.360116 s Ptot = 4.025730 Pheat= 6.056567 Ploss = 2.030837 dW/dt= 0.838686 MW
+t= 3.360116 s taue = 0.04622 = ( 0.316)* 0.14629 GL, = ( 0.362)* 0.12778 ITER89-P, ( 0.164)* 0.28144 NA
+t= 3.360116 s ne-bar= 3.164E+13 cm-3, beta = 0.198% qcyl= 2.885
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-01-27        time    11:03:36
+     cpu time used so far =     43.31 secs
+====================================================================================
+62270n01
+Start time: พ. 27 ม.ค. 2559 11:04:12 ICT
+Finish time: พ. 27 ม.ค. 2559 11:06:13 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 3.526E+00 ti-axis= 4.307E+00 ne-axis= 5.460E+13 ni-axis= 4.980E+13 z-axis= 1.132E+00
+t= 4201.564 ms te-avg.= 1.805E+00 ti-avg.= 2.103E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.112E+00
+dt= 0.116 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 6.231E-04 q-axis= 6.018E-01
+t= 4.201564 s Wtot = 0.873971 Weth = 0.314587 With = 0.346601 Wbeam= 0.212783 Walpha= 0.000000 MJ
+t= 4.201564 s Petot= 1.581455 Peaux= 2.218485 Pealpha= 0.000000 Peohm= 0.987392 Peloss= 2.518215 MW
+t= 4.201564 s Pitot= 1.475175 Piaux= 2.878944 Pialpha= 0.000000 Piequ= -0.893793 Piloss= 0.509976 MW
+t= 4.201564 s Ptot = 3.056629 Pheat= 6.084820 Ploss = 3.028191 dW/dt= -0.178138 MW
+t= 4.201564 s taue = 0.04986 = ( 0.341)* 0.14624 GL, = ( 0.385)* 0.12949 ITER89-P, ( 0.153)* 0.32492 NA
+t= 4.201564 s ne-bar= 3.640E+13 cm-3, beta = 0.250% qcyl= 2.886
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-01-27        time    11:06:13
+     cpu time used so far =    121.69 secs
+====================================================================================
+62270n01
+Start time: พ. 27 ม.ค. 2559 11:08:28 ICT
+Finish time: พ. 27 ม.ค. 2559 11:08:52 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 325 te-axis= 3.288E+00 ti-axis= 3.820E+00 ne-axis= 5.533E+13 ni-axis= 4.990E+13 z-axis= 1.175E+00
+t= 3605.219 ms te-avg.= 1.854E+00 ti-avg.= 2.024E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.261E+00
+dt= 0.001 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 2.943E-02 q-axis= 6.760E-01
+t= 3.605219 s Wtot = 0.796561 Weth = 0.276825 With = 0.274880 Wbeam= 0.244856 Walpha= 0.000000 MJ
+t= 3.605219 s Petot= 1.563423 Peaux= 2.143776 Pealpha= 0.000000 Peohm= 1.058052 Peloss= 2.180248 MW
+t= 3.605219 s Pitot= 2.235211 Piaux= 2.767184 Pialpha= 0.000000 Piequ= -0.541842 Piloss= -0.009869 MW
+t= 3.605219 s Ptot = 3.798634 Pheat= 5.969012 Ploss = 2.170379 dW/dt= 0.478315 MW
+t= 3.605219 s taue = 0.03509 = ( 0.238)* 0.14763 GL, = ( 0.271)* 0.12933 ITER89-P, ( 0.121)* 0.29060 NA
+t= 3.605219 s ne-bar= 3.269E+13 cm-3, beta = 0.228% qcyl= 2.881
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-01-27        time    11:08:52
+     cpu time used so far =     23.69 secs
+====================================================================================
+62270n01
+Start time: พ. 27 ม.ค. 2559 11:09:54 ICT
+Finish time: พ. 27 ม.ค. 2559 11:10:18 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 325 te-axis= 3.288E+00 ti-axis= 3.820E+00 ne-axis= 5.533E+13 ni-axis= 4.990E+13 z-axis= 1.175E+00
+t= 3605.219 ms te-avg.= 1.854E+00 ti-avg.= 2.024E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.261E+00
+dt= 0.001 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 2.943E-02 q-axis= 6.760E-01
+t= 3.605219 s Wtot = 0.796561 Weth = 0.276825 With = 0.274880 Wbeam= 0.244856 Walpha= 0.000000 MJ
+t= 3.605219 s Petot= 1.563423 Peaux= 2.143776 Pealpha= 0.000000 Peohm= 1.058052 Peloss= 2.180248 MW
+t= 3.605219 s Pitot= 2.235211 Piaux= 2.767184 Pialpha= 0.000000 Piequ= -0.541842 Piloss= -0.009869 MW
+t= 3.605219 s Ptot = 3.798634 Pheat= 5.969012 Ploss = 2.170379 dW/dt= 0.478315 MW
+t= 3.605219 s taue = 0.03509 = ( 0.238)* 0.14763 GL, = ( 0.271)* 0.12933 ITER89-P, ( 0.121)* 0.29060 NA
+t= 3.605219 s ne-bar= 3.269E+13 cm-3, beta = 0.228% qcyl= 2.881
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-01-27        time    11:10:18
+     cpu time used so far =     23.73 secs
+====================================================================================
+62270n01
+Start time: พ. 27 ม.ค. 2559 11:11:38 ICT
+Finish time: พ. 27 ม.ค. 2559 11:12:01 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 325 te-axis= 3.288E+00 ti-axis= 3.820E+00 ne-axis= 5.533E+13 ni-axis= 4.990E+13 z-axis= 1.175E+00
+t= 3605.219 ms te-avg.= 1.854E+00 ti-avg.= 2.024E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.261E+00
+dt= 0.001 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 2.943E-02 q-axis= 6.760E-01
+t= 3.605219 s Wtot = 0.796561 Weth = 0.276825 With = 0.274880 Wbeam= 0.244856 Walpha= 0.000000 MJ
+t= 3.605219 s Petot= 1.563423 Peaux= 2.143776 Pealpha= 0.000000 Peohm= 1.058052 Peloss= 2.180248 MW
+t= 3.605219 s Pitot= 2.235211 Piaux= 2.767184 Pialpha= 0.000000 Piequ= -0.541842 Piloss= -0.009869 MW
+t= 3.605219 s Ptot = 3.798634 Pheat= 5.969012 Ploss = 2.170379 dW/dt= 0.478315 MW
+t= 3.605219 s taue = 0.03509 = ( 0.238)* 0.14763 GL, = ( 0.271)* 0.12933 ITER89-P, ( 0.121)* 0.29060 NA
+t= 3.605219 s ne-bar= 3.269E+13 cm-3, beta = 0.228% qcyl= 2.881
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-01-27        time    11:12:01
+     cpu time used so far =     23.68 secs
+====================================================================================
+62270n01
+Start time: พ. 27 ม.ค. 2559 11:12:38 ICT
+Finish time: พ. 27 ม.ค. 2559 11:13:02 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 325 te-axis= 3.288E+00 ti-axis= 3.820E+00 ne-axis= 5.533E+13 ni-axis= 4.990E+13 z-axis= 1.175E+00
+t= 3605.219 ms te-avg.= 1.854E+00 ti-avg.= 2.024E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.261E+00
+dt= 0.001 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 2.943E-02 q-axis= 6.760E-01
+t= 3.605219 s Wtot = 0.796561 Weth = 0.276825 With = 0.274880 Wbeam= 0.244856 Walpha= 0.000000 MJ
+t= 3.605219 s Petot= 1.563423 Peaux= 2.143776 Pealpha= 0.000000 Peohm= 1.058052 Peloss= 2.180248 MW
+t= 3.605219 s Pitot= 2.235211 Piaux= 2.767184 Pialpha= 0.000000 Piequ= -0.541842 Piloss= -0.009869 MW
+t= 3.605219 s Ptot = 3.798634 Pheat= 5.969012 Ploss = 2.170379 dW/dt= 0.478315 MW
+t= 3.605219 s taue = 0.03509 = ( 0.238)* 0.14763 GL, = ( 0.271)* 0.12933 ITER89-P, ( 0.121)* 0.29060 NA
+t= 3.605219 s ne-bar= 3.269E+13 cm-3, beta = 0.228% qcyl= 2.881
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-01-27        time    11:13:02
+     cpu time used so far =     23.74 secs
+====================================================================================
+62270n01
+Start time: พ. 27 ม.ค. 2559 11:14:10 ICT
+Finish time: พ. 27 ม.ค. 2559 11:16:12 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 3.526E+00 ti-axis= 4.307E+00 ne-axis= 5.460E+13 ni-axis= 4.980E+13 z-axis= 1.132E+00
+t= 4201.564 ms te-avg.= 1.805E+00 ti-avg.= 2.103E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.112E+00
+dt= 0.116 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 6.231E-04 q-axis= 6.018E-01
+t= 4.201564 s Wtot = 0.873971 Weth = 0.314587 With = 0.346601 Wbeam= 0.212783 Walpha= 0.000000 MJ
+t= 4.201564 s Petot= 1.581455 Peaux= 2.218485 Pealpha= 0.000000 Peohm= 0.987392 Peloss= 2.518215 MW
+t= 4.201564 s Pitot= 1.475175 Piaux= 2.878944 Pialpha= 0.000000 Piequ= -0.893793 Piloss= 0.509976 MW
+t= 4.201564 s Ptot = 3.056629 Pheat= 6.084820 Ploss = 3.028191 dW/dt= -0.178138 MW
+t= 4.201564 s taue = 0.04986 = ( 0.341)* 0.14624 GL, = ( 0.385)* 0.12949 ITER89-P, ( 0.153)* 0.32492 NA
+t= 4.201564 s ne-bar= 3.640E+13 cm-3, beta = 0.250% qcyl= 2.886
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-01-27        time    11:16:12
+     cpu time used so far =    121.87 secs
+====================================================================================
+62270n01
+Start time: พ. 27 ม.ค. 2559 11:17:00 ICT
+Finish time: พ. 27 ม.ค. 2559 11:18:58 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1390 te-axis= 3.226E+00 ti-axis= 3.913E+00 ne-axis= 5.208E+13 ni-axis= 4.669E+13 z-axis= 1.272E+00
+t= 4011.147 ms te-avg.= 1.721E+00 ti-avg.= 1.967E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.286E+00
+dt= 0.054 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop=-6.434E-03 q-axis= 6.406E-01
+t= 4.011147 s Wtot = 0.831495 Weth = 0.304567 With = 0.319904 Wbeam= 0.207024 Walpha= 0.000000 MJ
+t= 4.011147 s Petot= 1.796759 Peaux= 2.310812 Pealpha= 0.000000 Peohm= 1.115842 Peloss= 2.514891 MW
+t= 4.011147 s Pitot= 2.412884 Piaux= 2.852384 Pialpha= 0.000000 Piequ= -0.884996 Piloss= -0.445496 MW
+t= 4.011147 s Ptot = 4.209643 Pheat= 6.279038 Ploss = 2.069395 dW/dt= 0.492716 MW
+t= 4.011147 s taue = 0.05321 = ( 0.369)* 0.14414 GL, = ( 0.417)* 0.12755 ITER89-P, ( 0.165)* 0.32266 NA
+t= 4.011147 s ne-bar= 3.622E+13 cm-3, beta = 0.238% qcyl= 2.882
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-01-27        time    11:18:58
+     cpu time used so far =    117.66 secs
+====================================================================================
+62270n01
+Start time: พ. 27 ม.ค. 2559 11:19:55 ICT
+Finish time: พ. 27 ม.ค. 2559 11:21:07 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 960 te-axis= 3.604E+00 ti-axis= 4.381E+00 ne-axis= 5.337E+13 ni-axis= 4.803E+13 z-axis= 1.210E+00
+t= 4134.717 ms te-avg.= 1.761E+00 ti-avg.= 1.982E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.192E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 3.497E-01 q-axis= 6.147E-01
+t= 4.134717 s Wtot = 0.850252 Weth = 0.311723 With = 0.327588 Wbeam= 0.210941 Walpha= 0.000000 MJ
+t= 4.134717 s Petot= 0.589813 Peaux= 2.267331 Pealpha= 0.000000 Peohm= 1.045270 Peloss= 3.484190 MW
+t= 4.134717 s Pitot= 13.770121 Piaux= 2.870361 Pialpha= 0.000000 Piequ= -0.761401 Piloss= -11.661161 MW
+t= 4.134717 s Ptot = 14.359933 Pheat= 6.182962 Ploss = -8.176971 dW/dt= 12.634242 MW
+t= 4.134717 s taue = 0.20970 = ( 1.445)* 0.14508 GL, = ( 1.632)* 0.12846 ITER89-P, ( 0.646)* 0.32476 NA
+t= 4.134717 s ne-bar= 3.638E+13 cm-3, beta = 0.243% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-01-27        time    11:21:07
+     cpu time used so far =     72.40 secs
+====================================================================================
+62270n01
+Start time: พ. 27 ม.ค. 2559 11:21:57 ICT
+Finish time: พ. 27 ม.ค. 2559 11:23:23 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1115 te-axis= 3.494E+00 ti-axis= 4.232E+00 ne-axis= 5.407E+13 ni-axis= 4.874E+13 z-axis= 1.206E+00
+t= 4136.459 ms te-avg.= 1.773E+00 ti-avg.= 2.020E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.189E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 1.623E-01 q-axis= 6.123E-01
+t= 4.136459 s Wtot = 0.851781 Weth = 0.311135 With = 0.330943 Wbeam= 0.209703 Walpha= 0.000000 MJ
+t= 4.136459 s Petot= 1.662941 Peaux= 2.245926 Pealpha= 0.000000 Peohm= 1.040345 Peloss= 2.465962 MW
+t= 4.136459 s Pitot= 1.985866 Piaux= 2.891841 Pialpha= 0.000000 Piequ= -0.842631 Piloss= 0.063343 MW
+t= 4.136459 s Ptot = 3.648807 Pheat= 6.178112 Ploss = 2.529305 dW/dt= -0.041408 MW
+t= 4.136459 s taue = 0.05450 = ( 0.376)* 0.14513 GL, = ( 0.424)* 0.12850 ITER89-P, ( 0.168)* 0.32476 NA
+t= 4.136459 s ne-bar= 3.639E+13 cm-3, beta = 0.243% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-01-27        time    11:23:23
+     cpu time used so far =     86.06 secs
+====================================================================================
+62270n01
+Start time: พ. 27 ม.ค. 2559 11:24:04 ICT
+Finish time: พ. 27 ม.ค. 2559 11:25:39 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1200 te-axis= 3.586E+00 ti-axis= 4.404E+00 ne-axis= 5.388E+13 ni-axis= 4.853E+13 z-axis= 1.208E+00
+t= 4135.397 ms te-avg.= 1.774E+00 ti-avg.= 2.057E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.187E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 3.670E-01 q-axis= 6.151E-01
+t= 4.135397 s Wtot = 0.862591 Weth = 0.312574 With = 0.338743 Wbeam= 0.211274 Walpha= 0.000000 MJ
+t= 4.135397 s Petot= 1.761217 Peaux= 2.256154 Pealpha= 0.000000 Peohm= 1.034937 Peloss= 2.467425 MW
+t= 4.135397 s Pitot= 1.893636 Piaux= 2.890765 Pialpha= 0.000000 Piequ= -0.937551 Piloss= 0.059578 MW
+t= 4.135397 s Ptot = 3.654853 Pheat= 6.181856 Ploss = 2.527003 dW/dt= -0.095756 MW
+t= 4.135397 s taue = 0.05650 = ( 0.389)* 0.14509 GL, = ( 0.440)* 0.12847 ITER89-P, ( 0.174)* 0.32478 NA
+t= 4.135397 s ne-bar= 3.638E+13 cm-3, beta = 0.246% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-01-27        time    11:25:39
+     cpu time used so far =     94.61 secs
+====================================================================================
+62270n01
+Start time: พ. 27 ม.ค. 2559 11:27:36 ICT
+Finish time: พ. 27 ม.ค. 2559 11:28:33 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 775 te-axis= 3.534E+00 ti-axis= 4.398E+00 ne-axis= 5.159E+13 ni-axis= 4.571E+13 z-axis= 1.243E+00
+t= 3875.144 ms te-avg.= 1.806E+00 ti-avg.= 2.076E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.316E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 5.178E-01 q-axis= 6.348E-01
+t= 3.875144 s Wtot = 0.839760 Weth = 0.301709 With = 0.315484 Wbeam= 0.222566 Walpha= 0.000000 MJ
+t= 3.875144 s Petot= 1.651980 Peaux= 2.230396 Pealpha= 0.000000 Peohm= 1.071693 Peloss= 2.386689 MW
+t= 3.875144 s Pitot= 2.118567 Piaux= 2.820227 Pialpha= 0.000000 Piequ= -0.736580 Piloss= -0.034920 MW
+t= 3.875144 s Ptot = 3.770547 Pheat= 6.122316 Ploss = 2.351768 dW/dt= 0.086368 MW
+t= 3.875144 s taue = 0.03566 = ( 0.245)* 0.14568 GL, = ( 0.278)* 0.12842 ITER89-P, ( 0.115)* 0.30989 NA
+t= 3.875144 s ne-bar= 3.476E+13 cm-3, beta = 0.240% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-01-27        time    11:28:33
+     cpu time used so far =     57.53 secs
+====================================================================================
+62270n01
+Start time: พ. 27 ม.ค. 2559 11:30:44 ICT
+Finish time: พ. 27 ม.ค. 2559 11:32:06 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1055 te-axis= 3.491E+00 ti-axis= 4.219E+00 ne-axis= 5.276E+13 ni-axis= 4.767E+13 z-axis= 1.178E+00
+t= 4146.318 ms te-avg.= 1.742E+00 ti-avg.= 2.002E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.163E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 3.189E-01 q-axis= 6.125E-01
+t= 4.146318 s Wtot = 0.853661 Weth = 0.309711 With = 0.334001 Wbeam= 0.209949 Walpha= 0.000000 MJ
+t= 4.146318 s Petot= 1.792419 Peaux= 2.287862 Pealpha= 0.000000 Peohm= 1.040861 Peloss= 2.473101 MW
+t= 4.146318 s Pitot= 1.874457 Piaux= 2.903129 Pialpha= 0.000000 Piequ= -0.936797 Piloss= 0.091876 MW
+t= 4.146318 s Ptot = 3.666876 Pheat= 6.231852 Ploss = 2.564977 dW/dt= -0.115331 MW
+t= 4.146318 s taue = 0.05160 = ( 0.357)* 0.14451 GL, = ( 0.403)* 0.12796 ITER89-P, ( 0.159)* 0.32486 NA
+t= 4.146318 s ne-bar= 3.639E+13 cm-3, beta = 0.244% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-01-27        time    11:32:06
+     cpu time used so far =     81.77 secs
+====================================================================================
+62270n01
+Start time: พ. 27 ม.ค. 2559 11:32:58 ICT
+Finish time: พ. 27 ม.ค. 2559 11:33:21 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 315 te-axis= 3.466E+00 ti-axis= 4.273E+00 ne-axis= 5.045E+13 ni-axis= 4.514E+13 z-axis= 1.190E+00
+t= 3584.865 ms te-avg.= 1.794E+00 ti-avg.= 2.046E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.232E+00
+dt= 2.000 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 6.395E-01 q-axis= 6.807E-01
+t= 3.584865 s Wtot = 0.805495 Weth = 0.277934 With = 0.290656 Wbeam= 0.236905 Walpha= 0.000000 MJ
+t= 3.584865 s Petot= 1.765345 Peaux= 2.240958 Pealpha= 0.000000 Peohm= 1.056967 Peloss= 2.270723 MW
+t= 3.584865 s Pitot= 2.220249 Piaux= 2.781597 Pialpha= 0.000000 Piequ= -0.738144 Piloss= -0.176795 MW
+t= 3.584865 s Ptot = 3.985594 Pheat= 6.079521 Ploss = 2.093927 dW/dt= 0.405010 MW
+t= 3.584865 s taue = 0.05879 = ( 0.402)* 0.14628 GL, = ( 0.459)* 0.12807 ITER89-P, ( 0.204)* 0.28888 NA
+t= 3.584865 s ne-bar= 3.250E+13 cm-3, beta = 0.231% qcyl= 2.881
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-01-27        time    11:33:21
+     cpu time used so far =     23.57 secs
+====================================================================================
+62270n01
+Start time: พ. 27 ม.ค. 2559 11:34:12 ICT
+Finish time: พ. 27 ม.ค. 2559 11:35:14 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 835 te-axis= 3.480E+00 ti-axis= 4.129E+00 ne-axis= 5.226E+13 ni-axis= 4.729E+13 z-axis= 1.159E+00
+t= 4139.909 ms te-avg.= 1.727E+00 ti-avg.= 1.918E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.161E+00
+dt= 0.031 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 4.422E-01 q-axis= 6.136E-01
+t= 4.139909 s Wtot = 0.835062 Weth = 0.306516 With = 0.319592 Wbeam= 0.208954 Walpha= 0.000000 MJ
+t= 4.139909 s Petot= 1.626929 Peaux= 2.328350 Pealpha= 0.000000 Peohm= 1.055956 Peloss= 2.506787 MW
+t= 4.139909 s Pitot= 1.011135 Piaux= 2.927271 Pialpha= 0.000000 Piequ= -0.749409 Piloss= 1.166727 MW
+t= 4.139909 s Ptot = 2.638063 Pheat= 6.311577 Ploss = 3.673514 dW/dt= -0.712199 MW
+t= 4.139909 s taue = 0.04909 = ( 0.342)* 0.14359 GL, = ( 0.386)* 0.12713 ITER89-P, ( 0.151)* 0.32459 NA
+t= 4.139909 s ne-bar= 3.637E+13 cm-3, beta = 0.239% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-01-27        time    11:35:14
+     cpu time used so far =     61.60 secs
+====================================================================================
+62270n01
+Start time: พ. 27 ม.ค. 2559 11:36:20 ICT
+Finish time: พ. 27 ม.ค. 2559 11:36:58 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 475 te-axis= 1.697E+00 ti-axis= 1.419E+00 ne-axis= 4.410E+13 ni-axis= 4.392E+13 z-axis= 1.025E+00
+t= 3098.433 ms te-avg.= 1.066E+00 ti-avg.= 1.007E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.037E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 7.347E-01 q-axis= 7.371E-01
+t= 3.098433 s Wtot = 0.301914 Weth = 0.155711 With = 0.146203 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 3.098433 s Petot= -0.309477 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 1.972567 Peloss= 2.263243 MW
+t= 3.098433 s Pitot= 15.624775 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.018801 Piloss= -15.605974 MW
+t= 3.098433 s Ptot = 15.315298 Pheat= 1.972567 Ploss = -13.342730 dW/dt= 15.378066 MW
+t= 3.098433 s taue = 0.04927 = ( 0.192)* 0.25621 GL, = ( 0.221)* 0.22291 ITER89-P, ( 0.182)* 0.27031 NA
+t= 3.098433 s ne-bar= 3.039E+13 cm-3, beta = 0.086% qcyl= 2.885
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-01-27        time    11:36:58
+     cpu time used so far =     37.92 secs
+====================================================================================
+62270n01
+Start time: พ. 27 ม.ค. 2559 11:40:27 ICT
+Finish time: พ. 27 ม.ค. 2559 11:41:05 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 475 te-axis= 1.697E+00 ti-axis= 1.419E+00 ne-axis= 4.410E+13 ni-axis= 4.392E+13 z-axis= 1.025E+00
+t= 3098.433 ms te-avg.= 1.066E+00 ti-avg.= 1.007E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.037E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 7.347E-01 q-axis= 7.371E-01
+t= 3.098433 s Wtot = 0.301914 Weth = 0.155711 With = 0.146203 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 3.098433 s Petot= -0.309477 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 1.972567 Peloss= 2.263243 MW
+t= 3.098433 s Pitot= 15.624775 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.018801 Piloss= -15.605974 MW
+t= 3.098433 s Ptot = 15.315298 Pheat= 1.972567 Ploss = -13.342730 dW/dt= 15.378066 MW
+t= 3.098433 s taue = 0.04927 = ( 0.192)* 0.25621 GL, = ( 0.221)* 0.22291 ITER89-P, ( 0.182)* 0.27031 NA
+t= 3.098433 s ne-bar= 3.039E+13 cm-3, beta = 0.086% qcyl= 2.885
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-01-27        time    11:41:05
+     cpu time used so far =     37.95 secs
+====================================================================================
+62270n01
+Start time: พ. 27 ม.ค. 2559 11:41:32 ICT
+Finish time: พ. 27 ม.ค. 2559 11:42:29 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 700 te-axis= 1.534E+00 ti-axis= 1.338E+00 ne-axis= 4.062E+13 ni-axis= 4.036E+13 z-axis= 1.039E+00
+t= 3126.088 ms te-avg.= 1.032E+00 ti-avg.= 9.810E-01 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.053E+00
+dt= 0.001 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 6.056E-01 q-axis= 7.480E-01
+t= 3.126088 s Wtot = 0.304612 Weth = 0.156805 With = 0.147807 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 3.126088 s Petot= 0.874662 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 2.020519 Peloss= 1.278385 MW
+t= 3.126088 s Pitot= -0.133247 Piaux= 0.000000 Pialpha= 0.000000 Piequ= -0.132528 Piloss= 0.000719 MW
+t= 3.126088 s Ptot = 0.741415 Pheat= 2.020519 Ploss = 1.279104 dW/dt= -0.838442 MW
+t= 3.126088 s taue = 0.04206 = ( 0.166)* 0.25315 GL, = ( 0.191)* 0.22037 ITER89-P, ( 0.155)* 0.27184 NA
+t= 3.126088 s ne-bar= 3.056E+13 cm-3, beta = 0.087% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-01-27        time    11:42:29
+     cpu time used so far =     57.51 secs
+====================================================================================
+62270n01
+Start time: พ. 27 ม.ค. 2559 11:42:54 ICT
+Finish time: พ. 27 ม.ค. 2559 11:43:52 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 700 te-axis= 1.534E+00 ti-axis= 1.338E+00 ne-axis= 4.062E+13 ni-axis= 4.036E+13 z-axis= 1.039E+00
+t= 3126.088 ms te-avg.= 1.032E+00 ti-avg.= 9.810E-01 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.053E+00
+dt= 0.001 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 6.056E-01 q-axis= 7.480E-01
+t= 3.126088 s Wtot = 0.304612 Weth = 0.156805 With = 0.147807 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 3.126088 s Petot= 0.874662 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 2.020519 Peloss= 1.278385 MW
+t= 3.126088 s Pitot= -0.133247 Piaux= 0.000000 Pialpha= 0.000000 Piequ= -0.132528 Piloss= 0.000719 MW
+t= 3.126088 s Ptot = 0.741415 Pheat= 2.020519 Ploss = 1.279104 dW/dt= -0.838442 MW
+t= 3.126088 s taue = 0.04206 = ( 0.166)* 0.25315 GL, = ( 0.191)* 0.22037 ITER89-P, ( 0.155)* 0.27184 NA
+t= 3.126088 s ne-bar= 3.056E+13 cm-3, beta = 0.087% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-01-27        time    11:43:52
+     cpu time used so far =     57.60 secs
+====================================================================================
+62270n01
+Start time: พ. 27 ม.ค. 2559 11:44:56 ICT
+Finish time: พ. 27 ม.ค. 2559 11:46:42 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 2.032E+00 ti-axis= 1.650E+00 ne-axis= 5.203E+13 ni-axis= 5.202E+13 z-axis= 1.002E+00
+t= 4868.620 ms te-avg.= 9.522E-01 ti-avg.= 8.964E-01 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.001E+00
+dt= 1.000 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop=-8.736E-04 q-axis= 5.194E-01
+t= 4.868620 s Wtot = 0.325467 Weth = 0.167664 With = 0.157804 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 4.868620 s Petot= 1.023419 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 2.089226 Peloss= 1.402316 MW
+t= 4.868620 s Pitot= 0.735191 Piaux= 0.000000 Pialpha= 0.000000 Piequ= -0.336509 Piloss= -1.071700 MW
+t= 4.868620 s Ptot = 1.758610 Pheat= 2.089226 Ploss = 0.330615 dW/dt= 0.016722 MW
+t= 4.868620 s taue = 0.08720 = ( 0.348)* 0.25075 GL, = ( 0.394)* 0.22144 ITER89-P, ( 0.275)* 0.31715 NA
+t= 4.868620 s ne-bar= 3.569E+13 cm-3, beta = 0.093% qcyl= 2.873
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-01-27        time    11:46:42
+     cpu time used so far =    105.51 secs
+====================================================================================
+62270n01
+Start time: พฤ. 18 ก.พ. 2559 09:26:12 ICT
+Finish time: พฤ. 18 ก.พ. 2559 09:27:58 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 2.032E+00 ti-axis= 1.650E+00 ne-axis= 5.203E+13 ni-axis= 5.202E+13 z-axis= 1.002E+00
+t= 4868.620 ms te-avg.= 9.522E-01 ti-avg.= 8.964E-01 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.001E+00
+dt= 1.000 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop=-8.736E-04 q-axis= 5.194E-01
+t= 4.868620 s Wtot = 0.325467 Weth = 0.167664 With = 0.157804 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 4.868620 s Petot= 1.023419 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 2.089226 Peloss= 1.402316 MW
+t= 4.868620 s Pitot= 0.735191 Piaux= 0.000000 Pialpha= 0.000000 Piequ= -0.336509 Piloss= -1.071700 MW
+t= 4.868620 s Ptot = 1.758610 Pheat= 2.089226 Ploss = 0.330615 dW/dt= 0.016722 MW
+t= 4.868620 s taue = 0.08720 = ( 0.348)* 0.25075 GL, = ( 0.394)* 0.22144 ITER89-P, ( 0.275)* 0.31715 NA
+t= 4.868620 s ne-bar= 3.569E+13 cm-3, beta = 0.093% qcyl= 2.873
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-02-18        time    09:27:58
+     cpu time used so far =    105.56 secs
+====================================================================================
+62270n01
+Start time: พฤ. 18 ก.พ. 2559 09:35:31 ICT
+Finish time: พฤ. 18 ก.พ. 2559 09:37:18 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 2.032E+00 ti-axis= 1.650E+00 ne-axis= 5.203E+13 ni-axis= 5.202E+13 z-axis= 1.002E+00
+t= 4868.620 ms te-avg.= 9.522E-01 ti-avg.= 8.964E-01 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.001E+00
+dt= 1.000 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop=-8.736E-04 q-axis= 5.194E-01
+t= 4.868620 s Wtot = 0.325467 Weth = 0.167664 With = 0.157804 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 4.868620 s Petot= 1.023419 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 2.089226 Peloss= 1.402316 MW
+t= 4.868620 s Pitot= 0.735191 Piaux= 0.000000 Pialpha= 0.000000 Piequ= -0.336509 Piloss= -1.071700 MW
+t= 4.868620 s Ptot = 1.758610 Pheat= 2.089226 Ploss = 0.330615 dW/dt= 0.016722 MW
+t= 4.868620 s taue = 0.08720 = ( 0.348)* 0.25075 GL, = ( 0.394)* 0.22144 ITER89-P, ( 0.275)* 0.31715 NA
+t= 4.868620 s ne-bar= 3.569E+13 cm-3, beta = 0.093% qcyl= 2.873
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-02-18        time    09:37:18
+     cpu time used so far =    106.47 secs
+====================================================================================
+62270n01
+Start time: พฤ. 18 ก.พ. 2559 09:38:47 ICT
+Finish time: พฤ. 18 ก.พ. 2559 09:40:28 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1432 te-axis= 2.053E+00 ti-axis= 1.705E+00 ne-axis= 5.163E+13 ni-axis= 5.161E+13 z-axis= 1.002E+00
+t= 4800.620 ms te-avg.= 9.556E-01 ti-avg.= 8.904E-01 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.001E+00
+dt= 1.000 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 8.189E-03 q-axis= 5.308E-01
+t= 4.800620 s Wtot = 0.326290 Weth = 0.168928 With = 0.157362 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 4.800620 s Petot= 0.950555 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 2.071822 Peloss= 1.406619 MW
+t= 4.800620 s Pitot= 0.520017 Piaux= 0.000002 Pialpha= 0.000000 Piequ= -0.285352 Piloss= -0.805368 MW
+t= 4.800620 s Ptot = 1.470573 Pheat= 2.071824 Ploss = 0.601252 dW/dt= -0.280602 MW
+t= 4.800620 s taue = 0.07525 = ( 0.299)* 0.25180 GL, = ( 0.338)* 0.22237 ITER89-P, ( 0.237)* 0.31726 NA
+t= 4.800620 s ne-bar= 3.571E+13 cm-3, beta = 0.093% qcyl= 2.873
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-02-18        time    09:40:28
+     cpu time used so far =    101.39 secs
+====================================================================================
+62270n01
+Start time: พฤ. 18 ก.พ. 2559 09:41:14 ICT
+Finish time: พฤ. 18 ก.พ. 2559 09:42:56 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1432 te-axis= 2.053E+00 ti-axis= 1.705E+00 ne-axis= 5.163E+13 ni-axis= 5.161E+13 z-axis= 1.002E+00
+t= 4800.620 ms te-avg.= 9.556E-01 ti-avg.= 8.904E-01 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.001E+00
+dt= 1.000 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 8.189E-03 q-axis= 5.308E-01
+t= 4.800620 s Wtot = 0.326290 Weth = 0.168928 With = 0.157362 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 4.800620 s Petot= 0.950555 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 2.071822 Peloss= 1.406619 MW
+t= 4.800620 s Pitot= 0.520017 Piaux= 0.000002 Pialpha= 0.000000 Piequ= -0.285352 Piloss= -0.805368 MW
+t= 4.800620 s Ptot = 1.470573 Pheat= 2.071824 Ploss = 0.601252 dW/dt= -0.280602 MW
+t= 4.800620 s taue = 0.07525 = ( 0.299)* 0.25180 GL, = ( 0.338)* 0.22237 ITER89-P, ( 0.237)* 0.31726 NA
+t= 4.800620 s ne-bar= 3.571E+13 cm-3, beta = 0.093% qcyl= 2.873
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-02-18        time    09:42:55
+     cpu time used so far =    101.51 secs
+====================================================================================
+62270n01
+Start time: อา. 21 ก.พ. 2559 18:00:29 ICT
+Finish time: อา. 21 ก.พ. 2559 18:02:29 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1428 te-axis= 2.101E+00 ti-axis= 1.732E+00 ne-axis= 5.031E+13 ni-axis= 5.029E+13 z-axis= 1.002E+00
+t= 4800.598 ms te-avg.= 9.241E-01 ti-avg.= 8.540E-01 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.001E+00
+dt= 1.000 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 8.681E-01 q-axis= 5.214E-01
+t= 4.800598 s Wtot = 0.320035 Weth = 0.166335 With = 0.153700 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 4.800598 s Petot= 1.039812 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 2.066725 Peloss= 1.398224 MW
+t= 4.800598 s Pitot= 0.539635 Piaux= 0.000002 Pialpha= 0.000000 Piequ= -0.371310 Piloss= -0.910943 MW
+t= 4.800598 s Ptot = 1.579447 Pheat= 2.066728 Ploss = 0.487281 dW/dt= -0.329829 MW
+t= 4.800598 s taue = 0.08114 = ( 0.323)* 0.25093 GL, = ( 0.366)* 0.22169 ITER89-P, ( 0.255)* 0.31763 NA
+t= 4.800598 s ne-bar= 3.559E+13 cm-3, beta = 0.091% qcyl= 2.886
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-02-21        time    18:02:29
+     cpu time used so far =    120.29 secs
+====================================================================================
+62270n01
+Start time: อา. 21 ก.พ. 2559 18:03:30 ICT
+Finish time: อา. 21 ก.พ. 2559 18:03:33 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 0 te-axis= 9.999E-01 ti-axis= 9.999E-01 ne-axis= 3.405E+13 ni-axis= 2.780E+13 z-axis= 2.114E+00
+t= 2000.000 ms te-avg.= 6.708E-01 ti-avg.= 6.670E-01 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 2.025E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 2.210E+00 q-axis= 8.750E-01
+t= 2.000000 s Wtot = 0.165972 Weth = 0.090874 With = 0.075097 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 2.000000 s Petot= -0.575220 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 0.000000 Peloss= 0.575220 MW
+t= 2.000000 s Pitot= 0.000000 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.000000 Piloss= 0.000000 MW
+t= 2.000000 s Ptot = -0.575220 Pheat= 0.000000 Ploss = 0.575220 dW/dt= 0.000000 MW
+t= 2.000000 s taue = 0.33664 = ( 0.000)********** GL, = ( 0.000)********** ITER89-P, ( 1.436)* 0.23440 NA
+t= 2.000000 s ne-bar= 2.590E+13 cm-3, beta = 0.048% qcyl= 2.941
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-21        time    18:03:33
+     cpu time used so far =      2.62 secs
+====================================================================================
+62270n01
+Start time: อา. 21 ก.พ. 2559 18:03:49 ICT
+Finish time: อา. 21 ก.พ. 2559 18:05:50 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1429 te-axis= 2.072E+00 ti-axis= 1.696E+00 ne-axis= 5.094E+13 ni-axis= 5.093E+13 z-axis= 1.001E+00
+t= 4800.172 ms te-avg.= 9.286E-01 ti-avg.= 8.572E-01 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.001E+00
+dt= 1.000 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 1.075E+00 q-axis= 5.264E-01
+t= 4.800172 s Wtot = 0.316961 Weth = 0.164825 With = 0.152136 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 4.800172 s Petot= 0.958434 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 2.104085 Peloss= 1.376477 MW
+t= 4.800172 s Pitot= 0.342411 Piaux= 0.000002 Pialpha= 0.000000 Piequ= -0.230826 Piloss= -0.573234 MW
+t= 4.800172 s Ptot = 1.300844 Pheat= 2.104087 Ploss = 0.803243 dW/dt= -0.278721 MW
+t= 4.800172 s taue = 0.07940 = ( 0.319)* 0.24873 GL, = ( 0.361)* 0.21976 ITER89-P, ( 0.250)* 0.31806 NA
+t= 4.800172 s ne-bar= 3.563E+13 cm-3, beta = 0.091% qcyl= 2.886
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-02-21        time    18:05:50
+     cpu time used so far =    120.28 secs
+====================================================================================
+62270n01
+Start time: อา. 21 ก.พ. 2559 18:06:15 ICT
+Finish time: อา. 21 ก.พ. 2559 18:08:26 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 2.193E+00 ti-axis= 1.910E+00 ne-axis= 5.040E+13 ni-axis= 5.037E+13 z-axis= 1.004E+00
+t= 4706.968 ms te-avg.= 1.003E+00 ti-avg.= 9.856E-01 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.003E+00
+dt= 1.000 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 7.256E-01 q-axis= 5.359E-01
+t= 4.706968 s Wtot = 0.357280 Weth = 0.180204 With = 0.177059 Wbeam= 0.000017 Walpha= 0.000000 MJ
+t= 4.706968 s Petot= 1.137353 Peaux= 0.000169 Pealpha= 0.000000 Peohm= 1.881993 Peloss= 1.452914 MW
+t= 4.706968 s Pitot= 0.781698 Piaux= 0.000947 Pialpha= 0.000000 Piequ= -0.708105 Piloss= -1.488857 MW
+t= 4.706968 s Ptot = 1.919051 Pheat= 1.883108 Ploss = -0.035943 dW/dt= -0.337227 MW
+t= 4.706968 s taue = 0.08748 = ( 0.333)* 0.26290 GL, = ( 0.377)* 0.23231 ITER89-P, ( 0.275)* 0.31823 NA
+t= 4.706968 s ne-bar= 3.565E+13 cm-3, beta = 0.102% qcyl= 2.886
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-02-21        time    18:08:26
+     cpu time used so far =    131.20 secs
+====================================================================================
+62270n01
+Start time: อา. 21 ก.พ. 2559 18:09:31 ICT
+Finish time: อา. 21 ก.พ. 2559 18:11:06 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1035 te-axis= 3.525E+00 ti-axis= 4.380E+00 ne-axis= 5.544E+13 ni-axis= 5.085E+13 z-axis= 1.148E+00
+t= 4144.029 ms te-avg.= 1.750E+00 ti-avg.= 1.998E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.162E+00
+dt= 0.008 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 3.952E-01 q-axis= 6.102E-01
+t= 4.144029 s Wtot = 0.847846 Weth = 0.307084 With = 0.328767 Wbeam= 0.211996 Walpha= 0.000000 MJ
+t= 4.144029 s Petot= 1.654802 Peaux= 2.281783 Pealpha= 0.000000 Peohm= 1.037652 Peloss= 2.510863 MW
+t= 4.144029 s Pitot= 1.251616 Piaux= 2.854604 Pialpha= 0.000000 Piequ= -0.846230 Piloss= 0.756758 MW
+t= 4.144029 s Ptot = 2.906418 Pheat= 6.174039 Ploss = 3.267621 dW/dt= -0.617269 MW
+t= 4.144029 s taue = 0.04813 = ( 0.331)* 0.14519 GL, = ( 0.374)* 0.12855 ITER89-P, ( 0.148)* 0.32477 NA
+t= 4.144029 s ne-bar= 3.638E+13 cm-3, beta = 0.242% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-21        time    18:11:06
+     cpu time used so far =     94.64 secs
+====================================================================================
+62270n01
+Start time: อา. 21 ก.พ. 2559 18:12:00 ICT
+Finish time: อา. 21 ก.พ. 2559 18:14:10 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 2.193E+00 ti-axis= 1.910E+00 ne-axis= 5.040E+13 ni-axis= 5.037E+13 z-axis= 1.004E+00
+t= 4706.968 ms te-avg.= 1.003E+00 ti-avg.= 9.856E-01 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.003E+00
+dt= 1.000 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 7.256E-01 q-axis= 5.359E-01
+t= 4.706968 s Wtot = 0.357280 Weth = 0.180204 With = 0.177059 Wbeam= 0.000017 Walpha= 0.000000 MJ
+t= 4.706968 s Petot= 1.137353 Peaux= 0.000169 Pealpha= 0.000000 Peohm= 1.881993 Peloss= 1.452914 MW
+t= 4.706968 s Pitot= 0.781698 Piaux= 0.000947 Pialpha= 0.000000 Piequ= -0.708105 Piloss= -1.488857 MW
+t= 4.706968 s Ptot = 1.919051 Pheat= 1.883108 Ploss = -0.035943 dW/dt= -0.337227 MW
+t= 4.706968 s taue = 0.08748 = ( 0.333)* 0.26290 GL, = ( 0.377)* 0.23231 ITER89-P, ( 0.275)* 0.31823 NA
+t= 4.706968 s ne-bar= 3.565E+13 cm-3, beta = 0.102% qcyl= 2.886
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-02-21        time    18:14:10
+     cpu time used so far =    130.10 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 11:53:34 ICT
+Finish time: จ. 22 ก.พ. 2559 11:55:25 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 2.193E+00 ti-axis= 1.910E+00 ne-axis= 5.040E+13 ni-axis= 5.037E+13 z-axis= 1.004E+00
+t= 4706.968 ms te-avg.= 1.003E+00 ti-avg.= 9.856E-01 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.003E+00
+dt= 1.000 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 7.256E-01 q-axis= 5.359E-01
+t= 4.706968 s Wtot = 0.357280 Weth = 0.180204 With = 0.177059 Wbeam= 0.000017 Walpha= 0.000000 MJ
+t= 4.706968 s Petot= 1.137353 Peaux= 0.000169 Pealpha= 0.000000 Peohm= 1.881993 Peloss= 1.452914 MW
+t= 4.706968 s Pitot= 0.781698 Piaux= 0.000947 Pialpha= 0.000000 Piequ= -0.708105 Piloss= -1.488857 MW
+t= 4.706968 s Ptot = 1.919051 Pheat= 1.883108 Ploss = -0.035943 dW/dt= -0.337227 MW
+t= 4.706968 s taue = 0.08748 = ( 0.333)* 0.26290 GL, = ( 0.377)* 0.23231 ITER89-P, ( 0.275)* 0.31823 NA
+t= 4.706968 s ne-bar= 3.565E+13 cm-3, beta = 0.102% qcyl= 2.886
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-02-22        time    11:55:25
+     cpu time used so far =    110.67 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 11:57:16 ICT
+Finish time: จ. 22 ก.พ. 2559 11:59:06 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 2.193E+00 ti-axis= 1.910E+00 ne-axis= 5.040E+13 ni-axis= 5.037E+13 z-axis= 1.004E+00
+t= 4706.968 ms te-avg.= 1.003E+00 ti-avg.= 9.856E-01 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.003E+00
+dt= 1.000 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 7.256E-01 q-axis= 5.359E-01
+t= 4.706968 s Wtot = 0.357280 Weth = 0.180204 With = 0.177059 Wbeam= 0.000017 Walpha= 0.000000 MJ
+t= 4.706968 s Petot= 1.137353 Peaux= 0.000169 Pealpha= 0.000000 Peohm= 1.881993 Peloss= 1.452914 MW
+t= 4.706968 s Pitot= 0.781698 Piaux= 0.000947 Pialpha= 0.000000 Piequ= -0.708105 Piloss= -1.488857 MW
+t= 4.706968 s Ptot = 1.919051 Pheat= 1.883108 Ploss = -0.035943 dW/dt= -0.337227 MW
+t= 4.706968 s taue = 0.08748 = ( 0.333)* 0.26290 GL, = ( 0.377)* 0.23231 ITER89-P, ( 0.275)* 0.31823 NA
+t= 4.706968 s ne-bar= 3.565E+13 cm-3, beta = 0.102% qcyl= 2.886
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-02-22        time    11:59:06
+     cpu time used so far =    110.50 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 13:11:32 ICT
+Finish time: จ. 22 ก.พ. 2559 13:12:52 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1035 te-axis= 3.525E+00 ti-axis= 4.380E+00 ne-axis= 5.544E+13 ni-axis= 5.085E+13 z-axis= 1.148E+00
+t= 4144.029 ms te-avg.= 1.750E+00 ti-avg.= 1.998E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.162E+00
+dt= 0.008 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 3.952E-01 q-axis= 6.102E-01
+t= 4.144029 s Wtot = 0.847846 Weth = 0.307084 With = 0.328767 Wbeam= 0.211996 Walpha= 0.000000 MJ
+t= 4.144029 s Petot= 1.654802 Peaux= 2.281783 Pealpha= 0.000000 Peohm= 1.037652 Peloss= 2.510863 MW
+t= 4.144029 s Pitot= 1.251616 Piaux= 2.854604 Pialpha= 0.000000 Piequ= -0.846230 Piloss= 0.756758 MW
+t= 4.144029 s Ptot = 2.906418 Pheat= 6.174039 Ploss = 3.267621 dW/dt= -0.617269 MW
+t= 4.144029 s taue = 0.04813 = ( 0.331)* 0.14519 GL, = ( 0.374)* 0.12855 ITER89-P, ( 0.148)* 0.32477 NA
+t= 4.144029 s ne-bar= 3.638E+13 cm-3, beta = 0.242% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    13:12:52
+     cpu time used so far =     80.46 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 13:13:47 ICT
+Finish time: จ. 22 ก.พ. 2559 13:14:49 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 825 te-axis= 3.290E+00 ti-axis= 4.124E+00 ne-axis= 5.427E+13 ni-axis= 4.883E+13 z-axis= 1.263E+00
+t= 4027.945 ms te-avg.= 1.800E+00 ti-avg.= 2.103E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.289E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 4.458E-01 q-axis= 6.338E-01
+t= 4.027945 s Wtot = 0.857876 Weth = 0.313436 With = 0.336281 Wbeam= 0.208159 Walpha= 0.000000 MJ
+t= 4.027945 s Petot= 0.987718 Peaux= 2.210790 Pealpha= 0.000000 Peohm= 1.065097 Peloss= 3.192097 MW
+t= 4.027945 s Pitot= -0.893693 Piaux= 2.790840 Pialpha= 0.000000 Piequ= -0.903929 Piloss= 2.780605 MW
+t= 4.027945 s Ptot = 0.094025 Pheat= 6.066727 Ploss = 5.972702 dW/dt= -1.381152 MW
+t= 4.027945 s taue = 0.04450 = ( 0.304)* 0.14645 GL, = ( 0.343)* 0.12967 ITER89-P, ( 0.137)* 0.32456 NA
+t= 4.027945 s ne-bar= 3.637E+13 cm-3, beta = 0.245% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    13:14:49
+     cpu time used so far =     62.22 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 13:15:35 ICT
+Finish time: จ. 22 ก.พ. 2559 13:16:51 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 960 te-axis= 3.344E+00 ti-axis= 4.104E+00 ne-axis= 5.388E+13 ni-axis= 4.852E+13 z-axis= 1.242E+00
+t= 4037.594 ms te-avg.= 1.767E+00 ti-avg.= 2.034E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.270E+00
+dt= 0.035 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 5.600E-01 q-axis= 6.292E-01
+t= 4.037594 s Wtot = 0.849595 Weth = 0.310917 With = 0.329644 Wbeam= 0.209034 Walpha= 0.000000 MJ
+t= 4.037594 s Petot= 1.703135 Peaux= 2.248416 Pealpha= 0.000000 Peohm= 1.072269 Peloss= 2.518200 MW
+t= 4.037594 s Pitot= 1.617633 Piaux= 2.820194 Pialpha= 0.000000 Piequ= -0.900650 Piloss= 0.301910 MW
+t= 4.037594 s Ptot = 3.320768 Pheat= 6.140878 Ploss = 2.820110 dW/dt= -0.444500 MW
+t= 4.037594 s taue = 0.05147 = ( 0.354)* 0.14557 GL, = ( 0.399)* 0.12889 ITER89-P, ( 0.159)* 0.32459 NA
+t= 4.037594 s ne-bar= 3.637E+13 cm-3, beta = 0.243% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    13:16:51
+     cpu time used so far =     75.61 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 13:17:44 ICT
+Finish time: จ. 22 ก.พ. 2559 13:18:11 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 365 te-axis= 1.772E+00 ti-axis= 1.565E+00 ne-axis= 4.151E+13 ni-axis= 3.981E+13 z-axis= 1.107E+00
+t= 3279.393 ms te-avg.= 1.200E+00 ti-avg.= 1.104E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.130E+00
+dt= 0.001 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 3.145E-01 q-axis= 7.406E-01
+t= 3.279393 s Wtot = 0.445548 Weth = 0.185832 With = 0.164309 Wbeam= 0.095407 Walpha= 0.000000 MJ
+t= 3.279393 s Petot= 2.015931 Peaux= 1.702600 Pealpha= 0.000000 Peohm= 1.736207 Peloss= 1.635385 MW
+t= 3.279393 s Pitot= 0.724190 Piaux= 1.011745 Pialpha= 0.000000 Piequ= -0.212509 Piloss= 0.075045 MW
+t= 3.279393 s Ptot = 2.740122 Pheat= 4.450552 Ploss = 1.710430 dW/dt= 0.003886 MW
+t= 3.279393 s taue = 0.04577 = ( 0.268)* 0.17060 GL, = ( 0.308)* 0.14882 ITER89-P, ( 0.165)* 0.27767 NA
+t= 3.279393 s ne-bar= 3.121E+13 cm-3, beta = 0.128% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    13:18:11
+     cpu time used so far =     27.40 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 13:18:40 ICT
+Finish time: จ. 22 ก.พ. 2559 13:20:01 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 960 te-axis= 3.158E+00 ti-axis= 3.843E+00 ne-axis= 4.779E+13 ni-axis= 4.286E+13 z-axis= 1.224E+00
+t= 3686.172 ms te-avg.= 1.778E+00 ti-avg.= 1.998E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.269E+00
+dt= 0.001 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 2.055E-01 q-axis= 6.782E-01
+t= 3.686172 s Wtot = 0.810541 Weth = 0.287783 With = 0.295993 Wbeam= 0.226765 Walpha= 0.000000 MJ
+t= 3.686172 s Petot= 1.625660 Peaux= 2.219343 Pealpha= 0.000000 Peohm= 1.071097 Peloss= 2.347219 MW
+t= 3.686172 s Pitot= 2.540380 Piaux= 2.818572 Pialpha= 0.000000 Piequ= -0.682439 Piloss= -0.404246 MW
+t= 3.686172 s Ptot = 4.166040 Pheat= 6.109012 Ploss = 1.942972 dW/dt= 0.658325 MW
+t= 3.686172 s taue = 0.04855 = ( 0.333)* 0.14574 GL, = ( 0.379)* 0.12794 ITER89-P, ( 0.164)* 0.29666 NA
+t= 3.686172 s ne-bar= 3.330E+13 cm-3, beta = 0.232% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    13:20:01
+     cpu time used so far =     80.79 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 13:20:22 ICT
+Finish time: จ. 22 ก.พ. 2559 13:22:32 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 3.617E+00 ti-axis= 4.519E+00 ne-axis= 5.138E+13 ni-axis= 4.544E+13 z-axis= 1.257E+00
+t= 3793.821 ms te-avg.= 1.826E+00 ti-avg.= 2.102E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.310E+00
+dt= 0.001 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 3.393E-01 q-axis= 6.542E-01
+t= 3.793821 s Wtot = 0.838539 Weth = 0.298674 With = 0.312657 Wbeam= 0.227207 Walpha= 0.000000 MJ
+t= 3.793821 s Petot= 1.496539 Peaux= 2.198707 Pealpha= 0.000000 Peohm= 1.062317 Peloss= 2.506285 MW
+t= 3.793821 s Pitot= -0.173712 Piaux= 2.881087 Pialpha= 0.000000 Piequ= -0.741800 Piloss= 2.312999 MW
+t= 3.793821 s Ptot = 1.322827 Pheat= 6.142112 Ploss = 4.819284 dW/dt= -1.688896 MW
+t= 3.793821 s taue = 0.04269 = ( 0.294)* 0.14541 GL, = ( 0.334)* 0.12798 ITER89-P, ( 0.140)* 0.30492 NA
+t= 3.793821 s ne-bar= 3.421E+13 cm-3, beta = 0.240% qcyl= 2.886
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-02-22        time    13:22:32
+     cpu time used so far =    130.00 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 13:22:58 ICT
+Finish time: จ. 22 ก.พ. 2559 13:25:06 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 3.452E+00 ti-axis= 4.278E+00 ne-axis= 4.997E+13 ni-axis= 4.447E+13 z-axis= 1.230E+00
+t= 3739.437 ms te-avg.= 1.804E+00 ti-avg.= 2.084E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.287E+00
+dt= 0.019 ms a= 0.788 R= 2.449 elong= 1.004 delta= 0.001 B= 4.767 I= 1.777 vloop= 4.041E-01 q-axis= 6.675E-01
+t= 3.739437 s Wtot = 0.826527 Weth = 0.292081 With = 0.307965 Wbeam= 0.226482 Walpha= 0.000000 MJ
+t= 3.739437 s Petot= 1.673877 Peaux= 2.199169 Pealpha= 0.000000 Peohm= 1.067625 Peloss= 2.345783 MW
+t= 3.739437 s Pitot= 1.721416 Piaux= 2.852476 Pialpha= 0.000000 Piequ= -0.752867 Piloss= 0.378194 MW
+t= 3.739437 s Ptot = 3.395293 Pheat= 6.119270 Ploss = 2.723977 dW/dt= -0.000056 MW
+t= 3.739437 s taue = 0.04915 = ( 0.337)* 0.14565 GL, = ( 0.384)* 0.12801 ITER89-P, ( 0.164)* 0.30031 NA
+t= 3.739437 s ne-bar= 3.370E+13 cm-3, beta = 0.236% qcyl= 2.886
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-02-22        time    13:25:06
+     cpu time used so far =    127.62 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 13:25:22 ICT
+Finish time: จ. 22 ก.พ. 2559 13:26:01 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 470 te-axis= 1.665E+00 ti-axis= 1.416E+00 ne-axis= 4.233E+13 ni-axis= 4.218E+13 z-axis= 1.022E+00
+t= 2641.027 ms te-avg.= 1.059E+00 ti-avg.= 9.510E-01 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.013E+00
+dt= 0.175 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 6.719E-01 q-axis= 7.754E-01
+t= 2.641027 s Wtot = 0.279285 Weth = 0.147261 With = 0.132024 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 2.641027 s Petot= 0.582037 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 2.000620 Peloss= 1.250742 MW
+t= 2.641027 s Pitot= 0.639919 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.167841 Piloss= -0.472078 MW
+t= 2.641027 s Ptot = 1.221956 Pheat= 2.000620 Ploss = 0.778664 dW/dt= 0.017639 MW
+t= 2.641027 s taue = 0.05480 = ( 0.216)* 0.25416 GL, = ( 0.249)* 0.22023 ITER89-P, ( 0.212)* 0.25870 NA
+t= 2.641027 s ne-bar= 2.912E+13 cm-3, beta = 0.080% qcyl= 2.885
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    13:26:01
+     cpu time used so far =     38.89 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 13:26:25 ICT
+Finish time: จ. 22 ก.พ. 2559 13:27:42 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 870 te-axis= 1.659E+00 ti-axis= 1.398E+00 ne-axis= 4.246E+13 ni-axis= 4.054E+13 z-axis= 1.275E+00
+t= 2233.702 ms te-avg.= 1.116E+00 ti-avg.= 1.012E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.175E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 1.424E+00 q-axis= 8.078E-01
+t= 2.233702 s Wtot = 0.278533 Weth = 0.148119 With = 0.130415 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 2.233702 s Petot= 0.780625 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 2.093181 Peloss= 1.235299 MW
+t= 2.233702 s Pitot= 0.076409 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.077257 Piloss= 0.000848 MW
+t= 2.233702 s Ptot = 0.857034 Pheat= 2.093181 Ploss = 1.236147 dW/dt= -0.604912 MW
+t= 2.233702 s taue = 0.03458 = ( 0.139)* 0.24839 GL, = ( 0.161)* 0.21463 ITER89-P, ( 0.138)* 0.25124 NA
+t= 2.233702 s ne-bar= 2.829E+13 cm-3, beta = 0.080% qcyl= 2.885
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    13:27:42
+     cpu time used so far =     77.35 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 13:28:18 ICT
+Finish time: จ. 22 ก.พ. 2559 13:29:36 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 870 te-axis= 1.659E+00 ti-axis= 1.398E+00 ne-axis= 4.246E+13 ni-axis= 4.054E+13 z-axis= 1.275E+00
+t= 2233.702 ms te-avg.= 1.116E+00 ti-avg.= 1.012E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.175E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 1.424E+00 q-axis= 8.078E-01
+t= 2.233702 s Wtot = 0.278533 Weth = 0.148119 With = 0.130415 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 2.233702 s Petot= 0.780625 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 2.093181 Peloss= 1.235299 MW
+t= 2.233702 s Pitot= 0.076409 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.077257 Piloss= 0.000848 MW
+t= 2.233702 s Ptot = 0.857034 Pheat= 2.093181 Ploss = 1.236147 dW/dt= -0.604912 MW
+t= 2.233702 s taue = 0.03458 = ( 0.139)* 0.24839 GL, = ( 0.161)* 0.21463 ITER89-P, ( 0.138)* 0.25124 NA
+t= 2.233702 s ne-bar= 2.829E+13 cm-3, beta = 0.080% qcyl= 2.885
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    13:29:36
+     cpu time used so far =     77.33 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 13:30:11 ICT
+Finish time: จ. 22 ก.พ. 2559 13:31:28 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 870 te-axis= 1.659E+00 ti-axis= 1.398E+00 ne-axis= 4.246E+13 ni-axis= 4.054E+13 z-axis= 1.275E+00
+t= 2233.702 ms te-avg.= 1.116E+00 ti-avg.= 1.012E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.175E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 1.424E+00 q-axis= 8.078E-01
+t= 2.233702 s Wtot = 0.278533 Weth = 0.148119 With = 0.130415 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 2.233702 s Petot= 0.780625 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 2.093181 Peloss= 1.235299 MW
+t= 2.233702 s Pitot= 0.076409 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.077257 Piloss= 0.000848 MW
+t= 2.233702 s Ptot = 0.857034 Pheat= 2.093181 Ploss = 1.236147 dW/dt= -0.604912 MW
+t= 2.233702 s taue = 0.03458 = ( 0.139)* 0.24839 GL, = ( 0.161)* 0.21463 ITER89-P, ( 0.138)* 0.25124 NA
+t= 2.233702 s ne-bar= 2.829E+13 cm-3, beta = 0.080% qcyl= 2.885
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    13:31:28
+     cpu time used so far =     77.35 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 13:32:49 ICT
+Finish time: จ. 22 ก.พ. 2559 13:32:58 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 110 te-axis= 1.382E+00 ti-axis= 1.012E+00 ne-axis= 3.487E+13 ni-axis= 2.874E+13 z-axis= 2.068E+00
+t= 2015.339 ms te-avg.= 8.015E-01 ti-avg.= 6.957E-01 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.778E+00
+dt= 0.001 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 1.775E+00 q-axis= 8.413E-01
+t= 2.015339 s Wtot = 0.201224 Weth = 0.114560 With = 0.086664 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 2.015339 s Petot= 1.123511 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 3.600885 Peloss= 2.323935 MW
+t= 2.015339 s Pitot= 22.630071 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.153439 Piloss= -22.476632 MW
+t= 2.015339 s Ptot = 23.753582 Pheat= 3.600885 Ploss = -20.152697 dW/dt= 23.362733 MW
+t= 2.015339 s taue = 0.02354 = ( 0.124)* 0.18938 GL, = ( 0.144)* 0.16320 ITER89-P, ( 0.096)* 0.24455 NA
+t= 2.015339 s ne-bar= 2.753E+13 cm-3, beta = 0.058% qcyl= 2.885
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    13:32:58
+     cpu time used so far =      9.33 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 13:33:24 ICT
+Finish time: จ. 22 ก.พ. 2559 13:35:33 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 1.723E+00 ti-axis= 1.514E+00 ne-axis= 4.378E+13 ni-axis= 4.354E+13 z-axis= 1.033E+00
+t= 2492.070 ms te-avg.= 1.096E+00 ti-avg.= 1.002E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.025E+00
+dt= 0.539 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 7.209E-01 q-axis= 7.693E-01
+t= 2.492070 s Wtot = 0.282947 Weth = 0.148087 With = 0.134859 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 2.492070 s Petot= 0.575846 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 1.949388 Peloss= 1.243831 MW
+t= 2.492070 s Pitot= 0.725344 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.129711 Piloss= -0.595633 MW
+t= 2.492070 s Ptot = 1.301189 Pheat= 1.949388 Ploss = 0.648199 dW/dt= 0.075981 MW
+t= 2.492070 s taue = 0.04863 = ( 0.189)* 0.25740 GL, = ( 0.218)* 0.22274 ITER89-P, ( 0.191)* 0.25493 NA
+t= 2.492070 s ne-bar= 2.870E+13 cm-3, beta = 0.081% qcyl= 2.885
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-02-22        time    13:35:33
+     cpu time used so far =    129.05 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 13:36:12 ICT
+Finish time: จ. 22 ก.พ. 2559 13:37:55 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1200 te-axis= 1.707E+00 ti-axis= 1.476E+00 ne-axis= 4.336E+13 ni-axis= 4.332E+13 z-axis= 1.005E+00
+t= 2954.170 ms te-avg.= 1.101E+00 ti-avg.= 1.039E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.004E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 5.994E-01 q-axis= 7.422E-01
+t= 2.954170 s Wtot = 0.304320 Weth = 0.156591 With = 0.147729 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 2.954170 s Petot= 0.583943 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 1.892112 Peloss= 1.267082 MW
+t= 2.954170 s Pitot= 0.388356 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.041087 Piloss= -0.347270 MW
+t= 2.954170 s Ptot = 0.972300 Pheat= 1.892112 Ploss = 0.919813 dW/dt= -0.271766 MW
+t= 2.954170 s taue = 0.04788 = ( 0.183)* 0.26155 GL, = ( 0.211)* 0.22714 ITER89-P, ( 0.181)* 0.26519 NA
+t= 2.954170 s ne-bar= 2.982E+13 cm-3, beta = 0.087% qcyl= 2.885
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    13:37:55
+     cpu time used so far =    102.72 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 13:38:40 ICT
+Finish time: จ. 22 ก.พ. 2559 13:40:22 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1200 te-axis= 1.707E+00 ti-axis= 1.476E+00 ne-axis= 4.336E+13 ni-axis= 4.332E+13 z-axis= 1.005E+00
+t= 2954.170 ms te-avg.= 1.101E+00 ti-avg.= 1.039E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.004E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 5.994E-01 q-axis= 7.422E-01
+t= 2.954170 s Wtot = 0.304320 Weth = 0.156591 With = 0.147729 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 2.954170 s Petot= 0.583943 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 1.892112 Peloss= 1.267082 MW
+t= 2.954170 s Pitot= 0.388356 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.041087 Piloss= -0.347270 MW
+t= 2.954170 s Ptot = 0.972300 Pheat= 1.892112 Ploss = 0.919813 dW/dt= -0.271766 MW
+t= 2.954170 s taue = 0.04788 = ( 0.183)* 0.26155 GL, = ( 0.211)* 0.22714 ITER89-P, ( 0.181)* 0.26519 NA
+t= 2.954170 s ne-bar= 2.982E+13 cm-3, beta = 0.087% qcyl= 2.885
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    13:40:22
+     cpu time used so far =    102.69 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 13:41:02 ICT
+Finish time: จ. 22 ก.พ. 2559 13:42:44 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1200 te-axis= 1.707E+00 ti-axis= 1.476E+00 ne-axis= 4.336E+13 ni-axis= 4.332E+13 z-axis= 1.005E+00
+t= 2954.170 ms te-avg.= 1.101E+00 ti-avg.= 1.039E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.004E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 5.994E-01 q-axis= 7.422E-01
+t= 2.954170 s Wtot = 0.304320 Weth = 0.156591 With = 0.147729 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 2.954170 s Petot= 0.583943 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 1.892112 Peloss= 1.267082 MW
+t= 2.954170 s Pitot= 0.388356 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.041087 Piloss= -0.347270 MW
+t= 2.954170 s Ptot = 0.972300 Pheat= 1.892112 Ploss = 0.919813 dW/dt= -0.271766 MW
+t= 2.954170 s taue = 0.04788 = ( 0.183)* 0.26155 GL, = ( 0.211)* 0.22714 ITER89-P, ( 0.181)* 0.26519 NA
+t= 2.954170 s ne-bar= 2.982E+13 cm-3, beta = 0.087% qcyl= 2.885
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    13:42:44
+     cpu time used so far =    102.73 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 13:43:33 ICT
+Finish time: จ. 22 ก.พ. 2559 13:45:08 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1115 te-axis= 1.538E+00 ti-axis= 1.364E+00 ne-axis= 4.027E+13 ni-axis= 4.019E+13 z-axis= 1.012E+00
+t= 3050.400 ms te-avg.= 1.083E+00 ti-avg.= 1.015E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.016E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 7.275E-01 q-axis= 7.481E-01
+t= 3.050400 s Wtot = 0.301347 Weth = 0.155711 With = 0.145636 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 3.050400 s Petot= -0.376771 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 1.937811 Peloss= 2.280441 MW
+t= 3.050400 s Pitot= 20.939572 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.034140 Piloss= -20.905432 MW
+t= 3.050400 s Ptot = 20.562802 Pheat= 1.937811 Ploss = -18.624991 dW/dt= 20.605900 MW
+t= 3.050400 s taue = 0.05028 = ( 0.195)* 0.25849 GL, = ( 0.224)* 0.22430 ITER89-P, ( 0.191)* 0.26327 NA
+t= 3.050400 s ne-bar= 2.960E+13 cm-3, beta = 0.086% qcyl= 2.885
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    13:45:08
+     cpu time used so far =     94.75 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 13:47:25 ICT
+Finish time: จ. 22 ก.พ. 2559 13:48:45 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 945 te-axis= 1.711E+00 ti-axis= 1.462E+00 ne-axis= 4.371E+13 ni-axis= 4.367E+13 z-axis= 1.006E+00
+t= 3028.635 ms te-avg.= 1.079E+00 ti-avg.= 1.008E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.007E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 6.934E-01 q-axis= 7.355E-01
+t= 3.028635 s Wtot = 0.300579 Weth = 0.155468 With = 0.145112 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 3.028635 s Petot= 0.040692 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 1.927148 Peloss= 1.821864 MW
+t= 3.028635 s Pitot= 8.585173 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.064593 Piloss= -8.520580 MW
+t= 3.028635 s Ptot = 8.625865 Pheat= 1.927148 Ploss = -6.698717 dW/dt= 8.085697 MW
+t= 3.028635 s taue = 0.04467 = ( 0.172)* 0.25920 GL, = ( 0.198)* 0.22527 ITER89-P, ( 0.167)* 0.26739 NA
+t= 3.028635 s ne-bar= 3.006E+13 cm-3, beta = 0.086% qcyl= 2.885
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    13:48:45
+     cpu time used so far =     79.86 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 13:49:55 ICT
+Finish time: จ. 22 ก.พ. 2559 13:51:36 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1175 te-axis= 1.730E+00 ti-axis= 1.574E+00 ne-axis= 4.723E+13 ni-axis= 4.713E+13 z-axis= 1.012E+00
+t= 3050.398 ms te-avg.= 1.116E+00 ti-avg.= 1.056E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.018E+00
+dt= 0.337 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 6.980E-01 q-axis= 7.325E-01
+t= 3.050398 s Wtot = 0.305696 Weth = 0.157296 With = 0.148400 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 3.050398 s Petot= 0.569864 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 1.876759 Peloss= 1.291332 MW
+t= 3.050398 s Pitot= 0.658806 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.015563 Piloss= -0.643243 MW
+t= 3.050398 s Ptot = 1.228671 Pheat= 1.876759 Ploss = 0.648089 dW/dt= -0.009322 MW
+t= 3.050398 s taue = 0.04699 = ( 0.179)* 0.26266 GL, = ( 0.206)* 0.22836 ITER89-P, ( 0.175)* 0.26837 NA
+t= 3.050398 s ne-bar= 3.017E+13 cm-3, beta = 0.088% qcyl= 2.885
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    13:51:36
+     cpu time used so far =    101.16 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 13:51:57 ICT
+Finish time: จ. 22 ก.พ. 2559 13:53:40 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1210 te-axis= 1.612E+00 ti-axis= 1.369E+00 ne-axis= 4.161E+13 ni-axis= 4.156E+13 z-axis= 1.006E+00
+t= 2840.345 ms te-avg.= 1.071E+00 ti-avg.= 9.938E-01 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.005E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 7.020E-01 q-axis= 7.561E-01
+t= 2.840345 s Wtot = 0.294312 Weth = 0.152698 With = 0.141614 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 2.840345 s Petot= 0.627618 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 1.947320 Peloss= 1.239455 MW
+t= 2.840345 s Pitot= 0.079254 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.080248 Piloss= 0.000994 MW
+t= 2.840345 s Ptot = 0.706871 Pheat= 1.947320 Ploss = 1.240449 dW/dt= -0.586793 MW
+t= 2.840345 s taue = 0.04627 = ( 0.180)* 0.25775 GL, = ( 0.207)* 0.22364 ITER89-P, ( 0.176)* 0.26265 NA
+t= 2.840345 s ne-bar= 2.954E+13 cm-3, beta = 0.084% qcyl= 2.885
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    13:53:40
+     cpu time used so far =    103.14 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 13:54:21 ICT
+Finish time: จ. 22 ก.พ. 2559 13:56:26 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1465 te-axis= 3.400E+00 ti-axis= 4.078E+00 ne-axis= 4.981E+13 ni-axis= 4.475E+13 z-axis= 1.181E+00
+t= 3527.383 ms te-avg.= 1.812E+00 ti-avg.= 1.997E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.236E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 1.029E+00 q-axis= 6.942E-01
+t= 3.527383 s Wtot = 0.791610 Weth = 0.278661 With = 0.281823 Wbeam= 0.231126 Walpha= 0.000000 MJ
+t= 3.527383 s Petot= 0.349420 Peaux= 2.116251 Pealpha= 0.000000 Peohm= 1.056073 Peloss= 3.305242 MW
+t= 3.527383 s Pitot= 12.796931 Piaux= 2.732473 Pialpha= 0.000000 Piequ= -0.482338 Piloss= -10.546796 MW
+t= 3.527383 s Ptot = 13.146351 Pheat= 5.904797 Ploss = -7.241554 dW/dt= 12.063010 MW
+t= 3.527383 s taue = 0.19409 = ( 1.310)* 0.14814 GL, = ( 1.496)* 0.12973 ITER89-P, ( 0.672)* 0.28894 NA
+t= 3.527383 s ne-bar= 3.246E+13 cm-3, beta = 0.227% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    13:56:26
+     cpu time used so far =    125.12 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 13:57:39 ICT
+Finish time: จ. 22 ก.พ. 2559 13:59:46 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 3.402E+00 ti-axis= 4.082E+00 ne-axis= 4.982E+13 ni-axis= 4.476E+13 z-axis= 1.181E+00
+t= 3527.986 ms te-avg.= 1.803E+00 ti-avg.= 1.984E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.235E+00
+dt= 0.002 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 4.056E-01 q-axis= 6.940E-01
+t= 3.527986 s Wtot = 0.791374 Weth = 0.278736 With = 0.281507 Wbeam= 0.231131 Walpha= 0.000000 MJ
+t= 3.527986 s Petot= 1.418281 Peaux= 2.116346 Pealpha= 0.000000 Peohm= 1.059933 Peloss= 2.240879 MW
+t= 3.527986 s Pitot= 2.200896 Piaux= 2.732607 Pialpha= 0.000000 Piequ= -0.482880 Piloss= 0.048832 MW
+t= 3.527986 s Ptot = 3.619177 Pheat= 5.908887 Ploss = 2.289710 dW/dt= 0.948863 MW
+t= 3.527986 s taue = 0.02657 = ( 0.179)* 0.14809 GL, = ( 0.205)* 0.12972 ITER89-P, ( 0.092)* 0.28977 NA
+t= 3.527986 s ne-bar= 3.255E+13 cm-3, beta = 0.227% qcyl= 2.886
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-02-22        time    13:59:46
+     cpu time used so far =    127.09 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 14:00:29 ICT
+Finish time: จ. 22 ก.พ. 2559 14:02:35 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1475 te-axis= 3.400E+00 ti-axis= 4.075E+00 ne-axis= 4.982E+13 ni-axis= 4.476E+13 z-axis= 1.181E+00
+t= 3527.565 ms te-avg.= 1.803E+00 ti-avg.= 1.985E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.235E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 5.451E-01 q-axis= 6.942E-01
+t= 3.527565 s Wtot = 0.791523 Weth = 0.278669 With = 0.281721 Wbeam= 0.231133 Walpha= 0.000000 MJ
+t= 3.527565 s Petot= 1.485766 Peaux= 2.116419 Pealpha= 0.000000 Peohm= 1.059931 Peloss= 2.188802 MW
+t= 3.527565 s Pitot= 2.266626 Piaux= 2.732700 Pialpha= 0.000000 Piequ= -0.498217 Piloss= -0.032143 MW
+t= 3.527565 s Ptot = 3.752392 Pheat= 5.909051 Ploss = 2.156659 dW/dt= 0.842268 MW
+t= 3.527565 s taue = 0.04841 = ( 0.327)* 0.14809 GL, = ( 0.373)* 0.12972 ITER89-P, ( 0.167)* 0.28975 NA
+t= 3.527565 s ne-bar= 3.255E+13 cm-3, beta = 0.227% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    14:02:35
+     cpu time used so far =    125.63 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 14:05:48 ICT
+Finish time: จ. 22 ก.พ. 2559 14:07:56 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 3.402E+00 ti-axis= 4.084E+00 ne-axis= 4.982E+13 ni-axis= 4.476E+13 z-axis= 1.181E+00
+t= 3527.966 ms te-avg.= 1.804E+00 ti-avg.= 1.985E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.235E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 4.196E-01 q-axis= 6.940E-01
+t= 3.527966 s Wtot = 0.791486 Weth = 0.278732 With = 0.281618 Wbeam= 0.231136 Walpha= 0.000000 MJ
+t= 3.527966 s Petot= 1.456773 Peaux= 2.116475 Pealpha= 0.000000 Peohm= 1.059974 Peloss= 2.206954 MW
+t= 3.527966 s Pitot= 1.889806 Piaux= 2.732781 Pialpha= 0.000000 Piequ= -0.487277 Piloss= 0.355698 MW
+t= 3.527966 s Ptot = 3.346579 Pheat= 5.909231 Ploss = 2.562652 dW/dt= 0.436312 MW
+t= 3.527966 s taue = 0.04582 = ( 0.309)* 0.14809 GL, = ( 0.353)* 0.12972 ITER89-P, ( 0.158)* 0.28974 NA
+t= 3.527966 s ne-bar= 3.255E+13 cm-3, beta = 0.227% qcyl= 2.886
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-02-22        time    14:07:55
+     cpu time used so far =    127.02 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 14:08:26 ICT
+Finish time: จ. 22 ก.พ. 2559 14:10:33 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 3.401E+00 ti-axis= 4.080E+00 ne-axis= 4.982E+13 ni-axis= 4.476E+13 z-axis= 1.181E+00
+t= 3527.705 ms te-avg.= 1.803E+00 ti-avg.= 1.987E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.235E+00
+dt= 0.029 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 4.699E-01 q-axis= 6.941E-01
+t= 3.527705 s Wtot = 0.791804 Weth = 0.278695 With = 0.281972 Wbeam= 0.231137 Walpha= 0.000000 MJ
+t= 3.527705 s Petot= 1.426970 Peaux= 2.116515 Pealpha= 0.000000 Peohm= 1.059796 Peloss= 2.243344 MW
+t= 3.527705 s Pitot= 2.859638 Piaux= 2.732830 Pialpha= 0.000000 Piequ= -0.494003 Piloss= -0.620811 MW
+t= 3.527705 s Ptot = 4.286608 Pheat= 5.909142 Ploss = 1.622533 dW/dt= 1.759923 MW
+t= 3.527705 s taue = 0.03474 = ( 0.235)* 0.14809 GL, = ( 0.268)* 0.12972 ITER89-P, ( 0.120)* 0.28974 NA
+t= 3.527705 s ne-bar= 3.255E+13 cm-3, beta = 0.227% qcyl= 2.886
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-02-22        time    14:10:33
+     cpu time used so far =    127.16 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 14:12:34 ICT
+Finish time: จ. 22 ก.พ. 2559 14:14:41 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 3.401E+00 ti-axis= 4.092E+00 ne-axis= 4.983E+13 ni-axis= 4.476E+13 z-axis= 1.181E+00
+t= 3527.948 ms te-avg.= 1.803E+00 ti-avg.= 1.989E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.235E+00
+dt= 0.001 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 4.365E-01 q-axis= 6.940E-01
+t= 3.527948 s Wtot = 0.792135 Weth = 0.278723 With = 0.282270 Wbeam= 0.231142 Walpha= 0.000000 MJ
+t= 3.527948 s Petot= 1.472641 Peaux= 2.116617 Pealpha= 0.000000 Peohm= 1.059960 Peloss= 2.203593 MW
+t= 3.527948 s Pitot= 2.397124 Piaux= 2.732966 Pialpha= 0.000000 Piequ= -0.499657 Piloss= -0.163815 MW
+t= 3.527948 s Ptot = 3.869765 Pheat= 5.909542 Ploss = 2.039777 dW/dt= 1.006538 MW
+t= 3.527948 s taue = 0.04807 = ( 0.325)* 0.14808 GL, = ( 0.371)* 0.12972 ITER89-P, ( 0.166)* 0.28976 NA
+t= 3.527948 s ne-bar= 3.255E+13 cm-3, beta = 0.227% qcyl= 2.886
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-02-22        time    14:14:41
+     cpu time used so far =    127.03 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 14:15:46 ICT
+Finish time: จ. 22 ก.พ. 2559 14:16:29 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 525 te-axis= 1.535E+00 ti-axis= 1.368E+00 ne-axis= 4.032E+13 ni-axis= 4.013E+13 z-axis= 1.028E+00
+t= 3106.670 ms te-avg.= 1.077E+00 ti-avg.= 1.009E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.035E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 1.558E+00 q-axis= 7.461E-01
+t= 3.106670 s Wtot = 0.303645 Weth = 0.157196 With = 0.146449 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 3.106670 s Petot= -0.335238 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 1.956818 Peloss= 2.237837 MW
+t= 3.106670 s Pitot= 14.993452 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.054219 Piloss= -14.939233 MW
+t= 3.106670 s Ptot = 14.658214 Pheat= 1.956818 Ploss = -12.701396 dW/dt= 14.975370 MW
+t= 3.106670 s taue = 0.05244 = ( 0.204)* 0.25724 GL, = ( 0.235)* 0.22343 ITER89-P, ( 0.197)* 0.26582 NA
+t= 3.106670 s ne-bar= 2.988E+13 cm-3, beta = 0.087% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    14:16:29
+     cpu time used so far =     42.75 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 14:16:47 ICT
+Finish time: จ. 22 ก.พ. 2559 14:17:42 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 630 te-axis= 1.688E+00 ti-axis= 1.505E+00 ne-axis= 4.808E+13 ni-axis= 4.762E+13 z-axis= 1.059E+00
+t= 3114.312 ms te-avg.= 1.105E+00 ti-avg.= 1.039E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.070E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 6.767E-01 q-axis= 7.691E-01
+t= 3.114312 s Wtot = 0.302218 Weth = 0.156644 With = 0.145574 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 3.114312 s Petot= 0.640965 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 1.953630 Peloss= 1.265519 MW
+t= 3.114312 s Pitot= 0.046865 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.047145 Piloss= 0.000280 MW
+t= 3.114312 s Ptot = 0.687831 Pheat= 1.953630 Ploss = 1.265799 dW/dt= -0.674941 MW
+t= 3.114312 s taue = 0.04621 = ( 0.180)* 0.25742 GL, = ( 0.206)* 0.22405 ITER89-P, ( 0.170)* 0.27120 NA
+t= 3.114312 s ne-bar= 3.049E+13 cm-3, beta = 0.087% qcyl= 2.885
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    14:17:42
+     cpu time used so far =     55.17 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 14:18:27 ICT
+Finish time: จ. 22 ก.พ. 2559 14:19:06 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 465 te-axis= 1.858E+00 ti-axis= 1.431E+00 ne-axis= 4.238E+13 ni-axis= 3.761E+13 z-axis= 1.684E+00
+t= 2131.742 ms te-avg.= 1.126E+00 ti-avg.= 9.756E-01 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.333E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 6.982E-01 q-axis= 7.955E-01
+t= 2.131742 s Wtot = 0.268330 Weth = 0.147546 With = 0.120784 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 2.131742 s Petot= 0.693342 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 2.209755 Peloss= 1.251041 MW
+t= 2.131742 s Pitot= 0.264290 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.265373 Piloss= 0.001083 MW
+t= 2.131742 s Ptot = 0.957632 Pheat= 2.209755 Ploss = 1.252123 dW/dt= -0.444663 MW
+t= 2.131742 s taue = 0.04303 = ( 0.178)* 0.24176 GL, = ( 0.206)* 0.20860 ITER89-P, ( 0.174)* 0.24767 NA
+t= 2.131742 s ne-bar= 2.788E+13 cm-3, beta = 0.077% qcyl= 2.885
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    14:19:06
+     cpu time used so far =     38.79 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 14:19:24 ICT
+Finish time: จ. 22 ก.พ. 2559 14:21:31 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 3.401E+00 ti-axis= 4.092E+00 ne-axis= 4.983E+13 ni-axis= 4.476E+13 z-axis= 1.181E+00
+t= 3527.948 ms te-avg.= 1.803E+00 ti-avg.= 1.989E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.235E+00
+dt= 0.001 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 4.365E-01 q-axis= 6.940E-01
+t= 3.527948 s Wtot = 0.792135 Weth = 0.278723 With = 0.282270 Wbeam= 0.231142 Walpha= 0.000000 MJ
+t= 3.527948 s Petot= 1.472641 Peaux= 2.116617 Pealpha= 0.000000 Peohm= 1.059960 Peloss= 2.203593 MW
+t= 3.527948 s Pitot= 2.397124 Piaux= 2.732966 Pialpha= 0.000000 Piequ= -0.499657 Piloss= -0.163815 MW
+t= 3.527948 s Ptot = 3.869765 Pheat= 5.909542 Ploss = 2.039777 dW/dt= 1.006538 MW
+t= 3.527948 s taue = 0.04807 = ( 0.325)* 0.14808 GL, = ( 0.371)* 0.12972 ITER89-P, ( 0.166)* 0.28976 NA
+t= 3.527948 s ne-bar= 3.255E+13 cm-3, beta = 0.227% qcyl= 2.886
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-02-22        time    14:21:31
+     cpu time used so far =    126.92 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 14:22:00 ICT
+Finish time: จ. 22 ก.พ. 2559 14:24:08 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 1.729E+00 ti-axis= 1.473E+00 ne-axis= 4.552E+13 ni-axis= 4.528E+13 z-axis= 1.032E+00
+t= 3112.294 ms te-avg.= 1.088E+00 ti-avg.= 1.021E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.049E+00
+dt= 0.379 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 6.722E-01 q-axis= 7.286E-01
+t= 3.112294 s Wtot = 0.304228 Weth = 0.157572 With = 0.146656 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 3.112294 s Petot= 0.597540 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 1.943451 Peloss= 1.305325 MW
+t= 3.112294 s Pitot= 0.554574 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.040586 Piloss= -0.513988 MW
+t= 3.112294 s Ptot = 1.152114 Pheat= 1.943451 Ploss = 0.791338 dW/dt= -0.099284 MW
+t= 3.112294 s taue = 0.04695 = ( 0.182)* 0.25813 GL, = ( 0.209)* 0.22465 ITER89-P, ( 0.173)* 0.27116 NA
+t= 3.112294 s ne-bar= 3.048E+13 cm-3, beta = 0.087% qcyl= 2.885
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-02-22        time    14:24:08
+     cpu time used so far =    127.79 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 14:26:04 ICT
+Finish time: จ. 22 ก.พ. 2559 14:28:08 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1445 te-axis= 3.400E+00 ti-axis= 4.076E+00 ne-axis= 4.980E+13 ni-axis= 4.474E+13 z-axis= 1.181E+00
+t= 3527.316 ms te-avg.= 1.815E+00 ti-avg.= 2.001E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.237E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 1.590E+00 q-axis= 6.943E-01
+t= 3.527316 s Wtot = 0.791544 Weth = 0.278652 With = 0.281749 Wbeam= 0.231143 Walpha= 0.000000 MJ
+t= 3.527316 s Petot= 0.490351 Peaux= 2.116698 Pealpha= 0.000000 Peohm= 1.054562 Peloss= 3.155112 MW
+t= 3.527316 s Pitot= 0.918846 Piaux= 2.733055 Pialpha= 0.000000 Piequ= -0.474203 Piloss= 1.340006 MW
+t= 3.527316 s Ptot = 1.409197 Pheat= 5.904315 Ploss = 4.495118 dW/dt= 0.193170 MW
+t= 3.527316 s taue = 0.04158 = ( 0.281)* 0.14814 GL, = ( 0.321)* 0.12972 ITER89-P, ( 0.144)* 0.28866 NA
+t= 3.527316 s ne-bar= 3.243E+13 cm-3, beta = 0.227% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    14:28:08
+     cpu time used so far =    123.29 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 14:28:38 ICT
+Finish time: จ. 22 ก.พ. 2559 14:30:12 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1115 te-axis= 1.538E+00 ti-axis= 1.364E+00 ne-axis= 4.027E+13 ni-axis= 4.019E+13 z-axis= 1.012E+00
+t= 3050.400 ms te-avg.= 1.083E+00 ti-avg.= 1.015E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.016E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 7.275E-01 q-axis= 7.481E-01
+t= 3.050400 s Wtot = 0.301347 Weth = 0.155711 With = 0.145636 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 3.050400 s Petot= -0.376771 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 1.937811 Peloss= 2.280441 MW
+t= 3.050400 s Pitot= 20.939572 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.034140 Piloss= -20.905432 MW
+t= 3.050400 s Ptot = 20.562802 Pheat= 1.937811 Ploss = -18.624991 dW/dt= 20.605900 MW
+t= 3.050400 s taue = 0.05028 = ( 0.195)* 0.25849 GL, = ( 0.224)* 0.22430 ITER89-P, ( 0.191)* 0.26327 NA
+t= 3.050400 s ne-bar= 2.960E+13 cm-3, beta = 0.086% qcyl= 2.885
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    14:30:12
+     cpu time used so far =     94.90 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 14:30:30 ICT
+Finish time: จ. 22 ก.พ. 2559 14:32:36 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1475 te-axis= 3.400E+00 ti-axis= 4.075E+00 ne-axis= 4.982E+13 ni-axis= 4.476E+13 z-axis= 1.181E+00
+t= 3527.565 ms te-avg.= 1.803E+00 ti-avg.= 1.985E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.235E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 5.451E-01 q-axis= 6.942E-01
+t= 3.527565 s Wtot = 0.791523 Weth = 0.278669 With = 0.281721 Wbeam= 0.231133 Walpha= 0.000000 MJ
+t= 3.527565 s Petot= 1.485766 Peaux= 2.116419 Pealpha= 0.000000 Peohm= 1.059931 Peloss= 2.188802 MW
+t= 3.527565 s Pitot= 2.266626 Piaux= 2.732700 Pialpha= 0.000000 Piequ= -0.498217 Piloss= -0.032143 MW
+t= 3.527565 s Ptot = 3.752392 Pheat= 5.909051 Ploss = 2.156659 dW/dt= 0.842268 MW
+t= 3.527565 s taue = 0.04841 = ( 0.327)* 0.14809 GL, = ( 0.373)* 0.12972 ITER89-P, ( 0.167)* 0.28975 NA
+t= 3.527565 s ne-bar= 3.255E+13 cm-3, beta = 0.227% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    14:32:36
+     cpu time used so far =    125.54 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 14:33:16 ICT
+Finish time: จ. 22 ก.พ. 2559 14:35:20 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1450 te-axis= 3.400E+00 ti-axis= 4.076E+00 ne-axis= 4.980E+13 ni-axis= 4.474E+13 z-axis= 1.181E+00
+t= 3527.276 ms te-avg.= 1.814E+00 ti-avg.= 1.999E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.236E+00
+dt= 0.001 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 1.525E+00 q-axis= 6.943E-01
+t= 3.527276 s Wtot = 0.791527 Weth = 0.278640 With = 0.281728 Wbeam= 0.231159 Walpha= 0.000000 MJ
+t= 3.527276 s Petot= 0.493895 Peaux= 2.117101 Pealpha= 0.000000 Peohm= 1.055018 Peloss= 3.155845 MW
+t= 3.527276 s Pitot= 1.107692 Piaux= 2.733510 Pialpha= 0.000000 Piequ= -0.477621 Piloss= 1.148197 MW
+t= 3.527276 s Ptot = 1.601588 Pheat= 5.905629 Ploss = 4.304041 dW/dt= 0.366603 MW
+t= 3.527276 s taue = 0.04243 = ( 0.286)* 0.14813 GL, = ( 0.327)* 0.12971 ITER89-P, ( 0.147)* 0.28874 NA
+t= 3.527276 s ne-bar= 3.244E+13 cm-3, beta = 0.227% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    14:35:20
+     cpu time used so far =    123.89 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 14:36:26 ICT
+Finish time: จ. 22 ก.พ. 2559 14:37:54 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1040 te-axis= 1.545E+00 ti-axis= 1.374E+00 ne-axis= 4.005E+13 ni-axis= 3.997E+13 z-axis= 1.012E+00
+t= 3050.613 ms te-avg.= 1.081E+00 ti-avg.= 1.014E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.016E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 7.516E-01 q-axis= 7.482E-01
+t= 3.050613 s Wtot = 0.301330 Weth = 0.155741 With = 0.145589 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 3.050613 s Petot= -0.280892 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 1.934297 Peloss= 2.187738 MW
+t= 3.050613 s Pitot= 16.107856 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.027452 Piloss= -16.080405 MW
+t= 3.050613 s Ptot = 15.826964 Pheat= 1.934297 Ploss = -13.892667 dW/dt= 15.949581 MW
+t= 3.050613 s taue = 0.04827 = ( 0.187)* 0.25872 GL, = ( 0.215)* 0.22446 ITER89-P, ( 0.184)* 0.26275 NA
+t= 3.050613 s ne-bar= 2.954E+13 cm-3, beta = 0.086% qcyl= 2.885
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    14:37:54
+     cpu time used so far =     88.71 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 14:38:30 ICT
+Finish time: จ. 22 ก.พ. 2559 14:39:58 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1025 te-axis= 1.545E+00 ti-axis= 1.376E+00 ne-axis= 4.003E+13 ni-axis= 3.995E+13 z-axis= 1.012E+00
+t= 3050.680 ms te-avg.= 1.081E+00 ti-avg.= 1.015E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.016E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 6.751E-01 q-axis= 7.481E-01
+t= 3.050680 s Wtot = 0.301558 Weth = 0.155761 With = 0.145797 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 3.050680 s Petot= -0.353900 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 1.934411 Peloss= 2.265438 MW
+t= 3.050680 s Pitot= 20.534065 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.022874 Piloss= -20.511191 MW
+t= 3.050680 s Ptot = 20.180164 Pheat= 1.934411 Ploss = -18.245753 dW/dt= 20.093787 MW
+t= 3.050680 s taue = 0.04879 = ( 0.189)* 0.25871 GL, = ( 0.217)* 0.22446 ITER89-P, ( 0.186)* 0.26278 NA
+t= 3.050680 s ne-bar= 2.954E+13 cm-3, beta = 0.086% qcyl= 2.885
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    14:39:58
+     cpu time used so far =     87.36 secs
+====================================================================================
+62270n01
+Start time: จ. 22 ก.พ. 2559 14:40:27 ICT
+Finish time: จ. 22 ก.พ. 2559 14:42:32 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270n01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1465 te-axis= 3.400E+00 ti-axis= 4.078E+00 ne-axis= 4.981E+13 ni-axis= 4.475E+13 z-axis= 1.181E+00
+t= 3527.383 ms te-avg.= 1.812E+00 ti-avg.= 1.997E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.236E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 1.029E+00 q-axis= 6.942E-01
+t= 3.527383 s Wtot = 0.791610 Weth = 0.278661 With = 0.281823 Wbeam= 0.231126 Walpha= 0.000000 MJ
+t= 3.527383 s Petot= 0.349420 Peaux= 2.116251 Pealpha= 0.000000 Peohm= 1.056073 Peloss= 3.305242 MW
+t= 3.527383 s Pitot= 12.796931 Piaux= 2.732473 Pialpha= 0.000000 Piequ= -0.482338 Piloss= -10.546796 MW
+t= 3.527383 s Ptot = 13.146351 Pheat= 5.904797 Ploss = -7.241554 dW/dt= 12.063010 MW
+t= 3.527383 s taue = 0.19409 = ( 1.310)* 0.14814 GL, = ( 1.496)* 0.12973 ITER89-P, ( 0.672)* 0.28894 NA
+t= 3.527383 s ne-bar= 3.246E+13 cm-3, beta = 0.227% qcyl= 2.886
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    14:42:32
+     cpu time used so far =    125.15 secs
+====================================================================================
+62270a01
+Start time: จ. 22 ก.พ. 2559 14:43:58 ICT
+Finish time: จ. 22 ก.พ. 2559 14:44:23 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270a01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 300 te-axis= 1.693E+00 ti-axis= 1.361E+00 ne-axis= 4.259E+13 ni-axis= 3.901E+13 z-axis= 1.510E+00
+t= 2175.048 ms te-avg.= 1.215E+00 ti-avg.= 1.041E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.304E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 5.806E-01 q-axis= 8.040E-01
+t= 2.175048 s Wtot = 0.282619 Weth = 0.155834 With = 0.126785 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 2.175048 s Petot= 0.244349 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 1.909154 Peloss= 1.249817 MW
+t= 2.175048 s Pitot= 0.414433 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.414988 Piloss= 0.000555 MW
+t= 2.175048 s Ptot = 0.658782 Pheat= 1.909154 Ploss = 1.250371 dW/dt= 0.148562 MW
+t= 2.175048 s taue = 0.18117 = ( 0.697)* 0.26009 GL, = ( 0.807)* 0.22450 ITER89-P, ( 0.729)* 0.24863 NA
+t= 2.175048 s ne-bar= 2.799E+13 cm-3, beta = 0.081% qcyl= 2.885
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    14:44:23
+     cpu time used so far =     25.23 secs
+====================================================================================
+62270a01
+Start time: จ. 22 ก.พ. 2559 14:45:45 ICT
+Finish time: จ. 22 ก.พ. 2559 14:47:52 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270a01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 1.931E+00 ti-axis= 1.704E+00 ne-axis= 4.860E+13 ni-axis= 4.857E+13 z-axis= 1.004E+00
+t= 2995.715 ms te-avg.= 1.176E+00 ti-avg.= 1.110E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.003E+00
+dt= 0.189 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 5.557E-01 q-axis= 6.214E-01
+t= 2.995715 s Wtot = 0.309291 Weth = 0.159133 With = 0.150158 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 2.995715 s Petot= 0.245049 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 1.716011 Peloss= 1.274186 MW
+t= 2.995715 s Pitot= 0.527463 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.196776 Piloss= -0.330687 MW
+t= 2.995715 s Ptot = 0.772511 Pheat= 1.716011 Ploss = 0.943499 dW/dt= 0.316165 MW
+t= 2.995715 s taue = 0.24097 = ( 0.878)* 0.27442 GL, = ( 1.011)* 0.23843 ITER89-P, ( 0.906)* 0.26590 NA
+t= 2.995715 s ne-bar= 2.992E+13 cm-3, beta = 0.089% qcyl= 2.886
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-02-22        time    14:47:52
+     cpu time used so far =    127.16 secs
+====================================================================================
+62270a01
+Start time: จ. 22 ก.พ. 2559 14:49:48 ICT
+Finish time: จ. 22 ก.พ. 2559 14:50:05 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270a01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 205 te-axis= 1.940E+00 ti-axis= 1.730E+00 ne-axis= 4.760E+13 ni-axis= 4.744E+13 z-axis= 1.020E+00
+t= 2668.299 ms te-avg.= 1.195E+00 ti-avg.= 1.118E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.013E+00
+dt= 0.000 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 1.433E+00 q-axis= 6.523E-01
+t= 2.668299 s Wtot = 0.304933 Weth = 0.157730 With = 0.147202 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 2.668299 s Petot= 0.255719 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 1.695689 Peloss= 1.226223 MW
+t= 2.668299 s Pitot= 0.213474 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.213747 Piloss= 0.000273 MW
+t= 2.668299 s Ptot = 0.469192 Pheat= 1.695689 Ploss = 1.226496 dW/dt= -0.064652 MW
+t= 2.668299 s taue = 0.19996 = ( 0.725)* 0.27599 GL, = ( 0.836)* 0.23928 ITER89-P, ( 0.769)* 0.25990 NA
+t= 2.668299 s ne-bar= 2.925E+13 cm-3, beta = 0.087% qcyl= 2.885
+      4.2 abnormal exit                            
+ 
+ 
+     date    2016-02-22        time    14:50:05
+     cpu time used so far =     17.02 secs
+====================================================================================
+62270a01
+Start time: จ. 22 ก.พ. 2559 14:50:56 ICT
+Finish time: จ. 22 ก.พ. 2559 14:53:04 ICT
+XBALDUR v. 21.01 1Aug02 12:00
+------------
+F  0  0  0
+ 62270a01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+time-step= 1500 te-axis= 1.931E+00 ti-axis= 1.704E+00 ne-axis= 4.860E+13 ni-axis= 4.857E+13 z-axis= 1.004E+00
+t= 2995.715 ms te-avg.= 1.176E+00 ti-avg.= 1.110E+00 ne-avg.= 0.000E+00 ni-avg.= 0.000E+00 z-avg.= 1.003E+00
+dt= 0.189 ms a= 0.788 R= 2.449 elong= 1.003 delta= 0.001 B= 4.767 I= 1.777 vloop= 5.557E-01 q-axis= 6.214E-01
+t= 2.995715 s Wtot = 0.309291 Weth = 0.159133 With = 0.150158 Wbeam= 0.000000 Walpha= 0.000000 MJ
+t= 2.995715 s Petot= 0.245049 Peaux= 0.000000 Pealpha= 0.000000 Peohm= 1.716011 Peloss= 1.274186 MW
+t= 2.995715 s Pitot= 0.527463 Piaux= 0.000000 Pialpha= 0.000000 Piequ= 0.196776 Piloss= -0.330687 MW
+t= 2.995715 s Ptot = 0.772511 Pheat= 1.716011 Ploss = 0.943499 dW/dt= 0.316165 MW
+t= 2.995715 s taue = 0.24097 = ( 0.878)* 0.27442 GL, = ( 1.011)* 0.23843 ITER89-P, ( 0.906)* 0.26590 NA
+t= 2.995715 s ne-bar= 2.992E+13 cm-3, beta = 0.089% qcyl= 2.886
+      4.2 terminate the run                        
+ 
+ 
+     date    2016-02-22        time    14:53:04
+     cpu time used so far =    127.48 secs
+====================================================================================

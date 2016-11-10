@@ -1,0 +1,455 @@
+F  0  0  0
+ 62270a01 Wisitsorasak 07 Dec 2015 TFTR #62270_8
+ Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ Weiland TEM/ITG / Guzdar-Drake RB / 1995 KB model
+ Carbon Zeff=2.1, t = 4.025 secs
+ &nurun1
+ !
+ nrun = 1501,
+ leqtyp = 11,        ! Hirshman equilibrium package
+ !
+ reread = 3.51,        ! time [sec] to reread namelist
+ !
+ limprd(32) = 2,       ! cmean, c2mean, and zeff computed outside plasma
+ lsmord = 0,           ! smoothing
+ theta  = 4.0,         ! implicitness parameter
+ thetap = 0.0,         ! implicitness of predictor corrector scheme
+ nlextr = .F,          ! turn off extrapolation method
+ !
+ nlomt2(13)=.T,        ! skip sbrtn cmpres
+ nsedit = 5,           ! short printout frequency
+ nplot=100000,         ! control plot frequency with splot below
+ !
+ errmax=.20, delmax=.20, ! maximum change per time step in any zone
+ ntrans=2,           ! include neoclassical (use chii and ware only, below)
+ nbound=0,           ! Force the boundary conditions (?)
+ !
+ lneocl(1) = 1,  ! use sbrtn NCLASS to compute neoclassical transport
+ lneocl(2) = 0,  ! complex interface
+ lneocl(3) = 2,  ! trapped particle fraction = sqrt(1-|B_min/B_max|)
+ lneocl(4) = 0,  ! no diagnostic printout from NCLASS
+ !
+ cfutz(1)=8*0.,      ! no pseudoclassical or bohm contributions
+ cfutz(9)=1.0, 0.0,  ! simplified neoclassical particle diffusion
+ cfutz(11)=2*1.00,   ! simplified neoclassical thermal diffusion
+ cfutz(19)=1.,       ! ware pinch multiplier
+ cfutz(21)=1.0e3,     ! constant additive hydrogen diffusion
+ cfutz(22)=1.0e3,     ! constant additive impurity diffusion
+ cfutz(23)=1.0e3,    ! chi-e -> + c23
+ cfutz(24)=1.0e3,    ! chi-i -> + c24
+ cfutz(29)=0.e4,2.,  ! chi-e -> + c29 * (r/rscr)**c30
+ cfutz(35)=1.e-6,-6.,    ! d hh -> + c35 * (r/rscr)**c36
+ cfutz(37)=0.e16,cfutz(42)=0.e16,! d hh -> + c37/ne
+ cfutz(38)=0.e-1,4.,  ! d ii -> + c38 * (r/rscr)**c39  (in cgs units)
+ cfutz(43) = 5.0e5,5.0e5, ! max value of d and chi
+ cfutz(51) = 5.0e5,    ! soft bohm limit
+ cfutz(57)=0.e17,0.e17,! edge enhancement
+ cfutz(70)=1.0,  ! turn on He recycling
+ cfutz(71)=0.95,  ! He recycling fraction
+ cfutz(74)=0.12,  ! electron energy lost per He ionization
+ cfutz(76)=0.04,  ! He launch energy
+
+ cfutz(81)=4.,            ! flow bias parameter
+ cfutz(100) = 1.0,
+ !
+ cfutz(110)=1.,1.0,1.0,1.0, ! use Hawryluk-Hirshman impurity transport
+ natomc = 2,           ! non-equilibrium impurity radiation model
+ !
+ ! Scrape-off Layer (SOL) !!!!!!!!!!!!!!!!ADD!!!!!!!!!!!!!!!!!!!!!!
+ !
+ ! Diffusivity wihin SOL
+ ! cfutz(83) = 0.0,      ! a prescribed fixed value for particle diffusion coefficients
+ ! cfutz(53) = 1234567,       ! the fixed value of the hydrogen-ion diffusion coefficients (cm**2/sec) in the scrapeoff layers
+ ! cfutz(54) = 1234567,       ! the fixed value of the impurity-ion diffusion coefficients (cm**2/sec) in the scrapeoff layers
+ cfutz(55) = 5000,       ! the fixed value of the electron thermal conductivity (cm**2/sec) in the scrapeoff layers
+ cfutz(56) = 0.94,          ! the starting point for the increase stated as a fraction multiplying the innermost radius of the scrapeoff layers
+ !
+ cfutz(120) = 48,       ! innermost radial index of innermost scrape-off or innermost separatrix
+ ! cfutz(121) = 52,       ! innermost radial index of second scrape-off or innermost separatrix
+ cfutz(123) = 0,        ! switch for activating charge-exchange friction in SOL; 0=off, 1=on CAUTIONS: TEST 0 du
+ cfutz(124) = 1.0,      ! factor adjusting the scrape-off loss rate for hydrogenic ion; defaulted 1.0
+ cfutz(125) = 1.0,      ! factor adjusting the scrape-off loss rate for impurity ion; defaulted 1.0 
+ cfutz(127) = 1884.95,  ! average path-length(cm) parallel to b in an innermost scrape-off layer
+ ! cfutz(128) = 1884.95,  ! average path-length(cm) parallel to b in an innermost 2nd scrape-off layer
+ cfutz(129) = 1e11,         ! minimum ne (cm^-3) in SOL is forced by the code
+ cfutz(130) = 1,            ! minimum Te (eV) in SOL
+ cfutz(131) = 1,            ! minimum Ti (eV) in SOL
+ cfutz(140) = 0,            ! To control effects of toroida field ripple on ion thermal conductivity
+ cfutz(141) = 0,            ! toroidal periodicity of fixed component of ripp
+ !
+ cfutz(200) = 1.0,    ! impurities influxed as neutrals
+ cfutz(201) = 2*0.8,  ! KE of neutral impurities (kev)
+ cfutz(203) = 0.18,   ! energy loss per impurity ionized (keV)
+ cfutz(207) = 2*1.0,  ! outermost zone in from edge allowing ionization
+ cfutz(209) = 2*0.90, ! max penetration for neutral impurities
+ cfutz(281)=1.2, ! for 1x chang-hinton neoclassical model, set = cfutz(410)
+ cfutz(295)=1.0, ! add to shear to avoid singularity
+ cfutz(410)=1.00,! set =extzef/<zeff> to correct couloumb interchange
+ !
+ ! replace coronal radiation model with
+ !
+ cfutz(327) = 0.20,  ! radiated power / heating power
+ cfutz(328) = 0.00,  ! f(r=0.,
+ cfutz(329) = 0.90,  ! xzoni(jz) break to zero at edge
+ !
+ cfutz(383) = 0.0,
+ cfutz(410)=1.0, ! set =extzef/<zeff> to correct couloumb interchange
+ cfutz(450) = 1.0,
+ cfutz(451) = 0.0, 
+ cfutz(452) = 1.0,
+ cfutz(460)=992.01, 993.50, 0.0715,  ! sawtooth time on, off, period [sec]
+                   ! changes to 0.2 sec period during NBI (see below)
+ cfutz(480) = 1.,  ! Bootstrap current used
+ cfutz(481) = 1.,  ! Analytic computation of trapped particle fraction
+ !
+ xfutz(2)=1.732,   ! maximum time step increase
+ xfutz(6)=.5,      ! timestep control
+ !
+ ! printout (.F=print, .T=omit) :
+ nlpomt(1)=  .F,.F,.F,.F,.F,  ! Te, Ti..., n_a, energy, global, diff coefs
+ nlpomt(6)=  .F,.T,.T,.T,.F,  ! zoning, ripple, f_b(E,mu), void, magnetics
+ nlpomt(11)= .F,.F,.F,.F,.F,  ! gas/plasma, source; beam levels, source, summ
+ nlpomt(16)= .F,.F,.F,.F,.T,  ! beam curr, H(r), tot H(r), alphas, void
+ nlpomt(21)= .T,.F,.T,.T,.T,  ! noncoronal, theory, void, void, void
+ !
+ extzef=1.0,        ! z effective
+ extf  =1.0,        ! ne/ni dilution factor
+ !
+ grecyc=0.0, ngprof=20,ngpart=200, ! recycling off wall
+ !
+ ! Multi Mode Model in sbrtn THEORY version 5.10 as of 17 July 1990
+ !
+ lthery(3)  = 4, ! use thermal ion density scale length throughout
+ lthery(4)  = 1, ! use neoclassical resistivity in sbrtn THEORY
+ lthery(5)  = 2, ! skip dissipative trapped electron mode
+ lthery(6)  = 1, ! min[1.0,0.1/\nu_e^*] transition to collisionless TEM
+ lthery(7)  = 27, ! Matrix form of Weiland model etawn6 inclu parallel ion
+ lthery(8)  = 21, ! use effective diffusivities
+ lthery(9)  = 2, ! Linear ramp form for f_ith
+ lthery(13) = 3, ! Guzdar-Drake resistive ballooning model (1994)
+ lthery(14) = 1, ! Single iteration for lambda in RB mode
+ lthery(15) = 0, ! Neoclassical MHD Model w/ Callen
+ lthery(16) = 0, ! Circulating electron mode
+ lthery(17) = 1, ! 1995 kinetic ballooning model
+ lthery(21) = 10, ! MMM95
+ lthery(22) = 0,  ! not a supershot
+ lthery(24) = 1,  ! set zni = znh + znz
+ lthery(25) = 0, !  No Rebut-Lallia-Watkins model
+ lthery(26) = 257, ! timestep for diagnostic printout from etaw12
+ lthery(27) = 1, ! replace negative diffusivity with convective velocity
+ lthery(29) = 5, ! for more diagnositc output
+ lthery(30) = 1, ! retain sign of gradient scale lengths
+ lthery(31) = 1, ! Monotonic gradient scale lengths at axis
+ lthery(32) =-2, ! Smoothing inverse scale lengths over 2 pts
+ lthery(33) = 0, ! Output unsmoothed gradient scale lengths
+ lthery(34) = 0,  ! use sbrtn weiland14 for Weiland model
+ lthery(35) = 0,  ! use Guzdar-Drake resistive balloong mode
+ lthery(36) = 0,  ! use old kinetic ballooning mode
+ lthery(37) = 0,  ! use Hahm-Burrel ExB shearing rate
+ lthery(38) = 0,  ! do not use any ETG model
+ lthery(39) = 0,  ! use zxithe, zvithe ... rather than difthi/velthi
+ lthery(40) = 0,  ! turn off electromagnetic effects in Weiland model
+ lthery(41) = 0,  ! do not multiply zchieff(1) by znh/zni
+ lthery(42) = 0,  ! do not limit magnitude of all normalized gradients
+ lthery(44) = 1,  ! use abs(pressure gradient) in resistive ballooning mode
+ lthery(45) = 1,  ! set impurity transport = partical transport
+ lthery(47) = 1,  ! if 1, call bdlhmode() 
+ lthery(48) = 8,  ! lthery(48) = 0,1 use experimental w_ExB
+                  ! lthery(48) = 2, use calculated w_ExB from Vtor
+                  ! lthery(48) = 3, use calculated w_ExB from Vtor = c*Ti
+                  ! lthery(48) = 4, use calculated w_ExB from Vtor = c*(1-(r/a)^2)
+                  ! lthery(48) = 5, use current density
+                  ! lthery(48) = 8, use NTV with printout
+ !
+ !  misc. parameters for sub. theory
+ !
+ cthery(1) = 0.0,      ! Divertor shear off
+ cthery(3)  = 0.5,     ! minimum value of magnetic shear
+ cthery(8)  = 3.5,     ! for fbeta-th in kinetic ballooning
+ cthery(11) = 1.0,     ! eta-i theshold
+ cthery(12) =-4.0,-4.0,-4.0,-4.0, ! k-scaling
+ cthery(17) = 0.,      ! turn off convective correction in sbrtn THEORY
+ cthery(22) = 0.0,     ! Not Ti/Te factors in ITG or RB modes
+ cthery(34) = 0.0,     ! Not Ti/Te factors in ITG or RB modes
+ cthery(38) = 0.0,     ! default setting for k_y / rho_s = 0.316
+ cthery(50) = 5*100.0,  ! limit L_n ... to cthery(50) times the major radius
+ cthery(60) = 0.0      ! no smoothing
+ cthery(85) = 2.0,     ! prescribe dia stabil in Guzdar-Drake RB
+ cthery(86) = 0.150,    ! dia stabil in Guzdar-Drake RB
+ cthery(88) = 0.0,     ! time for diagnostic printout from sbrtn theory
+ cthery(111) = 0.0,    ! difthi -> velthi for chi_i
+ cthery(112) = 0.0,    ! difthi -> velthi for hydrogen
+ cthery(113) = 0.0,    ! difthi -> velthi for chi_e
+ cthery(114) = 0.0,    ! difthi -> velthi for impurity
+ cthery(119) = 1.0,    ! coefficient of finite beta
+ cthery(121) = 1.0,    ! set fast particle fraction for use in etawn8
+ cthery(123) = 1.0,    ! coeff of k_\parallel in etaw12
+ cthery(124) = 0.0,    ! coeff of nuhat in etaw12
+ cthery(125) = 0.0,    ! v_parallel in strong balloon limit (cetain(12))
+ cthery(126) = 0.0,    ! default, use trapping fraction
+ cthery(129) = 0.0,    ! multiplier for wexbs
+ cthery(130) = 0.0,    ! multiplier to impurity heat flux
+ cthery(131) = 0.0,    ! controls finite diff to construct the zgm matrix
+ cthery(135) = 1.0,    ! exponent of Hamaguchi-Horton parameter in MMM99
+ cthery(136) = 1.0,    ! coefficient of Hamaguchi-Horton parameter in MMM99
+ cthery(139) = 1,
+
+ !
+ !  contributions to fluxes and interchange(for sub. theory)
+ !
+ !particles  elec-energy ion-energy imp-particles
+ fdr=0.00,    0.00,    0.00,    0.00,
+ fig=0.80,    0.80,    0.80,    0.80,
+ fkb=1.00,    0.65,    0.65,    1.00,
+ frb=1.00,    1.00,    1.00,    1.00,
+ fmh=0.00,    0.00,    0.00,    0.00,
+ fec=0.00,    0.00,    0.00,    0.00,
+ fdrint=0.00,
+ !
+ /
+ &nurun2
+ !
+ rastar = 1.,       ! normalization for empirical model above
+ !
+ nedit=00, nskip=1, ! major printout
+ splot=0.10,        ! plot every 0.20 sec
+ !
+ ! tplot = 3.400,3.415,3.430,3.445,3.460,3.475,3.490,
+ !         3.510,3.525,3.540,3.555,3.570,3.585,
+ !         3.600,3.615,3.630,3.645,3.660,
+ !
+ sedit=0.2,        ! long printout every 0.2 sec
+ tedit(1) = 3.50, 3.90,3.93,3.95,3.97,3.99,4.01,4.03,
+ !             4.04,4.06,4.08,4.15,4.22,4.25,   ! long printout
+ !tedit(1) = 3.50, 3.90, ! long printout
+ !
+ ntty = 2,          ! frequency of output to terminal
+ !
+ tinit = 2.0,       ! initial time (consistent with ti0 and hton)
+ ! tmax  = 5.025,     ! final time (for comparison with SNAP output)
+ tmax  = 4.80,     ! final time (for comparison with SNAP output)
+ dtinit=.0001,      ! initial timestep
+ dtmax=.0075,       ! timestep control (0.05 sawtooth period)
+ !
+ nzones = 50,       ! number of radial zones
+ !
+ eioniz=.030,       ! energy loss for each hydrogen ioniztion (1804)
+ !
+ cpvelc=0.0,cpvion=0.0, ! energy per particle carried by convection
+ !
+ ! WARNING: The Singer THEORY model accounts for energy carried
+ !          by convection in its own way.  Keep cpvelc and cpvion small.
+ !
+ rmajor = 244.9,    ! variables used to initialize the 1-D BALDUR
+ rminor = 78.75,
+ curent = 1777.,    ! current in kA
+ bz     = 47670.,   ! toroidal field in Gauss
+ !
+ ! initial gas fill:
+ !
+ ngas(1) = 1, denga0(1) = 1.85e12, denga1(1) = 0.300e12, ! Hydrogen
+ ngas(2) =-2, denga0(2) = 2.47e13, denga1(2) = 0.399e13, ! Deuterium
+ nimp(1) = 6, denim0(1) = 1.25e12, denim1(1) = 2.01e11,  ! Carbon impurity
+ ehfit = 1.0,1.0, eehfit=2.0,2.0,  ! n_D  = n_D0  (1-(r/a)**2.00)**ehfit
+ eifit = 1.0, eeifit=2.0,          ! n_C = n_C0 (1-(r/a)**2.00)**eifit
+ !
+ ti0=1.0,ti1=0.025,etifit=1.0, ! initial ti(r) parabola**etifit
+ te0=1.0,te1=0.025,etefit=1.0, ! initial te(r) parabola**etefit
+ !
+ ! time dependent boundary conditions
+ !
+ bdtime =      1.0,     2.00,    2.50,    3.00,   3.50,    3.70,   4.03,    4.15,   99.0, ! brk times
+ bdhyde(1,1) = 9*1.00e11,  ! edge H
+ bdhyde(1,2) = 2.00e11, 2.00e11, 1.00e11, 3.0e11, 3.00e11, 1.0e11, 1.0e11,  1.0e11, 1.0e11, ! edge D
+ bdimpe(1,1) = 9*1.00e11,  ! edge C
+ bdtee  =  9*0.001,   ! edge Te
+ bdtie  =  9*0.001,   ! edge Ti
+ !
+ npuff=1,       ! gas puffing parameters, monitor line average density
+ tcoldp=.80,   ! energy of gas puffed neutrals [keV]
+ gflmax = 20*5.0e17,
+ gftime=1.0, 3.0, 3.50, 3.70, 4.025, 4.15, 99.0,
+ ! denmon=1.,3.0e13, 3.25e13, 3.35e13, 3.50e13, 2*3.65e13, ! Line-avg ne
+ denmon=1.,3.0e13, 3.25e13, 3.35e13, 3*3.65e13, ! Line-avg ne
+ gfract = 20*0.07,  ! H recycling fraction
+ ! d0nmon = 5*3.5e13,
+ ! gainv = 10.,
+ !
+ timp = 3.00, 3.95, 4.23, 4.51, 5.00, ! breakpoint times for impurity influx
+ flimp(1,1) = 0.0,    ! impurity influx (cm^2/sec)
+ flimp(1,2) = 0.5e15,  ! ton = 3.50 secs
+ flimp(1,3) = 0.e14,  ! tau-se = 0.50 secs
+ flimp(1,4) = 0.e13,  ! tau-E = 0.28 secs
+ flimp(1,5) = 0.e13,  ! 
+ !
+ tcold=.80, flgas=0.0,0.0, ! recycling temp and influx rate (1808)
+ !
+ ! Neutral beam injection data for TFTR since summer of 1987.
+ ! Data from Ken Wright and Larry Grisham at PPPL 22 Aug 1989
+ ! There are actually 12 sources arranged into 4 beamlines on TFTR
+ ! Here, pairs of sources with the same injection angle have been
+ ! grouped together.
+ ! Hence, this data set has three co- and three counter-injection sources.
+ ! The sources are (1) 1A  (2) 1B  (3) 1C  (4) 5C  (5) 5B  (6) 5A
+ ! Sources 2A, 2B, and 2C have the same injection angles as 1A, 1B, 1C
+ ! Sources 3A, 3B, and 3C were lumped together with 5A, 5B, and 5C
+ ! The actual injection angles (3A) -35.31, (3B) -31.79, (3C) -28.22
+ ! for beamline 3 were not used
+ !
+ hton(1)  = 6*3.25,              ! beam times on (from P.F.B4, p. 638)
+ htoff(1) = 6*4.50,             ! beam times off
+        ! Neutral beam geometry
+        ! angle at R = 438.,cm, tangency radius, source number
+ hangle(3,1) =  23.41,          ! Rtang = 174.0,cm  1A
+ hangle(3,2) =  26.99,          ! Rtang = 198.8,    1B
+ hangle(3,3) =  30.55,          ! Rtang = 222.6,    1C
+ hangle(3,4) = -23.41,          ! Rtang = 174.0,    5C
+ hangle(3,5) = -26.99,          ! Rtang = 198.8,    5B
+ hangle(3,6) = -30.55,          ! Rtang = 222.6,    5A
+ hrmaj(1)    = 6*250.,          ! to pivot point at R = 438.,cm
+ hrmin(1)    = 6*188.,          ! at midplane
+ haper(1)    = 6*40.,           ! aperture width at pivot point [cm]
+ haperv(1)   = 6*79.,           ! aperture height at pivot point [cm]
+ hdiv(1)     = 6*0.3,           ! horizontal divergence 0.3
+ hdivv(1)    = 6*0.7,           ! vertical   divergence 0.7
+ hwidth(1)   = 6*12.,           ! width  of injector face [cm]
+ height(1)   = 6*43.,           ! height of injector face [cm]
+ hfocl(1)    = 6*1.e10,         ! horizontal focal length [cm]
+ hfoclv(1)   = 6*1.e10,         ! vertical   focal length [cm]
+ hlenth(1)   = 6*875.,          ! length from injector face to pivot [cm]
+ nhaper(1)   = 6*2,             ! rectangular ports
+ nhshap(1)   = 6*2,             ! rectangular injector face
+       ! beam particle characteristics
+ hebeam(1)   = 6*99.7,          ! full energy in keV
+ hfract(1,1) =   0.456, 0.285, 0.259,
+                 0.456, 0.285, 0.259,
+                 0.456, 0.285, 0.259,
+                 0.456, 0.285, 0.259,
+                 0.456, 0.285, 0.259,
+                 0.456, 0.285, 0.259,
+                                ! full, half, third energy fraction
+ hpowmw(1)   = 6*1.17,         ! 7.452 MW total - .43 (orb loss)
+                                ! beam power in MW from each source
+ hibeam(1)   = 6*0.0,           ! current (not used if beam power given)
+ nhbeam(1)   = 6*-2,            ! deuterium beam species
+       ! effect of beam
+ cjbeam      = 1.,              ! beam driven current
+ hfutz(1)    = 0.25,            ! charge exchange mult to account for
+                                ! lack of multiple cx in BALDUR
+ hnchek      = 0.1,             ! max frac chnge in ne befor recomp beam
+ htchek      = 0.3,             ! max frac chnge in te befor recomp beam
+ nipart      = 20000,           ! number of Monte Carlo particles used
+ niprof      = 20,              ! max number of steps between beam comp
+ !
+ /
+ tftlds1a Redd 09Sep96 TFTR #62270_8
+ 1 1/2 D BALDUR plasma.physics v960829
+ &inpt
+ lsweq(1)=3,    ! verbose output, long form of output to terminal
+ lsweq(4)=0,    ! complete ballooning mode comp every 0th equilibrium
+ lsweq(5)=0,    ! output to file 'stabil' with each equilib comp
+ lsweq(6)=3,    ! number of initial equilibrium iterations
+ lsweq(7)=1,    ! initialize with uniform loop voltage
+ lsweq(8)=0,    ! number of baldur zone bndries with q=qmin
+ lsweq(10)=0,   ! start with bpoli(j) as set by the 1-D BALDUR code
+ lsweq(11) = 1, ! start with analytic equilibrium
+ qmin = .01,    ! minimum initial q value
+ mombnd=2,      ! number of moments specified for equilibrium boundary
+ mom=3,         ! number of moments computed in equilibrium interior
+ ntbkmx = 5,   ! number of breakpoint times
+ tbk(1) = 1.00, 3.50, 3.70, 4.025, 99.0,    ! breakpoint times
+ neqdt(1)  = 5*5,       ! number of equilibria computed in each interval
+ rmajbt(1) = 5*2.449,   ! R  m
+ rminbt(1) = 5*0.7875,   ! Minor radius 0.80 - 0.05/4.767 - const
+ elngbt(1) = 5*1.0,     ! elong  = 1.000,
+ trngbt(1) = 5*0.0,     ! triang = 0.000,
+ btort(1)  = 5*4.767,   ! B(T) @ rtort
+ rtort(1)  = 5*2.449, ! major radius in meters where btort is given
+ curmat(1) = 5*1.777,   !  plasma current (megamps)
+ !
+ shift = 0.0800,         ! initial shift Raxis - Rmid
+ mflxs = 21,             ! number of equilibrium flux surfaces
+ lsawth(1)=1,  ! new sawtooth reconnection model
+ lsawth(2)=1,  ! printout some profiles from sbrtn sawmix
+ lsawth(3)=10, ! long output every 10 rd call to sbrtn sawmix
+ lsawth(5)=1,  ! plot out just before and after sawtooth crash
+ lsawth(6)=1,  ! flattop model for chi after each sawtooth crash
+ lsawth(7)=1,  ! smoothing at edge of mixing region
+ !  lsawth(10)=2, !  Don't use Park-Monticello model for sawtooth period
+ csawth(1)=0.9,! only 10% magnetic reconnection
+ csawth(5)=0., ! fraction of pol. mag. energy to electrons
+ /
+ &nmread
+ ! reread namelist
+ reread = 3.75,
+ dtmax = 0.002,
+ lsawth(5)=1,  ! plot out just before and after sawtooth crash
+ cfutz(460)=3.635, 4.1, 0.147,  ! 1st small sawtooth during NBI
+ !
+ lsawth(3) = 1,    ! printout every long sawtooth crash
+ /
+ &nmread
+ splot = 0.10,
+ dtmax = 0.001,
+ cfutz(460)=3.935, 4.5, 0.300,  ! Sawtooth time during NBI
+ reread = 4.30,
+ /
+ &nmread
+ !
+ splot = 0.10,
+ dtmax = 0.001,
+ /
+ !
+ ! sawteeth times: 3.64, 3.94
+ !
+ ! ldp4f = 1st attempt using tfthd4f as a template
+ ! 5a = 4f but w/ Weiland TEM/ITG model and Guzdar-Drake RB
+ ! 5b: like 5a, but adjustments to the boundary conditions
+ !	at time t = 4.025 sec:
+ !		n_H = 0.753e12
+ !		n_D = 1.0e13
+ !		n_C = 5.06e11
+ !	also fixed boundary temperature problem, and
+ !	adjusted denmon so that is higher sooner in the run
+ ! 5c: like 5b, but with denmon adjusted so that it is LOWER
+ !	at the END of the run...
+ ! 5d: Run as comparison to 5c; using Carreras-Diamond RB
+ ! 5e: Comparison to 5c; run using Itoh-Itoh ONLY
+ ! 5f: Comparison to 5c; run using Weiland + Itoh-Itoh
+ ! 5g: Comparison to 5c; run using Dominguez-Waltz + GD RB
+ ! 6a = 5g w/ Weiland + Guzdar-Drake, c_86=0.20
+ !
+ ! 7a: based on 6a; run with BALDUR-95
+ ! 7b: As 7a, with Dominguez-Waltz drift model
+ ! 7c: As 7a, with leqtyp=8
+ ! 7d: As 7c, with Dominguez-Waltz drift model
+ ! 7e: As 7c, with denmon=3.65e13 at diagnostic time
+ !
+ ! ldk8a = ldp7a run with BALD960220
+ !
+ ! lds1a = ldk8a; baseline run for sensitivity scan
+ !
+ ! 1_:  Sawtooth phasing, program knobs (i.e., nzones)
+ ! 2_:  Edge temperatures (Te, Ti)
+ ! 3_:  Edge density (ne, Zeff)
+ ! 4_:  nebar (denmon)
+ ! 5_:  Edge neutral energy and %recycled
+ ! 6_:  Total radiated power, radiation model
+ ! 7_:  Magnetic field strength
+ ! 8_:  Elongation and elongation scaling
+ ! 9_:  Initial conditions
+ !
+ ! 62270a01 Onjun 22 June 1999 TFTR #62270_8
+ ! Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ ! MMM95
+ !
+ ! 62270a02 Onjun 23 June 1999 TFTR #62270_8
+ ! Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ ! Mixed B/gB
+ !
+ ! 62270b01 Onjun 1/23/00 TFTR #62270_8
+ ! Low Density 5.00 x 10^19 7.452 MW NBI  New Sensitivity Scan
+ ! MMM95 with xbaldur000103
+ ! correct jobxdat
+ !
+/
