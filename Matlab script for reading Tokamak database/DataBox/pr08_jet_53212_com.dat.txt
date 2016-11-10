@@ -1,0 +1,79 @@
+ jet_53212_com.dat = comments file for ITPA WDB Profile Database submission
+
+ Tokamak: JET
+
+ Pulse number: 53212
+
+ Shot description,purpose of the shot: 
+   ELMy with high field side pellet fueling for high density
+
+ Contact persons: Robert Budny, (budny@princeton.edu)  Jef Ongena, Xavier Garbet
+
+ Institution:  EFDA-JET
+
+ Date of shot: 20010122
+
+ Time of interest = 20.8s (60.8s in JET PPF time) for steady state
+
+ Analysis codes: TRANSP and EFIT (for plasma boundary)
+
+ Run number: 53212C01 at PPPL, available from mdsplus
+
+ Date of analysis: 20051103 TRANSP run by Robert Budny
+   Resubmission corecting NM4
+
+ Assumptions made for analysis:
+
+  Ti, toroidal rotation velocity, and Zeff profiles from CX measurements.
+  Both the core (CXSM) and edge (CXSE) measurements were combined.
+  Te and Ne profiles vs. radius from LIDAR measurements.
+  The radiation emission profile was assumed to be flat.
+  Particle confinement time is calculated from source rates.
+  q profile calculated in TRANSP from poloidal field diffusion.
+
+ Additional information:
+
+  Pulse #53212 had multiple pellets launched from the high field side.
+
+  The Ti, rotation, and Zeff profiles were measured from 16 to 25.4s.
+  between R=3.05 and 3.80m.
+
+  The direction of the toroidal field and plasma current were in the
+  normal JET direction - clockwise viewed from above.
+  The NBI voltages were 138 keV for 7 beams and 80keV for 8.
+
+  All beam related quantities (energy, particle sources, currents etc) 
+  have been smoothed to suppress Monte-Carlo noise. 
+  In the 2d file the trace hydrogen is stored in NM1, deuterium in NM2
+  and trace T in NM2. 
+  NM4 contains the carbon density being the majority impurity species. 
+
+  In the file JET_53212_0d.dat data is given at 20.8 secs. 
+
+  Values for kappa and delta in the 0d, 1d and 2d files are from the TRANSP
+  output derived from the boundary input definition provided by EFIT.
+  kappa = (Zmax-Zmin)/(Rmax-Rmin),   delta = (RGEO - min(R(zmin),R(Zmax)))/a
+  XPLIM and SEPLIM are given by EFIT.
+  as defined in the standard list of variables.  
+  
+  The TRANSP run gives a simulated W_dia 15% above the measured value
+  and a neutron emission rate OK at early peak, bit high later.
+
+ Publications:  
+    1) For general description of gas scans in JET ELMy H-mode 
+       plasmas see
+       R.Sartori, et al, EPS (2001)
+    2) For comparisons with other ITER-relevant JET ELMy plasmas see
+       J.Ongena, et al., Nuclear Fussion <44> (2004) 124
+    3) For a description of TRANSP analysis of JET ELMy H-mode plasmas see
+       R.V. Budny, et al, "Local transport in Joint European
+       Tokamak edge-localized, high confinement mode plasmas
+       with H, D, DT, and T isotopes", Physics of Plasmas <7>
+       (2000) 5038-5050.
+
+
+
+
+
+
+
